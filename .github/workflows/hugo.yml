@@ -102,3 +102,25 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+  # publish to wmoc2027 public site when being merged to main branch
+  publish:
+    if: ${{ github.ref_name == 'main' }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Push to server
+        uses: appleboy/ssh-action@v1
+        with:
+          host: ${{ secrets.HOST }}
+          username: ${{ secrets.USERNAME }}
+          key: ${{ secrets.KEY }}
+          script: cd ${{ secrets.PROJECT_PATH }} && git pull
+      - uses: actions/checkout@v2
+      - name: Build the docker-compose stack
+        run: docker compose up -d
+      - name: Sleep
+        uses: jakejarvis/wait-action@master
+        with:
+          time: '5s'
+      - name: Check running containers
+        run: docker ps
