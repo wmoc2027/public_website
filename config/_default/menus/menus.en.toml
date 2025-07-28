@@ -1,0 +1,49 @@
+[[main]]
+    identifier = "news"
+    name = "NEWS"
+    url = "/posts/"
+    weight = 10
+[[main]]
+    identifier = "competitions"
+    name = "COMPETITION"
+    url = "/competitions/"
+    weight = 20
+[[main]]
+    parent = "competitions"
+    indentifier = "bulletins"
+    name = "BULLETINS"
+    url = "/competitions/bulletins"
+    weight = 21
+[[main]]
+    parent = "competitions"
+    indentifier = "startlists"
+    name = "START LIST"
+    url = "/competitions/startlists"
+    weight = 22
+[[main]]
+    parent = "competitions"
+    indentifier = "results"
+    name = "RESULTS"
+    url = "/competitions/results"
+    weight = 23
+[[main]]
+    identifier = "race_days"
+    name = "RACE DAYS"
+    url = "/race_days/"
+    weight = 30
+[[main]]
+    indentifier = "PHOTO"
+    name = "PHOTO"
+    weight = 50
+[[main]]
+    parent = "PHOTO"
+    indentifier="preevent_day1"
+    name = "Pre event day 1"
+    url = "https://photos.app.goo.gl/j5LMnWZgFKxrxqY69"
+    weight = 51
+[[main]]
+    parent = "PHOTO"
+    indentifier="preevent_day2"
+    name = "Pre event day 2"
+    url = "https://photos.app.goo.gl/d9z6y3KYyaJGhyA29"
+    weight = 52

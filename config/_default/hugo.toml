@@ -1,0 +1,8 @@
+baseURL = 'https://wmoc2027.jp/'
+title = 'WMOC2027 Japan'
+#enableGitInfo = true
+[markup.goldmark.renderer]
+ unsafe = true
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'

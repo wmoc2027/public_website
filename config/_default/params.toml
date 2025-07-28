@@ -1,0 +1,37 @@
+
+[sections]
+    [sections.posts]
+        title = "News"
+        sort = "date"
+        reverse = false
+        nested = true
+        cols = 4
+        color = ""
+        padding = "0"
+        header = "none"
+        footer = "none"
+        orientation = "stacked"
+        style = "border-0 card-zoom"
+        homepage = 4
+        separator = true
+[navigation]
+    anchor = true
+    logo = "/image/wmoc2027_logo.png"
+    logo-height = 100
+    color = "body"
+    fixed = false
+    overlay = false
+    overlayMode = "dark"
+    horizontal = false
+    offset = "5.5rem"
+    search = true
+    searchModal = true
+    breadcrumb = true
+    toc = true
+    sidebar = true
+    size = "md"
+    [navigation.padding]
+        x = 4
+        y = 4
+[messages]
+    placement = "bottom-right"

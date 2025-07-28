@@ -1,0 +1,25 @@
+# This file holds all menu entries for the docs sidebar
+
+- title: エントリ開始
+  icon: fas rocket
+  color: primary
+  date: 2026-04-01
+  url: https://wmg2027.jp/games/entry.html
+  content:
+    WMG2027サイトにてエントリ受付開始
+
+- title: WMG2027開会式
+  icon: fas globe
+  color: success
+  date: 2027-05-14
+  url: https://wmg2027.jp/games/openingceremony.html
+  content:
+    開会式、WMG2027会場にて各競技の参加登録受付開始
+
+- title: WMG2027閉会式
+  icon: fas globe
+  color: success
+  date: 2027-05-31
+  url: https://wmg2027.jp/games/closingceremony.html
+  content:
+    WMG2027 閉会式

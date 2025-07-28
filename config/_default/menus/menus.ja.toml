@@ -1,0 +1,49 @@
+[[main]]
+    identifier = "news"
+    name = "新着"
+    url = "/posts/"
+    weight = 10
+[[main]]
+    identifier = "competitions"
+    name = "競技情報"
+    url = "/competitions"
+    weight = 20
+[[main]]
+    parent = "competitions"
+    indentifier = "bulletins"
+    name = "要項"
+    url = "/competitions/bulletins"
+    weight = 21
+[[main]]
+    parent = "competitions"
+    indentifier = "startlists"
+    name = "スタートリスト"
+    url = "/competitions/startlists"
+    weight = 22
+[[main]]
+    parent = "competitions"
+    indentifier = "resultlists"
+    name = "競技結果"
+    url = "/competitions/results"
+    weight = 23
+[[main]]
+    identifier = "race_days"
+    name = "競技日程"
+    url = "/race_days/"
+    weight = 30
+[[main]]
+    indentifier = "写真"
+    name = "写真"
+    weight = 50
+[[main]]
+    parent = "写真"
+    indentifier = "preeventday1"
+    name = "プレイベント1日目"
+    url = "https://photos.app.goo.gl/j5LMnWZgFKxrxqY69"
+    weight = 51
+[[main]]
+    parent = "写真"
+    indentifier = "preeventday2"
+    name = "プレイベント2日目"
+    url = "https://photos.app.goo.gl/d9z6y3KYyaJGhyA29"
+    weight = 52
