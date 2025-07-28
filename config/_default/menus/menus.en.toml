@@ -1,35 +1,35 @@
 [[main]]
     identifier = "news"
     name = "NEWS"
-    url = "/posts/"
+    url =  "posts/"
     weight = 10
 [[main]]
     identifier = "competitions"
     name = "COMPETITION"
-    url = "/competitions/"
+    url = "competitions/"
     weight = 20
 [[main]]
     parent = "competitions"
     indentifier = "bulletins"
     name = "BULLETINS"
-    url = "/competitions/bulletins"
+    url = "competitions/bulletins"
     weight = 21
 [[main]]
     parent = "competitions"
     indentifier = "startlists"
     name = "START LIST"
-    url = "/competitions/startlists"
+    url = "competitions/startlists"
     weight = 22
 [[main]]
     parent = "competitions"
     indentifier = "results"
     name = "RESULTS"
-    url = "/competitions/results"
+    url = "competitions/results"
     weight = 23
 [[main]]
     identifier = "race_days"
     name = "RACE DAYS"
-    url = "/race_days/"
+    url = "race_days/"
     weight = 30
 [[main]]
     indentifier = "PHOTO"
