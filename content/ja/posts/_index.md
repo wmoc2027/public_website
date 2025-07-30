@@ -1,6 +1,12 @@
 ---
-title: Introduction
-aliases:
-  - "20250721"
-layout: card
+content_blocks:
+  - _bookshop_name: hero
+    heading:
+      title: 新着情報
+      align: start
+      content: World Masters Orienteering Competitions 2027
+      width: 8
+    background:
+      backdrop: /image/2022_jwoc_relay1_susana_luzir.jpg
+    breadcrumb: true
 ---

@@ -1,11 +1,14 @@
 ---
-title: Bulletins and Programs
-aliases:
-type: card
 content_blocks:
   - _bookshop_name: hero
     heading:
-      title: Bulletins and Programs
+      title: BULLETINS
+      align: start
+      content: World Masters Orienteering Competitions 2027
+      width: 8
+    background:
+      backdrop: /image/2022_jwoc_relay1_susana_luzir.jpg
+    breadcrumb: true
 ---
 
 {{< accordion id="accordion-default" >}}
