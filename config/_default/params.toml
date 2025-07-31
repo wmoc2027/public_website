@@ -1,3 +1,9 @@
+[favicon]
+    logo = "image/favicon/apple-touch-icon.png"
+    sizes = [16, 32, 48]
+
+[head]
+    tagline = "Top"
 
 [sections]
     [sections.posts]
@@ -14,6 +20,7 @@
         style = "border-0 card-zoom"
         homepage = 4
         separator = true
+
 [navigation]
     anchor = true
     logo = "/image/wmoc2027_logo.png"
@@ -33,5 +40,94 @@
     [navigation.padding]
         x = 4
         y = 4
+
 [messages]
     placement = "bottom-right"
+
+[dam]
+    dimensions = "dimensions.yml"
+    videoCodecs = [
+        "webm/vp9",
+        "mp4/h265",
+        "mp4"
+    ]
+
+[[dam.providers]]
+    name = "Cloudinary"
+    pattern = "cloudinary"
+    adapter = "assets/adapters/cloudinary.html"
+
+[sharing]
+    enabled = true
+    sort = "weight"
+    reverse = false
+    webshare = true
+
+[[sharing.providers]]
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/sharing/share-offsite/?url={url}"
+    icon = "fab linkedin"
+    weight = 10
+
+[[sharing.providers]]
+    name = "Twitter"
+    url = "https://twitter.com/home?status={url}"
+    icon = "fab x-twitter"
+    weight = 20
+
+[[sharing.providers]]
+    name = "Facebook"
+    url = "https://www.facebook.com/sharer.php?u={url}"
+    icon = "fab facebook"
+    weight = 30
+
+[[sharing.providers]]
+    name = "WhatsApp"
+    url = "whatsapp://send?text={title}%20{url}"
+    icon = "fab whatsapp"
+    weight = 40
+
+[[sharing.providers]]
+    name = "email"
+    url = "{url}"
+    icon = "fas link"
+    weight = 50
+    clipboard = true
+
+[schema]
+    type = "Organization"
+    name = "Japan Orienteering Association"
+    locale = "en-US"
+    twitter = "https://twitter.com/jorienteering"
+    # linkedIn = ""
+    github = "https://github.com/wmoc2027/public_website"
+    section = "blog"
+    [schema.author]
+        name = "Japan Orienteering Assciation"
+        # twitter = "https://twitter.com/markdumay"
+        # linkedin = "https://www.linkedin.com/in/markdumay/"
+        github = "https://github.com/wmoc2027"
+    [schema.logo]
+        url = "imag/logo512x512.png"
+        width = 512
+        height = 512
+    [schema.image]
+        url = "imag/logo1280x640.png"
+        width = 1280
+        height = 640
+
+[opengraph]
+    images = ["logo.png"]
+    locale = "en_US"
+
+[links]
+    iof = "https://orienteering.sport/"
+    joa = "https://www.orienteering.or.jp/"
+    wmg2027 = "https://wmg2027.jp/"
+    hyogo_pref = "https://web.pref.hyogo.lg.jp/"
+
+# [modules.cookieyes]
+#     url = "https://cdn-cookieyes.com/client_data/a54b5553f349dd13bd225f8e/script.js"
+
+[modules.mermaid]
+    elk = true
