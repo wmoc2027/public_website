@@ -1,12 +1,41 @@
 [[main]]
-    identifier = "news"
-    name = "NEWS"
-    pageRef =  "/posts/"
+    identifier = "get_started"
+    name = "GET STARTED"
+    pageRef = "/get_started"
+    weight = 1
+[[main]]
+    parent = "get_started"
+    identifier = "schedule"
+    name = "SCHEDULE"
+    pageRef = "/get_started/schedule"
+    weight = 2
+[[main]]
+    parent = "get_started"
+    identifier = "entry"
+    name = "ENTRY"
+    pageRef = "/get_started/entry"
+    weight = 3
+[[main]]
+    identifier = "travel"
+    name = "TRAVEL"
+    pageRef = "/travel"
     weight = 10
+[[main]]
+    parent = "travel"
+    indentifier = "transportation"
+    name = "Transportation"
+    pageRef = "/travel/transportation"
+    weight = 11
+[[main]]
+    parent = "travel"
+    indentifier = "accommodation"
+    name = "Accommodation"
+    pageRef = "/travel/accommodation"
+    weight = 12
 [[main]]
     identifier = "competitions"
     name = "COMPETITION"
-    pageRef = "/competitions/"
+    pageRef = "/competitions"
     weight = 20
 [[main]]
     parent = "competitions"
@@ -26,11 +55,6 @@
     name = "RESULTS"
     pageRef = "/competitions/results"
     weight = 23
-[[main]]
-    identifier = "race_days"
-    name = "RACE DAYS"
-    pageRef = "/race_days/"
-    weight = 30
 [[main]]
     indentifier = "PHOTO"
     name = "PHOTO"

@@ -2,9 +2,10 @@
 content_blocks:
   - _bookshop_name: hero
     heading:
-      title: WMG2027 / WMOC2027 in Hyogo Japan
+      preheading: 参加方法
+      title: はじめかた
       align: start
-      content: World Masters Orienteering Championships 2027
+      content: Events
       width: 8
     background:
       backdrop: /image/2022_jwoc_relay1_susana_luzir.jpg
@@ -17,20 +18,10 @@ content_blocks:
     hide-empty: false
     header-style: none
     more:
-      title: Get more
-    padding: 0
-    limit: 3
-    class: border-0 card-zoom card-body-margin
-  - _bookshop_name: articles
-    input:
-      section: travel
-      reverse: true
-      sort: title
-    hide-empty: false
-    header-style: none
-    more:
-      title: Get more
+      title: More Guides
     padding: 0
     limit: 3
     class: border-0 card-zoom card-body-margin
 ---
+
+
