@@ -3,10 +3,18 @@
 - title: Entry start
   icon: fas rocket
   color: primary
-  date: 2026-04-01
+  date: 2026-04-10
   url: https://wmg2027.jp/games/entry.html
   content:
     Entry start at the WMG2027 sites
+
+- title: Entry duration
+  icon: fas rocket
+  color: primary
+  date: 2027-04-10
+  url: https://wmg2027.jp/games/entry.html
+  content:
+    WMG2027 entry period ends
 
 - title: WMG2027 event period begins
   icon: fas globe
@@ -15,6 +23,109 @@
   url: https://wmg2027.jp/games/openingceremony.html
   content:
     Registration period begins at WMG2027 venue
+
+- title: Sprint competition model event
+  icon: fas map
+  color: success
+  date: 2027-05-21
+  content:
+    <dl>
+      <dt>Time</dt>
+        <dd>10:00 - 15:00</dd>
+      <dt>Place</dt>
+        <dd>Kobe city</dd>
+    </dl>
+
+- title: Sprint competition qualifying
+  icon: fas person-running
+  color: success
+  date: 2027-05-22
+  content:
+    <dl>
+      <dt>Time</dt>
+        <dd>10:00 - 15:00</dd>
+      <dt>Place</dt>
+        <dd>Kobe city</dd>
+    </dl>
+
+- title: Sprint competition final
+  icon: fas person-running
+  color: success
+  date: 2027-05-23
+  url: https://wmg2027.jp/games/openingceremony.html
+  content:
+    <dl>
+    <dt>Time</dt>
+    <dd>10:00 - 15:00</dd>
+    <dt>Place</dt>
+    <dd>Port island / Minatojimanakamachi Chuo-ku, Kobe-shi, Hyogo-ken 650-0046</dd>
+    </dl>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4242.983316682665!2d135.2117142!3d34.6652513!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60008e1a83eb4989%3A0x1a658f13a7c869f!2z56We5oi444Od44O844OI44Ki44Kk44Op44Oz44OJ5biC5rCR5bqD5aC0IOS4reWkruW6g-WgtA!5e1!3m2!1sja!2sjp!4v1753890708814!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+- title: Forest model event
+  icon: fas map
+  color: success
+  date: 2027-05-25
+  content:
+    <dl>
+    <dt>Time</dt>
+    <dd>9:00 - 15:00</dd>
+    <dt>Place</dt>
+    <dd>Hachi-kita plateau / 580-1 Muraokaku Osasa Kami-cho, Mikata-gun, Hyogo-ken 667-1344</dd>
+    </dl>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d33640.35162855015!2d134.5279434!3d35.3993153!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35556353f24463e7%3A0x4d16e0841e4d2fa6!2z44OP44OB5YyX6auY5Y6f44K544Kt44O85aC0!5e1!3m2!1sja!2sjp!4v1753890851260!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+- title: Forest competition qualifying
+  icon: fas person-running
+  color: success
+  date: 2027-05-26
+  content:
+    <dl>
+      <dt>Time</dt>
+        <dd>10:00 - 15:00</dd>
+      <dt>Place</dt>
+        <dd>East Hachibuse plateau / Bekku,Yabu-shi, Hyogo-ken 667-1128</dd>
+    </dl>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d4205.807597900734!2d134.56607499999998!3d35.384671!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzXCsDIzJzA0LjgiTiAxMzTCsDMzJzU3LjkiRQ!5e1!3m2!1sja!2sjp!4v1753891096212!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+- title: Middle distance final / Awards ceremony
+  icon: fas person-running
+  color: success
+  date: 2027-05-27
+  content:
+    <dl>
+      <dt>Time</dt>
+        <dd>10:00 - 15:00</dd>
+      <dt>Place</dt>
+        <dd>Towano plateau / 791-1 Muraokaku Yado Kami-cho, Mikata-gun, Hyogo-ken 667-1336</dd>
+    </dl>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d67250.30776776135!2d134.5528772!3d35.4357231!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x355562f6ad4a6091%3A0x5270147edc4ef67a!2z5YW15bqr55yM56uL5YWO5ZKM6YeO6auY5Y6f6YeO5aSW5pWZ6IKy44K744Oz44K_44O8!5e1!3m2!1sja!2sjp!4v1753891277517!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+- title: Long distance competition model event
+  icon: fas map
+  color: success
+  date: 2027-05-28
+  content:
+    <dl>
+      <dt>Time</dt>
+        <dd>9:00 - 15:00</dd>
+      <dt>Place</dt>
+        <dd>Hachi plateau / Tando, Yabu-shi, Hyogo-ken 667-1124</dd>
+    </dl>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2102.9235820752806!2d134.533288!3d35.3839121!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35557b231a41fe87%3A0xbae5c049e26e9380!2z6aSK54i25biC6Zai5a6u5Zyw5Z-f5bGAIOODj-ODgemrmOWOn-S6pOa1geS_g-mAsuOCu-ODs-OCv-ODvA!5e1!3m2!1sja!2sjp!4v1753891390871!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+- title: Long distance competition final / Awards ceremony
+  icon: fas person-running
+  color: success
+  date: 2027-05-29
+  content:
+    <dl>
+      <dt>Time</dt>
+        <dd>9:00 - 15:00</dd>
+      <dt>Place</dt>
+        <dd>Mineyama plateau / 881-146 Kamioda Kamikawa-cho, Kanzaki-gun, Hyogo-ken 679-3125</dd>
+    </dl>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1054.7344320312598!2d134.6667097!3d35.1320461!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x355515293b3016b7%3A0x634589d58ea97677!2z5bOw5bGx6auY5Y6f!5e1!3m2!1sja!2sjp!4v1753891599212!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 - title: WMG2027 event period ends
   icon: fas globe
