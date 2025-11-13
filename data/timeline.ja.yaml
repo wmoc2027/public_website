@@ -4,19 +4,27 @@
   icon: fas rocket
   color: primary
   date: 2026-04-01
-  url: https://wmg2027.jp/games/entry.html
+  url: https://wmg2027.jp/entry/
   content:
-    WMG2027サイトにてエントリ受付開始
+    ( **予定** ) WMG2027サイトにてエントリ受付開始
 
-- title: エントリ受付終了
+- title: WMG2027 エントリ受付終了
   icon: fas ban
   color: primary
   date: 2027-04-10
-  url: https://wmg2027.jp/games/entry.html
+  url: https://wmg2027.jp/entry/guideline/
   content:
-    エントリ受付終了
+    ( **予定** ) エントリ受付終了
 
-- title: WMG2027開会式
+- title: オリエンテーリング競技受付終了
+  icon: fas rocket
+  color: primary
+  date: 2027-04-10
+  url: https://wmg2027.jp/competition/
+  content:
+    ( **予定** ) オリエンテーリング競技への登録受付期限
+
+- title: WMG2027開会式・チェックイン開始
   icon: fas globe
   color: success
   date: 2027-05-14
