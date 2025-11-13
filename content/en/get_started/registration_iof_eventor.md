@@ -1,60 +1,58 @@
 ---
-title: How to registrate to IOF Eventor
+title: How to register to IOF Eventor
 contents: https://eventor.orienteering.org/Register
 icon: fas pen-to-square
 ---
 
-1. Access following URL
+1. Access the following URL
 
-    [https://eventor.orienteering.org/Register](https://eventor.orienteering.org/Register)
+[https://eventor.orienteering.org/Register](https://eventor.orienteering.org/Register)
 
-2. ` I am an athlete participating in events` を選択し、あなたの国と所属クラブを選びます。無ければ `[select]` のままにして、`My club cannot be found in the list` にチェックを入れ、`Proceed` ボタンを押してください。
+2. Select `I am an athlete participating in events` and choose your country and club. If not, leave it as `[select]`, check `My club cannot be found in the list`, and press the `Proceed` button.
 
-    ![](iof_eventor/reg_start.png)
+![](iof_eventor/reg_start.png)
 
-3. 個人情報を入力し、個人情報取り扱いのポリシーに同意いただけましたら `I understand and accept the above conditions` にチェックを入れて `Next` ボタンそ押してください。
+3. Enter your personal information, and if you agree to the privacy policy, check `I understand and accept the above conditions` and press the `Next` button.
 
-    ![](iof_eventor/personal_data.png)
+![](iof_eventor/personal_data.png)
 
-    >[!note]
-    > Disciplinesの項目は、オリエンテーリング競技のいくつかある種目において、普段志向している競技分野を選択します。オリエンテーリング競技への参加が今回はじめてであれば、WMG2027のオリエンテーリング競技の種目である **FootO** を選択してください。 
-    > * FootO   走行によるオリエンテーリング競技
-    > * MTBO    マウンテンバイクによるオリエンテーリング競技
-    > * SkiO    スキーによるオリエンテーリング競技
-    > * TrailO  高度な読図技術に特化したオリエンテーリング競技
+>[!note]
+> In the Disciplines section, select the discipline you normally pursue from the various orienteering disciplines. If this is your first time participating in an orienteering competition, select **FootO**, the WMG2027 orienteering discipline.
+> * FootO: Running orienteering
+> * MTBO: Mountain bike orienteering
+> * SkiO: Ski orienteering
+> * TrailO: Orienteering specializing in advanced map reading skills
 
+4. If there are any duplicates from previous registrations, a confirmation screen for those candidates will appear. However, machine learning is used to determine similarity and list potential duplicates. Confirm that none of the above persons are yours, check `None of the above persons`, and click the `Next` button.
 
-4. 過去に登録された重複がある場合はその候補の確認画面が現れます。ただし機械学習による類似判定を行って重複候補をリストします。いずれも自分では無いことを確認し、`None of the above persons` にチェックを入れて `Next`ボタンを押します。
+![](iof_eventor/duplicate_confirmation.png)
 
-    ![](iof_eventor/duplicate_confirmation.png)
+5. Finally, a confirmation screen will appear. If there are no errors, click the `Save` button.
 
-5. 最後に確認画面が現れます。間違えなければ `Save` ボタンをおしてください。
+![](iof_eventor/confirmation.png)
 
-    ![](iof_eventor/confirmation.png)
+6. When the following screen appears, your registration is complete. Please confirm that you have received the email you registered.
 
-6. 以下の画面が現れたら完了です。登録したメールアドレスの受信を確認してください。
+![](iof_eventor/complete.png)
 
-    ![](iof_eventor/complete.png)
+7. Confirm that you have received the following email.
 
-7. 以下のメールが届いていることを確認します。
+```
+Hello **********,
 
+Welcome as a user of IOF Eventor, the International Orienteering Federation's
+central IT system, http://eventor.orienteering.org.
 
-    ```
-    Hello **********,
+Your username: +++++++++++
 
-    Welcome as a user of IOF Eventor, the International Orienteering Federation's
-    central IT system, http://eventor.orienteering.org.
+If you have forgotten your password, go to the login page in IOF Eventor, where
+you can request a new one.
 
-    Your username: +++++++++++
+Note that it is not possible to reply to this message!
 
-    If you have forgotten your password, go to the login page in IOF Eventor, where
-    you can request a new one.
+Yours sincerely,
+International Orienteering Federation
+```
 
-    Note that it is not possible to reply to this message!
-
-    Yours sincerely
-    International Orienteering Federation
-    ```
-
-    > [!warning]
-    > メール文中の `Your username: ` に続く文字`+++++++++++`部分が、登録したIOF IDです。エントリに必要ですので、ユーザ名、パスワード双方忘れないように大切に保管してください。
+> [!warning]
+> The part of the email message following `Your username: ` followed by `+++++++++++` is your registered IOF ID. Please keep both your username and password safe as they are required for entry.
