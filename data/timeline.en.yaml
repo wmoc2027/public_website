@@ -3,7 +3,7 @@
 - title: Entry start
   icon: fas rocket
   color: primary
-  date: 2026-04-10
+  date: 2026-03-01
   url: https://wmg2027.jp/games/entry.html
   content:
     Entry start at the WMG2027 sites
@@ -31,9 +31,9 @@
   content:
     <dl>
       <dt>Time</dt>
-        <dd>10:00 - 15:00</dd>
+        <dd>TBD</dd>
       <dt>Place</dt>
-        <dd>Kobe city</dd>
+        <dd>TBD</dd>
     </dl>
 
 - title: Sprint competition qualifying
@@ -43,9 +43,9 @@
   content:
     <dl>
       <dt>Time</dt>
-        <dd>10:00 - 15:00</dd>
+        <dd>TBD</dd>
       <dt>Place</dt>
-        <dd>Kobe city</dd>
+        <dd>TBD</dd>
     </dl>
 
 - title: Sprint competition final
@@ -56,11 +56,10 @@
   content:
     <dl>
     <dt>Time</dt>
-    <dd>10:00 - 15:00</dd>
+    <dd>TBD</dd>
     <dt>Place</dt>
-    <dd>Port island / Minatojimanakamachi Chuo-ku, Kobe-shi, Hyogo-ken 650-0046</dd>
+    <dd>TBD</dd>
     </dl>
-    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4242.983316682665!2d135.2117142!3d34.6652513!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60008e1a83eb4989%3A0x1a658f13a7c869f!2z56We5oi444Od44O844OI44Ki44Kk44Op44Oz44OJ5biC5rCR5bqD5aC0IOS4reWkruW6g-WgtA!5e1!3m2!1sja!2sjp!4v1753890708814!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 - title: Forest model event
   icon: fas map

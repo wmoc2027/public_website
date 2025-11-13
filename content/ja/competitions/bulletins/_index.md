@@ -13,12 +13,12 @@ content_blocks:
 
 {{< accordion id="accordion-default" >}}
   {{< accordion-item title="Bulletins" show="true" >}}
-    [Revision 0](bulletin_v0)
+    近日公開予定
   {{< /accordion-item >}}
   {{< accordion-item title="Sprint competition programs" >}}
-    To be published in the future.
+    公開までおまちください
   {{< /accordion-item >}}
   {{< accordion-item title="Forest competition programs" >}}
-    To be published in the future.
+    公開までおまちください
   {{< /accordion-item >}}
 {{< /accordion >}}
