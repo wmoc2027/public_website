@@ -13,7 +13,7 @@ content_blocks:
 
 {{< accordion id="accordion-default" >}}
   {{< accordion-item title="Bulletins" show="true" >}}
-    [Revision 0](bulletin_v0)
+    To be published in the future.
   {{< /accordion-item >}}
   {{< accordion-item title="Sprint competition programs" >}}
     To be published in the future.
