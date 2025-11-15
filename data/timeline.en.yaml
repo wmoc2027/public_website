@@ -72,7 +72,7 @@
 - title: Forest model event
   icon: fas map
   color: success
-  date: 2027-05-25
+  date: 2027-05-24
   content:
     <dl>
     <dt>Time</dt>
@@ -85,7 +85,7 @@
 - title: Forest competition qualifying
   icon: fas person-running
   color: success
-  date: 2027-05-26
+  date: 2027-05-25
   content:
     <dl>
       <dt>Time</dt>
@@ -98,7 +98,7 @@
 - title: Middle distance final / Awards ceremony
   icon: fas person-running
   color: success
-  date: 2027-05-27
+  date: 2027-05-26
   content:
     <dl>
       <dt>Time</dt>
@@ -108,10 +108,10 @@
     </dl>
     <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d67250.30776776135!2d134.5528772!3d35.4357231!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x355562f6ad4a6091%3A0x5270147edc4ef67a!2z5YW15bqr55yM56uL5YWO5ZKM6YeO6auY5Y6f6YeO5aSW5pWZ6IKy44K744Oz44K_44O8!5e1!3m2!1sja!2sjp!4v1753891277517!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-- title: Long distance competition model event
-  icon: fas map
+- title: Rest day / Training event
+  icon: fas bed
   color: success
-  date: 2027-05-28
+  date: 2027-05-27
   content:
     <dl>
       <dt>Time</dt>
@@ -121,10 +121,10 @@
     </dl>
     <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2102.9235820752806!2d134.533288!3d35.3839121!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35557b231a41fe87%3A0xbae5c049e26e9380!2z6aSK54i25biC6Zai5a6u5Zyw5Z-f5bGAIOODj-ODgemrmOWOn-S6pOa1geS_g-mAsuOCu-ODs-OCv-ODvA!5e1!3m2!1sja!2sjp!4v1753891390871!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-- title: Long distance competition final / Awards ceremony
+- title: Long distance competition final / Awards ceremony / WMOC closing ceremony
   icon: fas person-running
   color: success
-  date: 2027-05-29
+  date: 2027-05-28
   content:
     <dl>
       <dt>Time</dt>
