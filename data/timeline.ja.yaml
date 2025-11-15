@@ -59,7 +59,7 @@
 - title: フォレストモデルイベント
   icon: fas map
   color: success
-  date: 2027-05-25
+  date: 2027-05-24
   content:
     9:00 - 15:00 ハチ北高原 ( 〒667-1344 兵庫県美方郡香美町村岡区大笹580-1 )
     <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d33640.35162855015!2d134.5279434!3d35.3993153!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35556353f24463e7%3A0x4d16e0841e4d2fa6!2z44OP44OB5YyX6auY5Y6f44K544Kt44O85aC0!5e1!3m2!1sja!2sjp!4v1753890851260!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -67,7 +67,7 @@
 - title: フォレスト競技予選
   icon: fas person-running
   color: success
-  date: 2027-05-26
+  date: 2027-05-25
   content:
     10:00 - 15:00 東鉢伏高原 ( 〒667-1128 兵庫県養父市別宮 )
     <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d4205.807597900734!2d134.56607499999998!3d35.384671!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzXCsDIzJzA0LjgiTiAxMzTCsDMzJzU3LjkiRQ!5e1!3m2!1sja!2sjp!4v1753891096212!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -75,23 +75,23 @@
 - title: ミドルディスタンス競技決勝・表彰式
   icon: fas person-running
   color: success
-  date: 2027-05-27
+  date: 2027-05-26
   content:
     10:00 - 15:00 兎和野高原 ( 〒667-1336 兵庫県美方郡香美町村岡区宿791-1 )
     <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d67250.30776776135!2d134.5528772!3d35.4357231!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x355562f6ad4a6091%3A0x5270147edc4ef67a!2z5YW15bqr55yM56uL5YWO5ZKM6YeO6auY5Y6f6YeO5aSW5pWZ6IKy44K744Oz44K_44O8!5e1!3m2!1sja!2sjp!4v1753891277517!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-- title: ロングディスタンス競技モデルイベント
-  icon: fas map
+- title: 休息日・トレーニングイベント
+  icon: fas bed
   color: success
-  date: 2027-05-28
+  date: 2027-05-27
   content:
     9:00 - 15:00 ハチ高原 ( 〒667-1124 兵庫県養父市丹戸）
     <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2102.9235820752806!2d134.533288!3d35.3839121!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35557b231a41fe87%3A0xbae5c049e26e9380!2z6aSK54i25biC6Zai5a6u5Zyw5Z-f5bGAIOODj-ODgemrmOWOn-S6pOa1geS_g-mAsuOCu-ODs-OCv-ODvA!5e1!3m2!1sja!2sjp!4v1753891390871!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-- title: ロングディスタンス決勝・表彰式
+- title: ロングディスタンス決勝・表彰式・WMOC閉会式
   icon: fas person-running
   color: success
-  date: 2027-05-29
+  date: 2027-05-28
   content:
     9:30 - 15:00 峰山高原 ( 〒679-3125 兵庫県神崎郡神河町上小田881-146 )
     <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1054.7344320312598!2d134.6667097!3d35.1320461!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x355515293b3016b7%3A0x634589d58ea97677!2z5bOw5bGx6auY5Y6f!5e1!3m2!1sja!2sjp!4v1753891599212!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
