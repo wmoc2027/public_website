@@ -20,8 +20,9 @@ We are currently preparing. To begin spring 2026.
 
 [https://wmg2027.jp/games/entry.html](https://wmg2027.jp/games/entry.html)
 
-## IOF ID required
 
-You must include your IOF ID during the entry process.
-If you do not yet have an IOF ID, you will need to request this via the IOF Eventor website. Click here for instructions on [how to do this](../registration/registration_iof_eventor).
-If you have forgotten your IOF ID, please go to [the “Athletes” tab on the IOF Eventor website](https://eventor.orienteering.org/Athletes), and use the search function to look for your own name. If you already have an IOF ID, it will show in the search result.
+>[!tip]
+> ### IOF ID required
+> You must include your IOF ID during the entry process.
+> If you do not yet have an IOF ID, you will need to request this via the IOF Eventor website. Click here for instructions on [how to do this](../registration/registration_iof_eventor).
+> If you have forgotten your IOF ID, please go to [the “Athletes” tab on the IOF Eventor website](https://eventor.orienteering.org/Athletes), and use the search function to look for your own name. If you already have an IOF ID, it will show in the search result.
