@@ -1,6 +1,6 @@
 ---
 title: SCHEDULE
-description: Please see here for the schedule of each event.
+description: Event schedule of each event.
 icon: fas calendar-days
 content_blocks:
   - _bookshop_name: hero
