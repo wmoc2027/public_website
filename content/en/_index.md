@@ -10,6 +10,7 @@ content_blocks:
       backdrop: /image/2022_jwoc_relay1_susana_luzir.jpg
     breadcrumb: true
   - _bookshop_name: articles
+    body-style: full
     input:
       section: get_started
       reverse: true
