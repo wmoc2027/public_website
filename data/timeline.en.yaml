@@ -1,36 +1,29 @@
 # This file holds all menu entries for the docs sidebar
 
-- title: Entry start
+- title: Entry receipt begin
   icon: fas rocket
   color: primary
   date: 2026-03-01
   url: https://wmg2027.jp/entry/
   content:
-    ( **TBD** ) Entry start at the WMG2027 sites
+    ( **TBD** ) Entry receipt begin at the WMG 2027 sites
 
-- title: WMG Entry duration
-  icon: fas rocket
-  color: primary
-  date: 2027-02-28
-  url: https://wmg2027.jp/entry/guideline/
-  content:
-    ( **TBD** ) WMG2027 entry period ends
-
-- title: Orienteering receipt duration
+- title: Orienteering receipt period ends
   icon: fas rocket
   color: primary
   date: 2027-04-10
   url: https://wmg2027.jp/competition/
   content:
-    ( **TBD** ) Orienteering competition entry receipt period ends
+    ( **TBD** ) Orienteering competition entry receipt period ends<br>
+    <strong>The deadline is 11:59 PM Japan time</strong>
 
-- title: WMG2027 opening ceremony & check-in start
+- title: WMG 2027 opening ceremony & check-in begins
   icon: fas globe
   color: success
   date: 2027-05-14
   url: https://wmg2027.jp/games/openingceremony.html
   content:
-    Registration & check-in at WMG2027 venue
+    Registration & check-in at WMG 2027 venue
 
 - title: Sprint competition model event
   icon: fas map
@@ -134,10 +127,10 @@
     </dl>
     <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1054.7344320312598!2d134.6667097!3d35.1320461!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x355515293b3016b7%3A0x634589d58ea97677!2z5bOw5bGx6auY5Y6f!5e1!3m2!1sja!2sjp!4v1753891599212!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-- title: WMG2027 event period ends
+- title: WMG 2027 event period ends
   icon: fas globe
   color: success
   date: 2027-05-31
   url: https://wmg2027.jp/games/closingceremony.html
   content:
-    Registration period begins at WMG2027 venue
+    Registration period begins at WMG 2027 venue
