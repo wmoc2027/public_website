@@ -18,3 +18,27 @@
 
 
 ## 環境構築
+
+Windowsをお使いの場合、[このサイトを見てhugoをインストール](https://gohugo.io/installation/windows/)してください。たとえばWingetを使ってインストールされる場合は次の通りのコマンドをコマンドターミナルから入力いただければインストールされます。
+
+``` powershell
+> winget install Hugo.Hugo.Extended
+```
+
+## 編集から公開までの流れ
+
+1. 事前にGit/Githubのセットアップを行ってください。
+2. [wmoc2027/public_website](https://github.com/wmoc2027/public_website) から自分のリポジトリへフォークしてください
+3. フォークしたリポジトリのSettingsにアクセスし、`Pages` メニューから、Sources設定を `Github Actions`を選んでください。
+   ![](assets/2025-12-19-16-16-28.png)
+4. 自分のGithubのリポジトリからローカルにクローンしてください。
+5. VS Code等で編集を行いサイトを編集します。この際、次のコマンドでローカルPC上にhugoサーバが起動します。メッセージの最後に現れるURL（[http://localhost:1313/](http://localhost:1313/)）にブラウザでアクセスすることでプレビューを確認することができます。
+   ``` powershell
+   > hugo server -D
+      :
+     Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
+     Web Server is available at http://localhost:1313/ (bind address 127.0.0.1)
+     Press Ctrl+C to stop
+   ```
+   VS Codeで上書き保存するたびに自動的に再ビルドが行われ、プレビューに反映されます。編集した結果を確認した上で問題んかえれば適宜コミットを行ってください。
+6. ひととおりの編集が終了したら、コミットした変更点をGithub上のリポジトリに反映します。pushを行ってください。

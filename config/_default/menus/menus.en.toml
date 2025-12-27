@@ -56,6 +56,23 @@
     pageRef = "/competitions/results"
     weight = 23
 [[main]]
+    indentifier = "JOINT EVENTS"
+    name = "JOINT EVENTS"
+    pageRef = "/joint_events"
+    weight = 30
+[[main]]
+    parent = "JOINT EVENTS"
+    indentifier = "preevents"
+    name = "PRE EVENTS"
+    pageRef = "/joint_events/pre_events"
+    weight = 31
+[[main]]
+    parent = "JOINT EVENTS"
+    indentifier = "orienteeringinjapan"
+    name = "ORIENTEERING IN JAPAN"
+    pageRef = "/joint_events/orienteering_in_japan"
+    weight = 32
+[[main]]
     indentifier = "PHOTO"
     name = "PHOTO"
     weight = 50
