@@ -12,25 +12,44 @@
     - テキストの書式は Markdown という書式に則る必要がありますが、あまり複雑ではありません。事前に [このサイト](https://docs.growi.org/ja/guide/getting-started/markdown.html) 等をご覧いただき、書式に慣れておくと良いでしょう。とはいえ、ブラウザ上から直接編集する役割としては翻訳が主となりますので、書式等はあまり気にせず日本語個所を英語にするだけでよいでしょう。
 
 * Github上のプロジェクトファイルを自分のPCに一度ロードして編集する場合
-    少なくとも以下の環境をPC側にセットアップする必要があります。
+    - Githubアカウントを作成してください
     - Gitクライアント（ Git, TortoiseGit ）
     - テキストエディタ（ [vscode](https://winget.run/pkg/Microsoft/VisualStudioCode) が最も良い ）
 
 
-## 環境構築
+## 準備
 
-Windowsをお使いの場合、[このサイトを見てhugoをインストール](https://gohugo.io/installation/windows/)してください。たとえばWingetを使ってインストールされる場合は次の通りのコマンドをコマンドターミナルから入力いただければインストールされます。
+[このサイトを参照してhugoをインストール](https://gohugo.io/installation/)してください。
+
+たとえばWindowsの場合でwingetを使う場合、コマンドをコマンドターミナルから次のコマンドを入力すろｔインストールできます。
 
 ``` powershell
 > winget install Hugo.Hugo.Extended
 ```
 
-## 編集から公開までの流れ
+## 編集手順
+
+### 初回
+
+次の手順で、wmoc2027組織アカウントの `public_website` リポジトリをご自分のGithubアカウントにForkしてください。
 
 1. 事前にGit/Githubのセットアップを行ってください。
-2. [wmoc2027/public_website](https://github.com/wmoc2027/public_website) から自分のリポジトリへフォークしてください
+2. [wmoc2027/public_website](https://github.com/wmoc2027/public_website) から自分のリポジトリへフォークします。
 3. フォークしたリポジトリのSettingsにアクセスし、`Pages` メニューから、Sources設定を `Github Actions`を選んでください。
-   ![](assets/2025-12-19-16-16-28.png)
+   ![](assets/repository_doc/2025-12-19-16-16-28.png)
+4. Actionsタブへ移動し、次図のボタン操作を行います。
+   ![](assets/repository_doc/github_actions_manual_event.png)
+5. `Deploy Hygo site to Pages` のリンクをクリックします。
+   ![](assets/repository_doc/github_actions_progress_entry.png)
+6. Github上であなたのリポジトリ上にWEBサイトを構築するActionsが稼働しています。完了すると次図のとおりリンクが現れますので、クリックしてください。
+   ![](assets/repository_doc/github_pages_url.png)
+
+以後、このURLは、あなたが編集を行った結果をGithubリポジトリに反映するたびに自動的ビルドが行われ、インターネット上に公開されるページとなります。
+
+このページは公開用URLとは異なりあなた独自のリポジトリ上のURLですので、下書き用としてWMOC関係スタッフにレビューしてもらうためにご利用ください。
+
+### Github上のリポジトリを自分のPC上で編集する
+
 4. 自分のGithubのリポジトリからローカルにクローンしてください。
 5. VS Code等で編集を行いサイトを編集します。この際、次のコマンドでローカルPC上にhugoサーバが起動します。メッセージの最後に現れるURL（[http://localhost:1313/](http://localhost:1313/)）にブラウザでアクセスすることでプレビューを確認することができます。
    ``` powershell
@@ -42,3 +61,6 @@ Windowsをお使いの場合、[このサイトを見てhugoをインストー�
    ```
    VS Codeで上書き保存するたびに自動的に再ビルドが行われ、プレビューに反映されます。編集した結果を確認した上で問題んかえれば適宜コミットを行ってください。
 6. ひととおりの編集が終了したら、コミットした変更点をGithub上のリポジトリに反映します。pushを行ってください。
+7. Actionsタブを確認し、編集内容をプレビューしてください。またこの結果をWMOC関係者へ公開し、レビューを受けてください。
+8. 問題なければフォーク元へプルリクエストを送ってください。
+
