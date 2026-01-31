@@ -1,5 +1,5 @@
 [module]
-  replacements = 'github.io/public_website/ -> github.io/'
+  replacements = 'github.io/ -> github.io/public_website/'
   [[imports]]
     path = 'github.com/gethinode/hinode'
   [[imports]]
