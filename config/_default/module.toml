@@ -1,46 +1,44 @@
-[module]
-  replacements = 'github.io/ -> github.io/public_website/'
-  [[imports]]
-    path = 'github.com/gethinode/hinode'
-  [[imports]]
-    path = "github.com/cloudcannon/bookshop/hugo/v3"
-  [[imports]]
-    path = "github.com/gethinode/mod-bootstrap"
-  [[imports]]
-    path = "github.com/gethinode/mod-csp"
-  [[imports]]
-    path = "github.com/gethinode/mod-flexsearch/v2"
-  [[imports]]
-    path = "github.com/gethinode/mod-fontawesome/v2"
-  [[imports]]
-    path = "github.com/gethinode/mod-google-analytics"
-  [[imports]]
-    path = "github.com/gethinode/mod-katex"
-  [[imports]]
-    path = "github.com/gethinode/mod-leaflet"
-  [[imports]]
-    path = "github.com/gethinode/mod-lottie"
-  [[imports]]
-    path = "github.com/gethinode/mod-mermaid/v2"
-  [[imports]]
-    path = "github.com/gethinode/mod-simple-datatables/v2"
-  [[imports]]
-    path = "github.com/gethinode/mod-utils/v4"
-  [[mounts]]
-    source = "archetypes"
-    target = "archetypes"
-  [[mounts]]
-    source = "assets"
-    target = "assets"
-  [[mounts]]
-    source = "i18n"
-    target = "i18n"
-  [[mounts]]
-    source = "layouts"
-    target = "layouts"
-  [[mounts]]
-    source = "static"
-    target = "static"
-  [[mounts]]
-    source = "static/fonts"
-    target = "static/fonts"
+[[imports]]
+  path = 'github.com/gethinode/hinode'
+[[imports]]
+  path = "github.com/cloudcannon/bookshop/hugo/v3"
+[[imports]]
+  path = "github.com/gethinode/mod-bootstrap"
+[[imports]]
+  path = "github.com/gethinode/mod-csp"
+[[imports]]
+  path = "github.com/gethinode/mod-flexsearch/v2"
+[[imports]]
+  path = "github.com/gethinode/mod-fontawesome/v2"
+[[imports]]
+  path = "github.com/gethinode/mod-google-analytics"
+[[imports]]
+  path = "github.com/gethinode/mod-katex"
+[[imports]]
+  path = "github.com/gethinode/mod-leaflet"
+[[imports]]
+  path = "github.com/gethinode/mod-lottie"
+[[imports]]
+  path = "github.com/gethinode/mod-mermaid/v2"
+[[imports]]
+  path = "github.com/gethinode/mod-simple-datatables/v2"
+[[imports]]
+  path = "github.com/gethinode/mod-utils/v4"
+[[mounts]]
+  source = "archetypes"
+  target = "archetypes"
+[[mounts]]
+  source = "assets"
+  target = "assets"
+[[mounts]]
+  source = "i18n"
+  target = "i18n"
+[[mounts]]
+  source = "layouts"
+  target = "layouts"
+[[mounts]]
+  source = "static"
+  target = "static"
+[[mounts]]
+  source = "static/fonts"
+  target = "static/fonts"
