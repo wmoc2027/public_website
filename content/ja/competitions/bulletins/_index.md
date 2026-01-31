@@ -12,13 +12,23 @@ content_blocks:
 ---
 
 {{< accordion id="accordion-default" >}}
-  {{< accordion-item title="Bulletins" show="true" >}}
-    近日公開予定
+  {{< accordion-item title="要項" show="true" >}}
+* [要項1](/bulletins/Bulletin1V0131.pdf)
+* [旧地図](/bulletins/WMOC2027_oldmap.pdf)
   {{< /accordion-item >}}
-  {{< accordion-item title="Sprint competition programs" >}}
+  {{< accordion-item title="プログラム - スプリント" >}}
     公開までおまちください
   {{< /accordion-item >}}
-  {{< accordion-item title="Forest competition programs" >}}
+  {{< accordion-item title="プログラム - フォレスト" >}}
     公開までおまちください
   {{< /accordion-item >}}
 {{< /accordion >}}
+
+
+{{< carousel ratio="auto" class="col-sm-12 col-lg-8 mx-auto" >}}
+  {{< img src="old_map/kasumi_seaside.png" caption="香住海岸" >}}
+  {{< img src="old_map/towano_plateau.png" caption="兎和野高原" >}}
+  {{< img src="old_map/mineyama_plateau.png" caption="峰山高原" >}}
+  {{< img src="old_map/hachi_plateau1.png" caption="鉢高原 1" >}}
+  {{< img src="old_map/hachi_plateau2.png" caption="鉢高原 2" >}}
+{{< /carousel >}}
