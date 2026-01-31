@@ -3,7 +3,8 @@ disqusShortname = 'WMOC2027 Japan'
 title = 'World Masters Orienteering Championships 2027 Japan'
 copyright = "Copyright © 2025 - 2027 Japan Orienteering Association"
 enableGitInfo = true
-canonifyURLs = false
+canonifyURLs = true
+relativeURLs = true
 enableEmoji = true
 enableRobotsTXT = true
 enableInlineShortcodes = true
@@ -17,7 +18,6 @@ timeout = "180s"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
-relativeURLs = true
 
 [markup.goldmark.renderer]
  unsafe = true
