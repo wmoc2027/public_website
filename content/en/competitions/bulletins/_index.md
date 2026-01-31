@@ -13,7 +13,8 @@ content_blocks:
 
 {{< accordion id="accordion-default" >}}
   {{< accordion-item title="Bulletins" show="true" >}}
-    To be published in the future.
+* [Bulletin1](bulletins/Bulletin1V0131.pdf)
+* [Old map](bulletins/WMOC2027_oldmap.pdf)
   {{< /accordion-item >}}
   {{< accordion-item title="Sprint competition programs" >}}
     To be published in the future.
@@ -22,3 +23,12 @@ content_blocks:
     To be published in the future.
   {{< /accordion-item >}}
 {{< /accordion >}}
+
+
+{{< carousel ratio="auto" class="col-sm-12 col-lg-8 mx-auto" >}}
+  {{< img src="old_map/kasumi_seaside.png" caption="Kasumi seacoast" >}}
+  {{< img src="old_map/towano_plateau.png" caption="Towano plateau" >}}
+  {{< img src="old_map/mineyama_plateau.png" caption="Mineyama plateau" >}}
+  {{< img src="old_map/hachi_plateau1.png" caption="Hachi plateau 1" >}}
+  {{< img src="old_map/hachi_plateau2.png" caption="Hachi plateau 2" >}}
+{{< /carousel >}}
