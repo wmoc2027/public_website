@@ -26,8 +26,10 @@ content_blocks:
 
 
 {{< carousel ratio="auto" class="col-sm-12 col-lg-8 mx-auto" >}}
+  {{< img src="image/kasumi_seacoast.jpg" caption="香住海岸" >}}
   {{< img src="old_map/kasumi_seaside.png" caption="香住海岸" >}}
   {{< img src="old_map/towano_plateau.png" caption="兎和野高原" >}}
+  {{< img src="image/mineyama_plateau.jpg" caption="砥峰高原" >}}
   {{< img src="old_map/mineyama_plateau.png" caption="峰山高原" >}}
   {{< img src="old_map/hachi_plateau1.png" caption="鉢高原 1" >}}
   {{< img src="old_map/hachi_plateau2.png" caption="鉢高原 2" >}}

@@ -22,16 +22,22 @@
     weight = 10
 [[main]]
     parent = "travel"
+    indentifier = "sightseeing"
+    name = "Sightseeing"
+    pageRef = "/travel/sightseeing"
+    weight = 11
+[[main]]
+    parent = "travel"
     indentifier = "transportation"
     name = "Transportation"
     pageRef = "/travel/transportation"
-    weight = 11
+    weight = 12
 [[main]]
     parent = "travel"
     indentifier = "accommodation"
     name = "Accommodation"
     pageRef = "/travel/accommodation"
-    weight = 12
+    weight = 13
 [[main]]
     identifier = "competitions"
     name = "COMPETITION"
