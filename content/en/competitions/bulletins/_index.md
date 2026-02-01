@@ -1,4 +1,7 @@
 ---
+title: Bulletins and Programs
+description: Details of all competitions
+icon: fas person-chalkboard
 content_blocks:
   - _bookshop_name: hero
     heading:

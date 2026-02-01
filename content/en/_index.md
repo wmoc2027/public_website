@@ -11,27 +11,38 @@ content_blocks:
     breadcrumb: true
   - _bookshop_name: articles
     body-style: full
+    header-style: full
     input:
       section: get_started
       reverse: true
       sort: title
-    hide-empty: false
-    header-style: none
-    more:
-      title: Get more
+    hide-empty: true
     padding: 0
     limit: 3
+    cols: 3
     class: border-0 card-zoom card-body-margin
   - _bookshop_name: articles
+    body-style: full
+    header-style: full
+    input:
+      section: competitions
+      reverse: true
+      sort: title
+    hide-empty: true
+    padding: 0
+    limit: 3
+    cols: 3
+    class: border-0 card-zoom card-body-margin
+  - _bookshop_name: articles
+    body-style: full
+    header-style: full
     input:
       section: travel
       reverse: true
       sort: title
-    hide-empty: false
-    header-style: none
-    more:
-      title: Get more
+    hide-empty: true
     padding: 0
     limit: 3
+    cols: 3
     class: border-0 card-zoom card-body-margin
 ---

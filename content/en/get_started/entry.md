@@ -16,6 +16,8 @@ content_blocks:
 
 # WMG2027 competition entry
 
+WMOC 2027 is part of the Kansai World Masters Games 2027, and everyone wishing to take part in WMOC 2027 will enter by signing up to participate in the World Masters Games through its website. This will open for registration in March 2026.
+
 We are currently preparing. To begin spring 2026.
 
 >[!tip]

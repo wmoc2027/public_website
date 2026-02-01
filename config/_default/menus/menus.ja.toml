@@ -11,6 +11,12 @@
     weight = 3
 [[main]]
     parent = "get_started"
+    identifier = "checkin"
+    name = "チェックイン"
+    pageRef = "/get_started/checkin"
+    weight = 4
+[[main]]
+    parent = "get_started"
     identifier = "schedule"
     name = "イベントスケジュール"
     pageRef = "/get_started/schedule"
