@@ -2,6 +2,7 @@
 title: Pre-Event in Fuji
 author: Hisako Murakoshi
 description: Held on day 15, 16 May 2027 around Mt.Fuji
+id: fuji_2027_5
 thumbnail:
     url: /image/pre_fuji_title.jpg
     origin: Unsplash
