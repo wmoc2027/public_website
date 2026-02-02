@@ -1,4 +1,7 @@
 ---
+title: 競技結果（スプリント）
+description: 予選・決勝
+icon: fas square-poll-horizontal
 content_blocks:
   - _bookshop_name: hero
     heading:

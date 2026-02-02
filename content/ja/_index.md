@@ -10,27 +10,39 @@ content_blocks:
       backdrop: /image/2022_jwoc_relay1_susana_luzir.jpg
     breadcrumb: true
   - _bookshop_name: articles
+    body-style: full
     input:
       section: get_started
       reverse: true
       sort: title
-    hide-empty: false
-    header-style: none
-    more:
-      title: もっとみる
-    padding: 1
+    hide-empty: true
+    header-style: full
+    padding: 3
     limit: 3
+    cols: 3
     class: border-0 card-zoom card-body-margin
   - _bookshop_name: articles
+    body-style: full
+    input:
+      section: competitions
+      reverse: true
+      sort: title
+    hide-empty: true
+    header-style: full
+    padding: 3
+    limit: 3
+    cols: 3
+    class: border-0 card-zoom card-body-margin
+  - _bookshop_name: articles
+    body-style: full
     input:
       section: travel
       reverse: true
       sort: title
-    hide-empty: false
-    header-style: none
-    more:
-      title: もっとみる
-    padding: 1
+    hide-empty: true
+    header-style: full
+    padding: 3
     limit: 3
+    cols: 3
     class: border-0 card-zoom card-body-margin
 ---

@@ -1,4 +1,7 @@
 ---
+title: Start Lists
+description: Start lists for all competitions
+icon: fas table-list
 content_blocks:
   - _bookshop_name: hero
     heading:

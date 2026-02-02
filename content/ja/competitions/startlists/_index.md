@@ -1,4 +1,7 @@
 ---
+title: スタートリスト
+description: 各競技のスタートリスト情報
+icon: fas table-list
 content_blocks:
   - _bookshop_name: hero
     heading:

@@ -1,4 +1,7 @@
 ---
+title: Bulletins and Programs
+description: Details of all competitions
+icon: fas person-chalkboard
 content_blocks:
   - _bookshop_name: hero
     heading:
@@ -26,11 +29,8 @@ content_blocks:
 
 
 {{< carousel ratio="auto" class="col-sm-12 col-lg-8 mx-auto" >}}
+  {{< img src="image/himeji_castle.jpg" caption="Himeji castle" >}}
   {{< img src="image/kasumi_seacoast.jpg" caption="Kasumi seacoast" >}}
-  {{< img src="old_map/kasumi_seaside.png" caption="Kasumi seacoast" >}}
-  {{< img src="old_map/towano_plateau.png" caption="Towano plateau" >}}
+  {{< img src="image/bekkutanada.jpg" caption="Bekku Tanada and Mt.Hyonosen" >}}
   {{< img src="image/mineyama_plateau.jpg" caption="Tonomine plateau" >}}
-  {{< img src="old_map/mineyama_plateau.png" caption="Mineyama plateau" >}}
-  {{< img src="old_map/hachi_plateau1.png" caption="Hachi plateau 1" >}}
-  {{< img src="old_map/hachi_plateau2.png" caption="Hachi plateau 2" >}}
 {{< /carousel >}}

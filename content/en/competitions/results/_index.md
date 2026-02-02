@@ -1,4 +1,7 @@
 ---
+title: Result of all competition
+description: Sprint, Forest (Qualification / Final)
+icon: fas square-poll-horizontal
 content_blocks:
   - _bookshop_name: hero
     heading:

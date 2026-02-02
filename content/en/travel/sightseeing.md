@@ -1,7 +1,7 @@
 ---
 title: Sightseeing
-description: 
-icon: fas book-atlas
+description: Introducing the attractions around the competition area.
+icon: fas suitcase-rolling
 content_blocks:
   - _bookshop_name: hero
     heading:
