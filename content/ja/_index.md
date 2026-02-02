@@ -17,7 +17,7 @@ content_blocks:
       sort: title
     hide-empty: true
     header-style: full
-    padding: 0
+    padding: 3
     limit: 3
     cols: 3
     class: border-0 card-zoom card-body-margin
@@ -29,7 +29,7 @@ content_blocks:
       sort: title
     hide-empty: true
     header-style: full
-    padding: 0
+    padding: 3
     limit: 3
     cols: 3
     class: border-0 card-zoom card-body-margin
@@ -41,7 +41,7 @@ content_blocks:
       sort: title
     hide-empty: true
     header-style: full
-    padding: 0
+    padding: 3
     limit: 3
     cols: 3
     class: border-0 card-zoom card-body-margin
