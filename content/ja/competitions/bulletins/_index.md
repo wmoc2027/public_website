@@ -16,7 +16,8 @@ content_blocks:
 
 {{< accordion id="accordion-default" >}}
   {{< accordion-item title="要項" show="true" >}}
-* [要項1](bulletins/Bulletin1_ja.pdf)
+* [要項1 Rev. 1](bulletins/Bulletin1_ja.pdf)
+* [要項1 Rev. 2](bulletins/Bulletin1_2_ja.pdf)
 * [旧地図](bulletins/WMOC2027_oldmap.pdf)
   {{< /accordion-item >}}
   {{< accordion-item title="プログラム - スプリント" >}}

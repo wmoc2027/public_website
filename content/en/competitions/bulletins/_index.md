@@ -16,7 +16,8 @@ content_blocks:
 
 {{< accordion id="accordion-default" >}}
   {{< accordion-item title="Bulletins" show="true" >}}
-* [Bulletin1](bulletins/Bulletin1.pdf)
+* [Bulletin 1 Rev. 1](bulletins/Bulletin1.pdf)
+* [Bulletin 1 Rev. 2](bulletins/Bulletin1_2.pdf)
 * [Old map](bulletins/WMOC2027_oldmap.pdf)
   {{< /accordion-item >}}
   {{< accordion-item title="Sprint competition programs" >}}
