@@ -2,7 +2,7 @@ baseURL = 'https://wmoc2027.jp/'
 disqusShortname = 'WMOC2027 Japan'
 title = 'World Masters Orienteering Championships 2027 Japan'
 copyright = "Copyright © 2025 - 2027 Japan Orienteering Association"
-enableGitInfo = true
+enableGitInfo = false
 canonifyURLs = false
 relativeURLs = false
 enableEmoji = true
@@ -15,8 +15,8 @@ ignoreErrors = ["error-remote-getjson"]
 
 timeout = "180s"
 
-languageCode = "en-us"
-defaultContentLanguage = "en"
+#languageCode = "en-us"
+#defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
 
 [markup.goldmark.renderer]
@@ -53,17 +53,17 @@ defaultContentLanguageInSubdir = true
     privacyEnhanced = true
 
 [services]
-  [services.instagram]
-    disableInlineCSS = true
-  [services.x]
-    disableInlineCSS = true
+  #[services.instagram]
+  #  disableInlineCSS = true
+  #[services.x]
+  #  disableInlineCSS = true
   [services.googleAnalytics]
     ID = "G-T1JTPNEW3X"
 
-[minify]
-  [minify.tdewolff.js]
-    keepVarNames = true
-    precision = 0
-    version = 2022
-  [minify.tdewolff.html]
-    keepWhitespace = true
+#[minify]
+#  [minify.tdewolff.js]
+#    keepVarNames = true
+#    precision = 0
+#    version = 2022
+#  [minify.tdewolff.html]
+#    keepWhitespace = true

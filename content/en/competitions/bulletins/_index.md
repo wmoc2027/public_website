@@ -32,7 +32,8 @@ content_blocks:
 
 
 {{< carousel ratio="auto" class="col-sm-12 col-lg-8 mx-auto" >}}
-  {{< img src="image/kasumi_seacoast.jpg" caption="Kasumi seacoast" >}}
-  {{< img src="image/bekkutanada.jpg" caption="Bekku Tanada and Mt.Hyonosen" >}}
-  {{< img src="image/mineyama_plateau.jpg" caption="Tonomine plateau" >}}
+  {{< img src="image/kami_okami_park.jpg" caption="Okami-park / Kami town" >}}
+  {{< img src="image/bekkutanada.jpg" caption="Bekku Tanada and Mt.Hyonosen / Yabu town" >}}
+  {{< img src="image/kamikawa_tonomine_highland.jpg" caption="Tonomine highland / Kamikawa town" >}}
+  {{< img src="image/himeji_castle.jpg" caption="Himeji castle / Himeji city" >}}
 {{< /carousel >}}
