@@ -16,8 +16,11 @@ content_blocks:
 
 {{< accordion id="accordion-default" >}}
   {{< accordion-item title="Bulletins" show="true" >}}
-* [Bulletin1](bulletins/Bulletin1.pdf)
-* [Old map](bulletins/WMOC2027_oldmap.pdf)
+|Contents| Release date |
+|--|--|
+|[Bulletin 1 Rev. 1](bulletins/Bulletin1.pdf)|2 Feb 2026|
+|[Bulletin 1 Rev. 2](bulletins/Bulletin1_2.pdf)|26 Feb 2026| 
+|[Old map](bulletins/WMOC2027_oldmap.pdf)|2 Feb 2026|
   {{< /accordion-item >}}
   {{< accordion-item title="Sprint competition programs" >}}
     To be published in the future.
@@ -29,8 +32,8 @@ content_blocks:
 
 
 {{< carousel ratio="auto" class="col-sm-12 col-lg-8 mx-auto" >}}
-  {{< img src="image/himeji_castle.jpg" caption="Himeji castle" >}}
-  {{< img src="image/kasumi_seacoast.jpg" caption="Kasumi seacoast" >}}
-  {{< img src="image/bekkutanada.jpg" caption="Bekku Tanada and Mt.Hyonosen" >}}
-  {{< img src="image/mineyama_plateau.jpg" caption="Tonomine plateau" >}}
+  {{< img src="image/kami_okami_park.jpg" caption="Okami-park / Kami town" >}}
+  {{< img src="image/bekkutanada.jpg" caption="Bekku Tanada and Mt.Hyonosen / Yabu town" >}}
+  {{< img src="image/kamikawa_tonomine_highland.jpg" caption="Tonomine highland / Kamikawa town" >}}
+  {{< img src="image/himeji_castle.jpg" caption="Himeji castle / Himeji city" >}}
 {{< /carousel >}}

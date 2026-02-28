@@ -1,6 +1,6 @@
 ---
 title: ENTRY
-description: WMOC 2027 is part of the Kansai World Masters Games 2027, and everyone wishing to take part in WMOC 2027 will enter by signing up to participate in the World Masters Games through its website. This will open for registration in March 2026.
+description: WMOC 2027 is part of the Kansai World Masters Games 2027 (hereinafter WMG 2027), and everyone wishing to take part in WMOC 2027 have to be signined up to participate in the World Masters Games. Despite of the WMG 2027 will open for registration in March 2026, the registration system of WMOC 2027 is currently being built. Therefore registration of WMOC 2027 will be opend in around the summer of 2026.
 icon: fas door-open
 content_blocks:
   - _bookshop_name: hero
@@ -14,11 +14,13 @@ content_blocks:
     breadcrumb: true
 ---
 
+# Bulletins
+
+Bulletin 1 is updated as rev.2 at 26 Feb. 2026. {{< link "/competitions/bulletins">}} Please refer this page. {{< /link >}}
+
 # WMG2027 competition entry
 
-WMOC 2027 is part of the Kansai World Masters Games 2027, and everyone wishing to take part in WMOC 2027 will enter by signing up to participate in the World Masters Games through its website. This will open for registration in March 2026.
-
-We are currently preparing. To begin spring 2026.
+WMOC 2027 is part of the Kansai World Masters Games 2027, and everyone wishing to take part in WMOC 2027 will enter by signing up to participate in the World Masters Games through its website. This will open for registration at around end of summer in 2026.
 
 >[!tip]
 > ### IOF ID required

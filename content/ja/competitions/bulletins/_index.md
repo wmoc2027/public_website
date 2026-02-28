@@ -16,8 +16,11 @@ content_blocks:
 
 {{< accordion id="accordion-default" >}}
   {{< accordion-item title="要項" show="true" >}}
-* [要項1](bulletins/Bulletin1_ja.pdf)
-* [旧地図](bulletins/WMOC2027_oldmap.pdf)
+|コンテンツ| 公開日 |
+|--|--|
+|[要項1 Rev. 1](bulletins/Bulletin1_ja.pdf)|2026-02-02|
+|[要項1 Rev. 2](bulletins/Bulletin1_2_ja.pdf)|2026-02-26| 
+|[旧地図](bulletins/WMOC2027_oldmap.pdf)|2026-02-02|
   {{< /accordion-item >}}
   {{< accordion-item title="プログラム - スプリント" >}}
     公開までおまちください
@@ -27,10 +30,9 @@ content_blocks:
   {{< /accordion-item >}}
 {{< /accordion >}}
 
-
 {{< carousel ratio="auto" class="col-sm-12 col-lg-8 mx-auto" >}}
-  {{< img src="image/himeji_castle.jpg" caption="Himeji castle" >}}
-  {{< img src="image/kasumi_seacoast.jpg" caption="Kasumi seacoast" >}}
-  {{< img src="image/bekkutanada.jpg" caption="Bekku Tanada and Mt.Hyonosen" >}}
-  {{< img src="image/mineyama_plateau.jpg" caption="Tonomine plateau" >}}
+  {{< img src="image/kami_okami_park.jpg" caption="Okami-park / Kami town" >}}
+  {{< img src="image/bekkutanada.jpg" caption="Bekku Tanada and Mt.Hyonosen / Yabu town" >}}
+  {{< img src="image/kamikawa_tonomine_highland.jpg" caption="Tonomine highland / Kamikawa town" >}}
+  {{< img src="image/himeji_castle.jpg" caption="Himeji castle / Himeji city" >}}
 {{< /carousel >}}
