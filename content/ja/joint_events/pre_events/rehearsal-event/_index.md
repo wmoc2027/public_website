@@ -1,9 +1,9 @@
 ---
-title: 共催イベント
+title: リハーサルイベント
 content_blocks:
   - _bookshop_name: hero
     heading:
-      title: 共催イベント
+      title: リハーサルイベント
       align: start
       content: World Masters Orienteering Competitions 2027
       width: 8
@@ -12,7 +12,7 @@ content_blocks:
     breadcrumb: true
   - _bookshop_name: articles
     input:
-      section: joint_events
+      section: rehearsal-event
       reverse: true
       sort: title
     hide-empty: false
@@ -23,4 +23,3 @@ content_blocks:
     limit: 3
     class: border-0 card-zoom card-body-margin
 ---
-
