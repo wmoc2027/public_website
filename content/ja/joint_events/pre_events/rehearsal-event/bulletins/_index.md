@@ -18,7 +18,7 @@ content_blocks:
   {{< accordion-item title="要項" show="true" >}}
 |コンテンツ| 公開日 |
 |--|--|
-|要項1|2026-04-14|
+|[要項1](/reheasal_events/bulletin1_rehearsal_2day_event_ja.pdf)|2026-04-14|
   {{< /accordion-item >}}
   {{< accordion-item title="プログラム - スプリント" >}}
     公開までおまちください

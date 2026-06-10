@@ -22,7 +22,8 @@ timeout = "180s"
 
 [markup.goldmark.renderer]
  unsafe = true
-[caches]
+
+ [caches]
   [caches.images]
     dir = ':cacheDir/images'
 

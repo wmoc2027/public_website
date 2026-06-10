@@ -18,7 +18,7 @@ content_blocks:
   {{< accordion-item title="Bulletins" show="true" >}}
 |Contents| Release date |
 |--|--|
-|Bulletin 1|14 Apr. 2026|
+|[Bulletin 1](/reheasal_events/bulletin1_rehearsal_2day_event_en.pdf)|14 Apr. 2026|
   {{< /accordion-item >}}
   {{< accordion-item title="Sprint competition programs" >}}
     To be published in the future.
@@ -27,4 +27,3 @@ content_blocks:
     To be published in the future.
   {{< /accordion-item >}}
 {{< /accordion >}}
-
