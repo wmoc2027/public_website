@@ -9,3 +9,16 @@ weight = 1
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
+
+  [params.head]
+    tagline = "WMOC2027"
+  [params.social]
+    title = "Contact"
+    caption = "Please contact us whenever any question."
+  [params.footer]
+    # license = "Licensed under Creative Commons (<a href='https://creativecommons.org/licenses/by-nc-sa/4.0/' class='link-secondary' target='_blank' rel='noopener noreferrer nofollow'>CC BY-NC-SA 4.0</a>)."
+    # toml-docs-end lang-param
+  [params.sections.blog]
+    reference = "More Posts"
+  [params.sections.projects]
+    reference = "More Projects"

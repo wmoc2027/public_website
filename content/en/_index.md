@@ -14,15 +14,14 @@ content_blocks:
 {{< accordion id="accordion-flush" class="accordion-flush" >}}
   {{< accordion-item title="LATEST NEWS" show="true" >}}
 
-{{< badge title="26 Feb 2026" >}}
-
-* [WMOC 2027 Entry is delayed until this summer](get_started/entry)
-* [Bulletin 1.2 released](competitions/bulletins)
-
+{{< badge title="15 Apr. 2026" >}}
+* [Rehearsal event announsment](joint_events/pre_events/rehearsal-event)
 {{< /accordion-item >}}
 {{< accordion-item title="ARCHIVED NEWS" show="false" >}}
-
-{{< badge title="12 Dec 2025" >}}
+{{< badge title="26 Feb 2026">}}
+* [WMOC 2027 Entry is delayed until this summer](get_started/entry)
+* [Bulletin 1.2 released](competitions/bulletins)
+{{< badge title="12 Dec 2025">}}
 * wmoc2027 website is established.
 
 {{< /accordion-item >}}

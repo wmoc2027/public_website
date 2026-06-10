@@ -1,5 +1,5 @@
 ---
-title: JOINT EVENTS
+title: 共催イベント
 content_blocks:
   - _bookshop_name: hero
     heading:
