@@ -63,17 +63,17 @@
     weight = 23
 [[main]]
     indentifier = "jointevents"
-    name = "共催イベント"
+    name = "関連イベント"
     pageRef = "/joint_events"
     weight = 30
 [[main]]
-    parent = "共催イベント"
-    indentifier = "preevents"
-    name = "PRE EVENTS"
-    pageRef = "/joint_events/pre_events"
+    parent = "関連イベント"
+    indentifier = "rehearsal_event"
+    name = "リハーサル大会"
+    pageRef = "/joint_events/pre_events/rehearsal-event"
     weight = 31
 [[main]]
-    parent = "共催イベント"
+    parent = "関連イベント"
     indentifier = "orienteeringinjapan"
     name = "ORIENTEERING IN JAPAN"
     pageRef = "/joint_events/orienteering_in_japan"
@@ -82,15 +82,3 @@
     indentifier = "写真"
     name = "写真"
     weight = 50
-[[main]]
-    parent = "写真"
-    indentifier = "preeventday1"
-    name = "プレイベント1日目"
-    url = "https://photos.app.goo.gl/j5LMnWZgFKxrxqY69"
-    weight = 51
-[[main]]
-    parent = "写真"
-    indentifier = "preeventday2"
-    name = "プレイベント2日目"
-    url = "https://photos.app.goo.gl/d9z6y3KYyaJGhyA29"
-    weight = 52

@@ -68,9 +68,9 @@
     weight = 30
 [[main]]
     parent = "JOINT EVENTS"
-    indentifier = "preevents"
-    name = "PRE EVENTS"
-    pageRef = "/joint_events/pre_events"
+    indentifier = "rehearsal_event"
+    name = "REHEARSAL EVENT (July 11 2026)"
+    pageRef = "/joint_events/pre_events/rehearsal-event"
     weight = 31
 [[main]]
     parent = "JOINT EVENTS"
@@ -82,15 +82,3 @@
     indentifier = "PHOTO"
     name = "PHOTO"
     weight = 50
-[[main]]
-    parent = "PHOTO"
-    indentifier="preevent_day1"
-    name = "Pre event day 1"
-    url = "https://photos.app.goo.gl/j5LMnWZgFKxrxqY69"
-    weight = 51
-[[main]]
-    parent = "PHOTO"
-    indentifier="preevent_day2"
-    name = "Pre event day 2"
-    url = "https://photos.app.goo.gl/d9z6y3KYyaJGhyA29"
-    weight = 52
