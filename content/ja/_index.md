@@ -14,13 +14,20 @@ content_blocks:
 {{< accordion id="accordion-flush" class="accordion-flush" >}}
   {{< accordion-item title="LATEST NEWS" show="true" >}}
 
-{{< badge title="2026-02-26" >}}
+
+{{< badge title="2026-04-15" >}}
+
+* [リハーサルイベントページ](/joint_events/pre_events/rehearsal-event)追加
+
+{{< /accordion-item >}}
+{{< accordion-item title="ARCHIVED NEWS" show="false" >}}
+
+{{< badge title="26 Feb 2026" >}}
+
 
 * [WMOC 2027 のエントリーは今年の夏まで延期となります](get_started/entry)
 * [要項 1.2 をリリースしました](competitions/bulletins)
 
-{{< /accordion-item >}}
-{{< accordion-item title="ARCHIVED NEWS" show="false" >}}
 
 {{< badge title="12 Dec 2025" >}}
 * wmoc2027 公式WEBサイトを解説
