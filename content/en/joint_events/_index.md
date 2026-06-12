@@ -1,9 +1,9 @@
 ---
-title: JOINT EVENT
+title: SIDE EVENTS
 content_blocks:
   - _bookshop_name: hero
     heading:
-      title: JOINT EVENT
+      title: SIDE EVENTS
       align: start
       content: World Masters Orienteering Competitions 2027
       width: 8
