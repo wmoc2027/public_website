@@ -1,9 +1,9 @@
 ---
-title: 共催イベント
+title: 関連イベント
 content_blocks:
   - _bookshop_name: hero
     heading:
-      title: 共催イベント
+      title: 関連イベント
       align: start
       content: World Masters Orienteering Competitions 2027
       width: 8
