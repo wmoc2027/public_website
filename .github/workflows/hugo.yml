@@ -48,6 +48,8 @@ jobs:
         uses: actions/configure-pages@v5
       - name: Install Node.js dependencies
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
+      - name: Install PostCSS
+        run: npm install -g postcss postcss-cli autoprefixer
       - name: Build with Hugo
         if: github.repository == 'wmoc2027/public_website'
         env:
