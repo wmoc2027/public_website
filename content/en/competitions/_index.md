@@ -11,12 +11,12 @@ content_blocks:
     breadcrumb: true
   - _bookshop_name: articles
     body-style: full
-    header-style: full
+    header_style: full
     input:
       section: competitions
       reverse: true
       sort: title
-    hide-empty: true
+    hide_empty: true
     padding: 0
     limit: 9
     class: border-0 card-zoom card-body-margin

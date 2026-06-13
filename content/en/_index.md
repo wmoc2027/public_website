@@ -9,6 +9,27 @@ content_blocks:
     background:
       backdrop: /image/2022_jwoc_relay1_susana_luzir.jpg
     breadcrumb: true
+  - _bookshop_name: articles
+    heading:
+        title: Our activities
+        align: start
+    input:
+        section: posts
+        reverse: false
+        sort: date
+    hide_empty: false
+    header_style: none
+    body_style: title
+    orientation: horizontal
+    more:
+        title: More posts
+    padding: 3
+    limit: 3
+    background:
+        color: body-tertiary
+        subtle: false
+    class: card-zoom card-body-margin
+    justify: start
 ---
 
 {{< accordion id="accordion-flush" class="accordion-flush" >}}

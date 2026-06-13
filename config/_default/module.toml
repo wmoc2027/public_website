@@ -1,5 +1,7 @@
 [[imports]]
-  path = 'github.com/gethinode/hinode'
+  path = "github.com/gethinode/mod-blocks"
+[[imports]]
+  path = "github.com/gethinode/hinode/v2"
 [[imports]]
   path = "github.com/cloudcannon/bookshop/hugo/v3"
 [[imports]]
@@ -7,9 +9,9 @@
 [[imports]]
   path = "github.com/gethinode/mod-csp"
 [[imports]]
-  path = "github.com/gethinode/mod-flexsearch/v2"
+  path = "github.com/gethinode/mod-flexsearch/v4"
 [[imports]]
-  path = "github.com/gethinode/mod-fontawesome/v2"
+  path = "github.com/gethinode/mod-fontawesome/v5"
 [[imports]]
   path = "github.com/gethinode/mod-google-analytics"
 [[imports]]
@@ -19,7 +21,7 @@
 [[imports]]
   path = "github.com/gethinode/mod-lottie"
 [[imports]]
-  path = "github.com/gethinode/mod-mermaid/v2"
+  path = "github.com/gethinode/mod-mermaid/v4"
 [[imports]]
   path = "github.com/gethinode/mod-simple-datatables/v2"
 [[imports]]

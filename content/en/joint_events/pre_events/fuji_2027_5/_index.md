@@ -21,8 +21,8 @@ content_blocks:
       section: fuji_2027_5
       reverse: true
       sort: title
-    hide-empty: false
-    header-style: none
+    hide_empty: false
+    header_style: none
     more:
       title: More Guides
     padding: 0
