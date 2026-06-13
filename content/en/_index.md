@@ -35,8 +35,11 @@ content_blocks:
 {{< accordion id="accordion-flush" class="accordion-flush" >}}
   {{< accordion-item title="LATEST NEWS" show="true" >}}
 
-{{< badge title="15 Apr. 2026" >}}
+{{< badge title="16 June. 2026" >}}
+
 * [Rehearsal event announsment](joint_events/pre_events/rehearsal-event)
+* Updated [Old map](bulletins/WMOC2027_oldmap.pdf)
+
 {{< /accordion-item >}}
 {{< accordion-item title="ARCHIVED NEWS" show="false" >}}
 {{< badge title="26 Feb 2026">}}

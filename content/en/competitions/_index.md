@@ -10,7 +10,7 @@ content_blocks:
       backdrop: /image/2022_jwoc_relay1_susana_luzir.jpg
     breadcrumb: true
   - _bookshop_name: articles
-    body-style: full
+    body_style: full
     header_style: full
     input:
       section: competitions
