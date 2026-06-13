@@ -15,8 +15,8 @@ content_blocks:
       section: joint_events
       reverse: true
       sort: title
-    hide-empty: false
-    header-style: none
+    hide_empty: false
+    header_style: none
     more:
       title: More Guides
     padding: 0

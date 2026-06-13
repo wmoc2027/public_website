@@ -1,3 +1,7 @@
+[main.build]
+  transpiler = "dartsass"
+  silenceDeprecations = true
+
 [favicon]
     logo = "image/wmoc2027_logo.png"
     sizes = [16, 32, 48]

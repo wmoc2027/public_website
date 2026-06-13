@@ -15,8 +15,8 @@ content_blocks:
       section: travel
       reverse: true
       sort: title
-    hide-empty: true
-    header-style: none
+    hide_empty: true
+    header_style: none
     more:
       title: さらに見る
     padding: 0
