@@ -20,7 +20,7 @@ content_blocks:
     more:
       title: More Guides
     padding: 0
-    limit: 3
+    limit: 6
     class: border-0 card-zoom card-body-margin
 ---
 
@@ -70,5 +70,4 @@ WMG2027関西 香美町実行委員会
 * 2日目
 
   [https://japan-o-entry.com/event/view/2533](https://japan-o-entry.com/event/view/2533)
-
 
