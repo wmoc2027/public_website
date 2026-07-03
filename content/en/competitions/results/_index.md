@@ -16,7 +16,7 @@ content_blocks:
 
 {{< accordion id="accordion-default" >}}
   {{< accordion-item title="Sprint" show="true" >}}
-    [Qualifying](sprint-q)
+  　To be published in the future.
   {{< /accordion-item >}}
   {{< accordion-item title="Forrest - middle" >}}
     To be published in the future.
