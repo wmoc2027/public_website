@@ -14,12 +14,6 @@ content_blocks:
     breadcrumb: true
 ---
 
-
-{{< accordion id="accordion-default" >}}
-  {{< accordion-item title="スプリント" show="true" >}}
-    To be published in the future.
-  {{< /accordion-item >}}
-  {{< accordion-item title="フォレスト" >}}
-    To be published in the future.
-  {{< /accordion-item >}}
-{{< /accordion >}}
+<object data="/reheasal_events/startlist.pdf" width="100%" height="1100px" type="application/pdf">
+  <embed src="/reheasal_events/startlist.pdf" width="100%" height="1100px" type="application/pdf" />
+</object>
