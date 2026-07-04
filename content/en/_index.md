@@ -33,15 +33,21 @@ content_blocks:
 ---
 
 {{< accordion id="accordion-flush" class="accordion-flush" >}}
-  {{< accordion-item title="LATEST NEWS" show="true" >}}
+{{< accordion-item title="LATEST NEWS" show="true" >}}
+
+{{< badge title="4 July. 2026" >}}
+
+* Add [programs](joint_events/pre_events/rehearsal-event/bulletins/) and [start list](joint_events/pre_events/rehearsal-event/startlists/) for rehearsal race event.
+
+{{< /accordion-item >}}
+
+{{< accordion-item title="ARCHIVED NEWS" show="false" >}}
 
 {{< badge title="16 June. 2026" >}}
 
 * [Rehearsal event announsment](joint_events/pre_events/rehearsal-event)
 * Updated [Old map](bulletins/WMOC2027_oldmap.pdf)
 
-{{< /accordion-item >}}
-{{< accordion-item title="ARCHIVED NEWS" show="false" >}}
 {{< badge title="26 Feb 2026">}}
 * [WMOC 2027 Entry is delayed until this summer](get_started/entry)
 * [Bulletin 1.2 released](competitions/bulletins)
