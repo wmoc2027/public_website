@@ -15,11 +15,10 @@ content_blocks:
 ---
 
 
-{{< accordion id="accordion-default" >}}
-  {{< accordion-item title="Sprint" show="true" >}}
-    To be published in the future.
-  {{< /accordion-item >}}
-  {{< accordion-item title="Forrest" >}}
-    To be published in the future.
-  {{< /accordion-item >}}
-{{< /accordion >}}
+|Date|Publication|Link|
+|--|--|--|
+|2026-07-03|Start list|{{< button color="primary" href="/reheasal_events/startlist.pdf" button-size="md" >}}Download{{< /button >}}|
+
+<object data="/reheasal_events/startlist.pdf" width="100%" height="1100px" type="application/pdf">
+  <embed src="/reheasal_events/startlist.pdf" width="100%" height="1100px" type="application/pdf" />
+</object>

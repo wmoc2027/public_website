@@ -57,3 +57,8 @@ timeout = "180s"
 [services]
   [services.googleAnalytics]
     ID = "G-T1JTPNEW3X"
+
+[security]
+  [security.http]
+    methods = ['(?i)GET|POST|HEAD']
+    urls = ['.*']

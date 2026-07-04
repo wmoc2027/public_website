@@ -14,16 +14,12 @@ content_blocks:
     breadcrumb: true
 ---
 
-{{< accordion id="accordion-default" >}}
-  {{< accordion-item title="要項" show="true" >}}
-|コンテンツ| 公開日 |
-|--|--|
-|[要項1](/reheasal_events/bulletin1_rehearsal_2day_event_ja.pdf)|2026-04-14|
-  {{< /accordion-item >}}
-  {{< accordion-item title="プログラム - スプリント" >}}
-    公開までおまちください
-  {{< /accordion-item >}}
-  {{< accordion-item title="プログラム - フォレスト" >}}
-    公開までおまちください
-  {{< /accordion-item >}}
-{{< /accordion >}}
+|日付|発行物|リンク|
+|--|--|--|
+|2026-04-14|要項|{{< button color="primary" href="/reheasal_events/bulletin1_rehearsal_2day_event_ja.pdf" button-size="md" >}}ダウンロード{{< /button >}}|
+|2026-07-03|プログラム|{{< button color="primary" href="/reheasal_events/Rehearsal-2Days_Program.pdf" button-size="md" >}}ダウンロード{{< /button >}}|
+
+
+<object data="/reheasal_events/Rehearsal-2Days_Program.pdf" width="100%" height="1100px" type="application/pdf">
+  <embed src="/reheasal_events/Rehearsal-2Days_Program.pdf" width="100%" height="1100px" type="application/pdf" />
+</object>

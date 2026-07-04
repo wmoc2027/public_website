@@ -15,11 +15,10 @@ content_blocks:
 ---
 
 
-{{< accordion id="accordion-default" >}}
-  {{< accordion-item title="スプリント" show="true" >}}
-    To be published in the future.
-  {{< /accordion-item >}}
-  {{< accordion-item title="フォレスト" >}}
-    To be published in the future.
-  {{< /accordion-item >}}
-{{< /accordion >}}
+|日付|発行物|リンク|
+|--|--|--|
+|2026-07-03|スタートリスト|{{< button color="primary" href="/reheasal_events/startlist.pdf" button-size="md" >}}ダウンロード{{< /button >}}|
+
+<object data="/reheasal_events/startlist.pdf" width="100%" height="1100px" type="application/pdf">
+  <embed src="/reheasal_events/startlist.pdf" width="100%" height="1100px" type="application/pdf" />
+</object>
