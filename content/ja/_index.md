@@ -35,6 +35,14 @@ content_blocks:
 {{< accordion id="accordion-flush" class="accordion-flush" >}}
   {{< accordion-item title="LATEST NEWS" show="true" >}}
 
+{{< badge title="2026-07-04" >}}
+
+* リハーサルイベントの [プログラム](joint_events/pre_events/rehearsal-event/bulletins/) と [スタートリスト](joint_events/pre_events/rehearsal-event/startlists/) を公開しました。
+
+
+{{< /accordion-item >}}
+{{< accordion-item title="ARCHIVED NEWS" show="false" >}}
+
 {{< badge title="2026-06-29" >}}
 
 * [リハーサルイベント交通のご案内を追加](/joint_events/pre_events/rehearsal-event/transportation)
@@ -44,8 +52,6 @@ content_blocks:
 * [旧地図](bulletins/WMOC2027_oldmap.pdf)を更新しました。
 * [リハーサルイベントページ](/joint_events/pre_events/rehearsal-event)追加
 
-{{< /accordion-item >}}
-{{< accordion-item title="ARCHIVED NEWS" show="false" >}}
 
 {{< badge title="26 Feb 2026" >}}
 
