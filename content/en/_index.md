@@ -35,6 +35,11 @@ content_blocks:
 {{< accordion id="accordion-flush" class="accordion-flush" >}}
 {{< accordion-item title="LATEST NEWS" show="true" >}}
 
+{{< badge title="6 July. 2026" >}}
+
+* [The program for rehearsal event](joint_events/pre_events/rehearsal-event/bulletins/) has been updated to an English version. 
+
+
 {{< badge title="4 July. 2026" >}}
 
 * Add [programs](joint_events/pre_events/rehearsal-event/bulletins/) and [start list](joint_events/pre_events/rehearsal-event/startlists/) for rehearsal race event.
