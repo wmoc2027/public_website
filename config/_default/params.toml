@@ -74,6 +74,7 @@
         "https:",                        # Allow all HTTPS sources
         "wmoc2027.jp",                   # Specific domain
         "*.googletagmanager.com",
+        "www.dokori.net",
         "player.cloudinary.com",
         "www.youtube-nocookie.com",
         "www.youtube.com",
