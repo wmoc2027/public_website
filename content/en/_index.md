@@ -35,6 +35,11 @@ content_blocks:
 {{< accordion id="accordion-flush" class="accordion-flush" >}}
 {{< accordion-item title="LATEST NEWS" show="true" >}}
 
+{{< badge title="7 July. 2026" >}}
+
+* [The program for rehearsal event](joint_events/pre_events/rehearsal-event/bulletins/) has been updated again due to replace figures to English version. 
+
+
 {{< badge title="6 July. 2026" >}}
 
 * [The program for rehearsal event](joint_events/pre_events/rehearsal-event/bulletins/) has been updated to an English version. 
