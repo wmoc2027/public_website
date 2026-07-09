@@ -81,4 +81,5 @@
 [[main]]
     indentifier = "PHOTO"
     name = "PHOTO"
+    pageRef = "/photos"
     weight = 50

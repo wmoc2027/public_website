@@ -81,4 +81,5 @@
 [[main]]
     indentifier = "写真"
     name = "写真"
+    pageRef = "/photos"
     weight = 50
