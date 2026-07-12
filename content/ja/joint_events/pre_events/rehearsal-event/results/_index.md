@@ -14,11 +14,7 @@ content_blocks:
     breadcrumb: true
 ---
 
-{{< accordion id="accordion-default" >}}
-  {{< accordion-item title="スプリント" show="true" >}}
-    To be published in the future.
-  {{< /accordion-item >}}
-  {{< accordion-item title="フォレスト" >}}
-    To be published in the future.
-  {{< /accordion-item >}}
-{{< /accordion >}}
+
+<object data="https://mulka2.com/lapcenter/index.jsp?user=138" width="100%" height="1100px" type="text/html">
+  <embed src="https://mulka2.com/lapcenter/index.jsp?user=138" width="100%" height="1100px" type="text/html" />
+</object>
