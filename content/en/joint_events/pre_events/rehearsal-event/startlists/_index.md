@@ -15,10 +15,16 @@ content_blocks:
 ---
 
 
-|Date|Publication|Link|
-|--|--|--|
-|2026-07-03|Start list|{{< button color="primary" href="/reheasal_events/startlist.pdf" button-size="md" >}}Download{{< /button >}}|
+|Date|Publication|Revision|Link|Contents|
+|--|--|--|--|--|
+|July 3 2026|Start list|1|{{< button color="primary" href="/reheasal_events/startlist.pdf" button-size="md" >}}Download{{< /button >}}|1st edition|
+|July 10 2026|Start list|3|{{< button color="primary" href="/reheasal_events/startlist_v3.pdf" button-size="md" >}}Download{{< /button >}}|Change SI number for rent|
 
-<object data="/reheasal_events/startlist.pdf" width="100%" height="1100px" type="application/pdf">
-  <embed src="/reheasal_events/startlist.pdf" width="100%" height="1100px" type="application/pdf" />
+
+<object data="https://mulka2.com/lapcenter/lapcombat2/index.jsp?event=9899&file=1" width="100%" height="1100px" type="text/html">
+  <embed src="https://mulka2.com/lapcenter/lapcombat2/index.jsp?event=9899&file=1" width="100%" height="1100px" type="text/html" />
+</object>
+
+<object data="https://mulka2.com/lapcenter/lapcombat2/index.jsp?event=9895&file=1" width="100%" height="1100px" type="text/html">
+  <embed src="https://mulka2.com/lapcenter/lapcombat2/index.jsp?event=9895&file=1" width="100%" height="1100px" type="text/html" />
 </object>

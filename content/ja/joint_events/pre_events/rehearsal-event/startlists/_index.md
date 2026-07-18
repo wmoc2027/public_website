@@ -15,10 +15,18 @@ content_blocks:
 ---
 
 
-|日付|発行物|リンク|
-|--|--|--|
-|2026-07-03|スタートリスト|{{< button color="primary" href="/reheasal_events/startlist.pdf" button-size="md" >}}ダウンロード{{< /button >}}|
+|日付|発行物|版数|リンク|摘要|
+|--|--|--|--|--|
+|2026-07-03|スタートリスト|第1版|{{< button color="primary" href="/reheasal_events/startlist.pdf" button-size="md" >}}ダウンロード{{< /button >}}|初版発行|
+|2026-07-10|スタートリスト|第3版|{{< button color="primary" href="/reheasal_events/startlist_v3.pdf" button-size="md" >}}ダウンロード{{< /button >}}|レンタルSI番号の割り当てが変わりました。|
 
-<object data="/reheasal_events/startlist.pdf" width="100%" height="1100px" type="application/pdf">
-  <embed src="/reheasal_events/startlist.pdf" width="100%" height="1100px" type="application/pdf" />
+
+<object data="https://mulka2.com/lapcenter/lapcombat2/index.jsp?event=9899&file=1" width="100%" height="1100px" type="text/html">
+  <embed src="https://mulka2.com/lapcenter/lapcombat2/index.jsp?event=9899&file=1" width="100%" height="1100px" type="text/html" />
 </object>
+
+
+<object data="https://mulka2.com/lapcenter/lapcombat2/index.jsp?event=9895&file=1" width="100%" height="1100px" type="text/html">
+  <embed src="https://mulka2.com/lapcenter/lapcombat2/index.jsp?event=9895&file=1" width="100%" height="1100px" type="text/html" />
+</object>
+
