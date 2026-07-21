@@ -1,4 +1,8 @@
 ---
+title: Top
+author: wmoc2027 organizing committee
+thumbnail:
+    url: image/wmoc2027_logo.png
 content_blocks:
   - _bookshop_name: hero
     heading:
