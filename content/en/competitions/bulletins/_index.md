@@ -14,13 +14,16 @@ content_blocks:
     breadcrumb: true
 ---
 
+
 {{< accordion id="accordion-default" >}}
   {{< accordion-item title="Bulletins" show="true" >}}
-|Contents| Release date |
-|--|--|
-|[Bulletin 1 Rev. 1](bulletins/Bulletin1.pdf)|2 Feb 2026|
-|[Bulletin 1 Rev. 2](bulletins/Bulletin1_2.pdf)|26 Feb 2026| 
-|[Old map](bulletins/WMOC2027_oldmap.pdf)|2 Feb 2026|
+
+* [Bulletin 1 Ver.3](/bulletins/Bulletin1_Ver.3_July2026.pdf) (21 Jul. 2026) {{< badge title="ENTRY" color="success" >}} Entry for WMOC2027 opens on **July 25 at 10:00 AM** (JST : UTC + 9 hours). For details, please refer "Perticipate" chapter (Page 14) 
+  > [!important]
+  > If you wish to participate in any other WMG event besides orienteering, please register for that event first, and then register for the orienteering competition. (See Bulletin section 16.4 page. 16)
+
+* [Old map](/bulletins/WMOC2027_oldmap.pdf) (2 Feb 2026)
+
   {{< /accordion-item >}}
   {{< accordion-item title="Sprint competition programs" >}}
     To be published in the future.
@@ -31,9 +34,6 @@ content_blocks:
 {{< /accordion >}}
 
 
-{{< carousel ratio="auto" class="col-sm-12 col-lg-8 mx-auto" >}}
-  {{< img src="image/kami_okami_park.jpg" caption="Okami-park / Kami town" >}}
-  {{< img src="image/bekkutanada.jpg" caption="Bekku Tanada and Mt.Hyonosen / Yabu town" >}}
-  {{< img src="image/kamikawa_tonomine_highland.jpg" caption="Tonomine highland / Kamikawa town" >}}
-  {{< img src="image/himeji_castle.jpg" caption="Himeji castle / Himeji city" >}}
-{{< /carousel >}}
+<object data="/bulletins/Bulletin1_Ver.3_July2026.pdf" width="100%" height="1100px" type="application/pdf">
+  <embed src="/bulletins/Bulletin1_Ver.3_July2026.pdf" width="100%" height="1100px" type="application/pdf" />
+</object>

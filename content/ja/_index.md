@@ -1,4 +1,6 @@
 ---
+title: Top
+author: wmoc2027 organizing committee
 content_blocks:
   - _bookshop_name: hero
     heading:
@@ -35,13 +37,20 @@ content_blocks:
 {{< accordion id="accordion-flush" class="accordion-flush" >}}
   {{< accordion-item title="LATEST NEWS" show="true" >}}
 
-{{< badge title="2026-07-04" >}}
+{{< badge title="2026-07-21" >}}
 
-* リハーサルイベントの [プログラム](joint_events/pre_events/rehearsal-event/bulletins/) と [スタートリスト](joint_events/pre_events/rehearsal-event/startlists/) を公開しました。
+* [要項 1 Ver.3](/bulletins/Bulletin1_Ver.3_July2026.pdf)を発行しました。 {{< badge title="ENTRY" color="success" >}}おまたせしました。 **7月 25日 午前 10:00（日本時間）** よりエントリー受付を開始します。 詳しくは "Perticipate" の章 (14ページ) をご覧ください。 
+  > [!important]
+  > ワールドマスターズゲームスの他の競技に併せて参加される方は、先にオリエンテーリング以外の競技のエントリーを済ませてください。(詳細は要項の 16.4 をご覧ください。)
 
 
 {{< /accordion-item >}}
 {{< accordion-item title="ARCHIVED NEWS" show="false" >}}
+
+{{< badge title="2026-07-04" >}}
+
+* リハーサルイベントの [プログラム](joint_events/pre_events/rehearsal-event/bulletins/) と [スタートリスト](joint_events/pre_events/rehearsal-event/startlists/) を公開しました。
+
 
 {{< badge title="2026-06-29" >}}
 

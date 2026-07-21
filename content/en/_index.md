@@ -1,4 +1,6 @@
 ---
+title: Top
+author: wmoc2027 organizing committee
 content_blocks:
   - _bookshop_name: hero
     heading:
@@ -35,6 +37,19 @@ content_blocks:
 {{< accordion id="accordion-flush" class="accordion-flush" >}}
 {{< accordion-item title="LATEST NEWS" show="true" >}}
 
+
+{{< badge title="21 July. 2026" >}}
+
+* [Bulletin 1 Ver.3](/bulletins/Bulletin1_Ver.3_July2026.pdf) has been released. {{< badge title="ENTRY" color="success" >}} Entry for WMOC2027 opens on **July 25 at 10:00 AM** (JST : UTC + 9 hours). For details, please refer "Perticipate" chapter (Page 14).
+
+  > [!important]
+  > If you wish to participate in any other WMG event besides orienteering, please register for that event first, and then register for the orienteering competition. (See Bulletin section 16.4)
+
+
+{{< /accordion-item >}}
+
+{{< accordion-item title="ARCHIVED NEWS" show="false" >}}
+
 {{< badge title="7 July. 2026" >}}
 
 * [The program for rehearsal event](joint_events/pre_events/rehearsal-event/bulletins/) has been updated again due to replace figures to English version. 
@@ -48,10 +63,6 @@ content_blocks:
 {{< badge title="4 July. 2026" >}}
 
 * Add [programs](joint_events/pre_events/rehearsal-event/bulletins/) and [start list](joint_events/pre_events/rehearsal-event/startlists/) for rehearsal race event.
-
-{{< /accordion-item >}}
-
-{{< accordion-item title="ARCHIVED NEWS" show="false" >}}
 
 {{< badge title="16 June. 2026" >}}
 
