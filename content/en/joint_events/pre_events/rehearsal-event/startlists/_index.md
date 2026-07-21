@@ -1,6 +1,7 @@
 ---
 title: Start Lists
 description: Start lists for all competitions
+thumbnail: image/wmoc2027_ogp.png
 icon: fas table-list
 content_blocks:
   - _bookshop_name: hero

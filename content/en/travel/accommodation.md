@@ -2,6 +2,7 @@
 title: Accommodations
 description: Please click here for information on accommodation near each competition venue.
 icon: fas bed
+thumbnail: image/wmoc2027_ogp.png
 content_blocks:
   - _bookshop_name: hero
     heading:

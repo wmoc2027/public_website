@@ -2,6 +2,7 @@
 title: 競技結果（スプリント）
 description: 予選・決勝
 icon: fas square-poll-horizontal
+thumbnail: image/wmoc2027_ogp.png
 content_blocks:
   - _bookshop_name: hero
     heading:

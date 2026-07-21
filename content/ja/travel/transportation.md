@@ -2,6 +2,7 @@
 title: アクセス
 description: 各競技会場への交通はこちらをご覧ください。
 icon: fas train
+thumbnail: image/wmoc2027_ogp.png
 content_blocks:
   - _bookshop_name: hero
     heading:

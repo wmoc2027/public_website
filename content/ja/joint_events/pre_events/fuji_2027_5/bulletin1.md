@@ -1,5 +1,6 @@
 ---
 title: 要項1
+thumbnail: image/wmoc2027_ogp.png
 icon: fas file-lines
 author: 村越久子
 ---
