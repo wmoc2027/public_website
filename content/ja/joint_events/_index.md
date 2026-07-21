@@ -1,5 +1,6 @@
 ---
 title: 関連イベント
+thumbnail: image/wmoc2027_ogp.png
 content_blocks:
   - _bookshop_name: hero
     heading:

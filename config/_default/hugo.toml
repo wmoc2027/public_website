@@ -30,9 +30,6 @@ timeout = "180s"
 [build]
   writeStats = false
 
-[params]
-  thumbnail = "image/wmoc2027_ogp.png"
-
 [taxonomies]
   tag = 'tags'
 

@@ -1,4 +1,5 @@
 ---
+thumbnail: image/wmoc2027_ogp.png
 title: ORIENTEERING IN JAPAN
 content_blocks:
   - _bookshop_name: hero

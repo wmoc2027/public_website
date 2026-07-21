@@ -1,5 +1,6 @@
 ---
 title: Bulletin 1
+thumbnail: image/wmoc2027_ogp.png
 icon: fas file-lines
 author: Hisako Murakoshi
 ---

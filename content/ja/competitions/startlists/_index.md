@@ -2,6 +2,7 @@
 title: スタートリスト
 description: 各競技のスタートリスト情報
 icon: fas table-list
+thumbnail: image/wmoc2027_ogp.png
 content_blocks:
   - _bookshop_name: hero
     heading:
