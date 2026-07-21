@@ -1,15 +1,15 @@
 ---
 title: 香住海岸
-author: Aiba
-date: 2026-06-12
+author: Tokuriki
+date: 2026-07-21
 thumbnail: 
     url: /photo_images/1.kasumi/kasumi4.png
-    author: Aiba
+    author: Tokuriki
 content_blocks:
   - _bookshop_name: cards
     heading:
       title: 香住海岸
-      content: Photo album
+      content: 
       align: start
     background:
       color: body-tertiary
