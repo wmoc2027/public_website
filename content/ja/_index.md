@@ -38,6 +38,11 @@ content_blocks:
 {{< accordion id="accordion-flush" class="accordion-flush" >}}
   {{< accordion-item title="LATEST NEWS" show="true" >}}
 
+{{< badge title="2026-07-23" >}}
+
+* [Facebook の公式ページ](https://www.facebook.com/WMOC2027Japan)を開設しました。ページ下部のリンクからもアクセスできます。
+
+
 {{< badge title="2026-07-21" >}}
 
 * [要項 1 Ver.3](/bulletins/Bulletin1_Ver.3_July2026.pdf)を発行しました。 {{< badge title="ENTRY" color="success" >}}おまたせしました。 **7月 25日 午前 10:00（日本時間）** よりエントリー受付を開始します。 詳しくは "Perticipate" の章 (14ページ) をご覧ください。 

@@ -38,6 +38,9 @@ content_blocks:
 {{< accordion id="accordion-flush" class="accordion-flush" >}}
 {{< accordion-item title="LATEST NEWS" show="true" >}}
 
+{{< badge title="23 July. 2026" >}}
+
+* We have launched an [official Facebook page](https://www.facebook.com/WMOC2027Japan). You can access it via the link at the bottom of the page.
 
 {{< badge title="21 July. 2026" >}}
 
