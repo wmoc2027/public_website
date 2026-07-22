@@ -21,7 +21,7 @@ content_blocks:
     more:
         title: More Album
     padding: 0
-    limit: 3
+    limit: 10
     background:
         color: body-tertiary
         subtle: false
