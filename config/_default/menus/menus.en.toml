@@ -1,3 +1,13 @@
+[[social]]
+    name = "email"
+    url = "mailto:contact@wmoc2027.jp"
+    pre = "fas envelope"
+    weight = 1
+[[social]]
+    name = "Facebook"
+    url = "https://www.facebook.com/WMOC2027Japan"
+    pre = "fab facebook" 
+    weight = 2
 [[main]]
     identifier = "get_started"
     name = "GET STARTED"
@@ -83,3 +93,5 @@
     name = "PHOTO"
     pageRef = "/photos"
     weight = 50
+
+
