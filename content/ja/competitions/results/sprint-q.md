@@ -1,5 +1,4 @@
 ---
-thumbnail: image/wmoc2027_ogp.png
 title: WMOC2027 スプリント予選 競技結果
 modules: ["simple-datatables"]
 ---

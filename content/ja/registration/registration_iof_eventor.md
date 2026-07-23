@@ -2,7 +2,6 @@
 title: IOFイベンタへの登録方法
 contents: 手順書
 icon: fas pen-to-square
-thumbnail: image/wmoc2027_ogp.png
 ---
 
 1. 次のURLへアクセス

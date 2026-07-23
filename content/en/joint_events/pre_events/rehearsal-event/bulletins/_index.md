@@ -1,6 +1,5 @@
 ---
 title: Bulletins and Programs
-thumbnail: image/wmoc2027_ogp.png
 description: Details of all competitions
 icon: fas person-chalkboard
 content_blocks:
