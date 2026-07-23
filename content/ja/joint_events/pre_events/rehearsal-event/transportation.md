@@ -2,7 +2,6 @@
 title: リハーサル大会交通案内
 description: リハーサル大会2日間のすべての移動案内です。 
 icon: fas train
-thumbnail: image/wmoc2027_ogp.png
 ---
 
 [印刷版をダウンロード](reheasal_events/Transportation.pdf)

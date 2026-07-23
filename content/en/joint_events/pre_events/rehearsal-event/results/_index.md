@@ -1,6 +1,5 @@
 ---
 title: Result of all competition
-thumbnail: image/wmoc2027_ogp.png
 description: Sprint, Forest (Qualification / Final)
 icon: fas square-poll-horizontal
 content_blocks:

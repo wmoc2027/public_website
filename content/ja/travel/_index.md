@@ -1,6 +1,5 @@
 ---
-thumbnail: image/wmoc2027_ogp.png
-content_blocks:
+zcontent_blocks:
   - _bookshop_name: hero
     heading:
       title: 交通と宿泊

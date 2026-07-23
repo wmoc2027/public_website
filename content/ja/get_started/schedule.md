@@ -2,7 +2,6 @@
 title: スケジュール
 description: 各イベントスケジュールはこちらをご覧ください。
 icon: fas calendar-days
-thumbnail: image/wmoc2027_ogp.png
 content_blocks:
   - _bookshop_name: hero
     heading:

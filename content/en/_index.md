@@ -1,7 +1,6 @@
 ---
 title: Top
 author: wmoc2027 organizing committee
-thumbnail: image/wmoc2027_ogp.png
 content_blocks:
   - _bookshop_name: hero
     heading:
@@ -87,10 +86,10 @@ content_blocks:
 Event schedules for each events.
     {{< /card >}}
     {{< card path="get_started/entry" header-style="publication" title="ENTRY" icon="fas door-open" >}}
-{{< badge title="Updated: 26 Feb 2026" >}} Registration of WMOC 2027 will be opend in around the summer of 2026.
+{{< badge title="Updated: 21 Jul. 2026" >}} Registration of WMOC 2027 will be opend on Jul. 25 2026 at 10:00 AM JST.
     {{< /card >}}
     {{< card path="competitions/bulletins" header-style="publication" title="Bulletins and programs" icon="fas person-chalkboard" >}}
-{{< badge title="Published: 26 Feb 2026" >}} Bulletins 1.2
+{{< badge title="Published: 21 Jul. 2026" >}} Bulletins 1.3
     {{< /card >}}
     {{< card path="competitions/startlists" header-style="publication" title="STRAT LISTS" icon="fas table-list" >}}
 Start lists for all competitions

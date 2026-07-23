@@ -1,7 +1,6 @@
 ---
 title: WMOC2027 Start list - Sprint Qualified
 modules: ["simple-datatables"]
-thumbnail: image/wmoc2027_ogp.png
 ---
 
 {{< nav tab-type="tabs" id="m21e" >}}

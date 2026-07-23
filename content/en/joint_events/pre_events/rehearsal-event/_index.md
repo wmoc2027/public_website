@@ -2,7 +2,6 @@
 title: REHEARSAL EVENT
 author: Hyogo Orienteering Association
 modules: ["leaflet", "simple-datatables"]
-thumbnail: image/wmoc2027_ogp.png
 content_blocks:
   - _bookshop_name: hero
     heading:

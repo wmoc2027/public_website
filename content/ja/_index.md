@@ -1,7 +1,6 @@
 ---
 title: Top
 author: wmoc2027 organizing committee
-thumbnail: image/wmoc2027_ogp.png
 content_blocks:
   - _bookshop_name: hero
     heading:
@@ -86,10 +85,10 @@ content_blocks:
 Event schedules for each events.
     {{< /card >}}
     {{< card path="get_started/entry" header-style="publication" title="エントリー" icon="fas door-open" >}}
-{{< badge title="2026-02-26 更新" >}} WMOC 2027 のエントリーは2026年の夏から開始予定です
+{{< badge title="2026-07-21 更新" >}} WMOC 2027 エントリー受付が2026年7月25日午前10時から開始決定！
     {{< /card >}}
     {{< card path="competitions/bulletins" header-style="publication" title="要項とプログラム" icon="fas person-chalkboard" >}}
-{{< badge title="2026-02-26 更新" >}} 実施要項 1.2 をリリースしました
+{{< badge title="2026-07-21 更新" >}} 実施要項 1.3 をリリースしました
     {{< /card >}}
     {{< card path="competitions/startlists" header-style="publication" title="スタートリスト" icon="fas table-list" >}}
 スタートリストはこちらから

@@ -2,7 +2,6 @@
 title: SCHEDULE
 description: Event schedule of each event.
 icon: fas calendar-days
-thumbnail: image/wmoc2027_ogp.png
 content_blocks:
   - _bookshop_name: hero
     heading:

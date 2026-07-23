@@ -1,7 +1,6 @@
 ---
 title: WMOC2027 スプリント予選 スタートリスト
 modules: ["simple-datatables"]
-thumbnail: image/wmoc2027_ogp.png
 ---
 
 {{< nav tab-type="tabs" id="m21e" >}}
