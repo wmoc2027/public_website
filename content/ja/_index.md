@@ -45,9 +45,6 @@ content_blocks:
 {{< badge title="2026-07-21" >}}
 
 * [要項 1 Ver.3](/bulletins/Bulletin1_Ver.3_July2026.pdf)を発行しました。 {{< badge title="ENTRY" color="success" >}}おまたせしました。 **7月 25日 午前 10:00（日本時間）** よりエントリー受付を開始します。 詳しくは "Perticipate" の章 (14ページ) をご覧ください。 
-  > [!important]
-  > ワールドマスターズゲームスの他の競技に併せて参加される方は、先にオリエンテーリング以外の競技のエントリーを済ませてください。(詳細は要項の 16.4 をご覧ください。)
-
 
 {{< /accordion-item >}}
 {{< accordion-item title="ARCHIVED NEWS" show="false" >}}
