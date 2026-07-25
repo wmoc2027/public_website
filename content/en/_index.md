@@ -37,13 +37,14 @@ content_blocks:
 {{< accordion id="accordion-flush" class="accordion-flush" >}}
 {{< accordion-item title="LATEST NEWS" show="true" >}}
 
+{{< badge title="25 July. 2026" >}}
+
+* [Bulletin 1 Ver.3]({{% ref "competitions/bulletins" %}}) has been released. {{< badge title="ENTRY" color="success" >}} Entry for WMOC2027 opened on **July 25 at 10:00 AM** (JST : UTC + 9 hours). For details, please refer "Perticipate" chapter (Page 14).
+
+
 {{< badge title="23 July. 2026" >}}
 
 * We have launched an [official Facebook page](https://www.facebook.com/WMOC2027Japan). You can access it via the link at the bottom of the page.
-
-{{< badge title="21 July. 2026" >}}
-
-* [Bulletin 1 Ver.3](/bulletins/Bulletin1_Ver.3_July2026.pdf) has been released. {{< badge title="ENTRY" color="success" >}} Entry for WMOC2027 opens on **July 25 at 10:00 AM** (JST : UTC + 9 hours). For details, please refer "Perticipate" chapter (Page 14).
 
 {{< /accordion-item >}}
 
@@ -85,7 +86,7 @@ Event schedules for each events.
 {{< badge title="Updated: 21 Jul. 2026" >}} Registration of WMOC 2027 will be opend on Jul. 25 2026 at 10:00 AM JST.
     {{< /card >}}
     {{< card path="competitions/bulletins" header-style="publication" title="Bulletins and programs" icon="fas person-chalkboard" >}}
-{{< badge title="Published: 21 Jul. 2026" >}} Bulletins 1.3
+{{< badge title="Published: 25 Jul. 2026" >}} Bulletins 1.3
     {{< /card >}}
     {{< card path="competitions/startlists" header-style="publication" title="STRAT LISTS" icon="fas table-list" >}}
 Start lists for all competitions
