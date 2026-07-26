@@ -39,8 +39,8 @@ content_blocks:
 
 {{< badge title="25 July. 2026" >}}
 
-* [Bulletin 1 Ver.3]({{% ref "competitions/bulletins" %}}) has been released. {{< badge title="ENTRY" color="success" >}} Entry for WMOC2027 opened on **July 25 at 10:00 AM** (JST : UTC + 9 hours). For details, please refer "Perticipate" chapter (Page 14).
-
+* [Bulletin 1 Ver.3]({{% ref "competitions/bulletins" %}}) has been released. 
+* [Entry for WMOC2027 opened]({{% ref "get_started/entry" %}}).
 
 {{< badge title="23 July. 2026" >}}
 
