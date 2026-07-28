@@ -24,7 +24,10 @@ Entry for WMOC2027 opens on **July 25 at 10:00 AM** (JST : UTC + 9 hours). For d
 
 * IOF Eventor
 
-  [IOF Eventor WMOC2027 event page](https://eventor.orienteering.sport/Events/Show/8200)
+  [IOF Eventor WMOC2027 event page](https://eventor.orienteering.sport/Events/Show/8862)
+
+  > [!important]
+  > Your registration with WMG will be processed as soon as payment is confirmed. Please make your payment promptly upon entry.
 
 * For those who have already registered with WMG
 
