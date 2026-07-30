@@ -43,11 +43,16 @@ The participation fee can be selected by clicking the mark next to `card number`
 
 
 {{< accordion id="travel-accomodation" always-open="true" >}}
-  {{< accordion-item title="How do I find a good accommodation arround the WMOC venes?" >}}
+  {{< accordion-item title="How do I find a accommodation arround the WMOC venes?" >}}
 
 There are various options available in the region of WMOC and surrounding area.
 
 The first option is staying the host municipalities of the WMOC. Please refer to the following web site of those municipalities. Please also note that the western style hotels or inns are limited, but you might also find wonderful Japanese style inns. The official buses with optional fees are available from some of accommodations.
+
+> [!tip]
+> Please refer more details for "Ryokan" on this site
+> 
+> [https://www.mlit.go.jp/kankocho/ryokan/list_en.html](https://www.mlit.go.jp/kankocho/ryokan/list_en.html)
 
 * Kami-Town (Sprint, Middle Final)
   
