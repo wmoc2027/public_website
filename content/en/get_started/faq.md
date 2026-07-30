@@ -49,11 +49,6 @@ There are various options available in the region of WMOC and surrounding area.
 
 The first option is staying the host municipalities of the WMOC. Please refer to the following web site of those municipalities. Please also note that the western style hotels or inns are limited, but you might also find wonderful Japanese style inns. The official buses with optional fees are available from some of accommodations.
 
-> [!tip]
-> Please refer more details for "Ryokan" on this site
-> 
-> [https://www.mlit.go.jp/kankocho/ryokan/list_en.html](https://www.mlit.go.jp/kankocho/ryokan/list_en.html)
-
 * Kami-Town (Sprint, Middle Final)
   
   [https://www.kami-tourism.com/](https://www.kami-tourism.com/)
@@ -74,6 +69,10 @@ We are planning to provide bus services from Kinosaki Onsen (second option), and
 
 We are looking forward to meet you at the WMOC 2027 and please feel free to [contact us](mailto:contact@wmoc2027.jp) if you have further inquiries. 
 
+> [!tip]
+> For more details of "Ryokan" is on this site
+> 
+> [https://www.mlit.go.jp/kankocho/ryokan/list_en.html](https://www.mlit.go.jp/kankocho/ryokan/list_en.html)
 
   {{< /accordion-item >}}
 {{< /accordion >}}
