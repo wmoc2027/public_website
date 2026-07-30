@@ -80,3 +80,12 @@
         "www.youtube.com",
         "player.vimeo.com"
     ]
+
+[videos]
+    [videos.cloudinary]
+        host = "cloudinary"
+        account = "demo"
+    [videos.vimeo]
+        host = "vimeo"
+    [videos.youtube]
+        host = "youtube"
