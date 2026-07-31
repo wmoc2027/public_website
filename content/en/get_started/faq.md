@@ -19,7 +19,7 @@ content_blocks:
 
 {{< accordion id="entry-process" always-open="true" >}}
   {{< accordion-item title="I would like to participate in other WMG events besides orienteering. If I register through IOF Eventor, how do I register for other WMG events?" >}}
-Once you complete the entry process through IOF Eventor and payment of the entry fee is confirmed, the WMOC2027 Organizing Committee will register you with WMG. After this, you will receive an email notification with instructions for accessing your WMG My Page, resetting your password, and registering necessary documents. Following this, you will be able to enter other competitions.
+Once you complete the entry process through IOF Eventor and payment of the entry fee is confirmed, the WMOC2027 Organizing Committee will register you with WMG. After this, you will receive an email notification with instructions for further procedure.
 
 This process generally takes several weeks, so If you wish to prioritize entry into other competitions, please register with WMG yourself first. After that, please provide your WMG ID and IOF Eventor account ID via the email form shown at ["For those who have already registered with WMG" of Entry page]({{% ref "get_started/entry" %}}).
   {{< /accordion-item >}}
@@ -29,8 +29,8 @@ This process generally takes several weeks, so If you wish to prioritize entry i
 
 {{< accordion id="entry-fee" always-open="true" >}}
   {{< accordion-item title="Why is there such a big difference in participation fees between those who is residents in Japan and those who isn't?" >}}
-WMOC 2027 is part of the Kansai World Masters Games 2027 (hereinafter WMG 2027), and everyone wishing to take part in WMOC 2027 have also to be signined up to participate in the World Masters Games. The whole entry fee includes WMG fee which is applied different fees to those who reside in Japan and those who do not.
-Please note that WMG participation fees and accreditation processes are determined by WMG rules and policies and not those of the IOF, and apply equally to all WMG sports. We ask for your understanding and cooperation.
+WMOC 2027 is part of the Kansai World Masters Games 2027 (hereinafter WMG 2027). The whole entry fee includes WMG fee which is applied different fees to those who reside in Japan and those who do not. Please note that WMG participation fees and accreditation processes are determined by WMG rules and policies and not those of the IOF, and apply equally to all WMG sports. We ask for your understanding and cooperation. 
+
 see details at [WMG sites](https://wmg2027.jp/en/entry/guideline/).
   {{< /accordion-item >}}
   {{< accordion-item title="I live in Japan, but the discounted price isn't showing up. How can I get the discount?" >}}
