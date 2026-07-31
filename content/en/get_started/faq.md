@@ -43,7 +43,7 @@ The participation fee can be selected by clicking the mark next to `card number`
 
 
 {{< accordion id="travel-accomodation" always-open="true" >}}
-  {{< accordion-item title="How do I find a accommodation arround the WMOC venes?" >}}
+  {{< accordion-item title="How do I find an accommodation arround the WMOC venes?" >}}
 
 There are various options available in the region of WMOC and surrounding area.
 
