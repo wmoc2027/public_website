@@ -37,6 +37,10 @@ content_blocks:
 {{< accordion id="accordion-flush" class="accordion-flush" >}}
 {{< accordion-item title="LATEST NEWS" show="true" >}}
 
+{{< badge title="30 July. 2026" >}}
+
+* Added [Frequently Answers and Questions (FAQ) ]({{% ref "get_started/faq" %}}) page.
+
 {{< badge title="25 July. 2026" >}}
 
 * [Bulletin 1 Ver.3]({{% ref "competitions/bulletins" %}}) has been released. 
@@ -102,5 +106,8 @@ Introducing the attractions around the competition area.
     {{< /card >}}
     {{< card  path="travel/accommodation" header-style="publication"  title="Accommodations" icon="fas bed" >}}
 Please click here for information on accommodation near each competition venue.
+    {{< /card >}}
+    {{< card  path="get_started/faq" header-style="publication"  title="FAQ" icon="fas circle-question" >}}
+Here are some frequently asked questions and their answers, sent to [contact@wmoc2027.jp](mailto:contact@wmoc2027.jp).
     {{< /card >}}
 {{< /card-group >}}

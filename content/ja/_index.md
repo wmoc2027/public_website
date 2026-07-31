@@ -37,6 +37,11 @@ content_blocks:
 {{< accordion id="accordion-flush" class="accordion-flush" >}}
   {{< accordion-item title="LATEST NEWS" show="true" >}}
 
+{{< badge title="2026-07-30" class="rounded-pill" >}}
+
+* [よくある質問と回答 (FAQ) ]({{% ref "get_started/faq" %}})ページを追加しました。
+
+
 {{< badge title="2026-07-25" class="rounded-pill" >}}
 
 * [要項 1 Ver.3]({{% ref "competitions/bulletins" %}})を発行しました。 
@@ -102,5 +107,8 @@ Event schedules for each events.
     {{< /card >}}
     {{< card  path="travel/accommodation" header-style="publication"  title="宿泊" icon="fas bed" >}}
 競技会場周辺の宿泊情報
+    {{< /card >}}
+    {{< card  path="get_started/faq" header-style="publication"  title="FAQ" icon="fas circle-question" >}}
+[contact@wmoc2027.jp](mailto:contact@wmoc2027.jp)に寄せられたよくあるご質問とその回答をご紹介します。
     {{< /card >}}
 {{< /card-group >}}

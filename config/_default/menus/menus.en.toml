@@ -26,6 +26,12 @@
     pageRef = "/get_started/entry"
     weight = 3
 [[main]]
+    parent = "get_started"
+    identifier = "faq"
+    name = "FAQ"
+    pageRef = "/get_started/faq"
+    weight = 4
+[[main]]
     identifier = "travel"
     name = "TRAVEL"
     pageRef = "/travel"

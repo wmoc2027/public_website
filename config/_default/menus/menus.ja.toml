@@ -13,7 +13,7 @@
     identifier = "get_started"
     name = "はじめる"
     pageRef = "/get_started/"
-    weight = 2
+    weight = 1
 [[main]]
     parent = "get_started"
     identifier = "entry"
@@ -25,7 +25,13 @@
     identifier = "schedule"
     name = "イベントスケジュール"
     pageRef = "/get_started/schedule"
-    weight = 1
+    weight = 2
+[[main]]
+    parent = "get_started"
+    identifier = "faq"
+    name = "FAQ"
+    pageRef = "/get_started/faq"
+    weight = 4
 [[main]]
     identifier = "travel"
     name = "交通と宿泊"
