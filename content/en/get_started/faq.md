@@ -18,11 +18,22 @@ content_blocks:
 
 
 {{< accordion id="entry-process" always-open="true" >}}
+  {{< accordion-item title="I tried to register via the World Masters Games (WMG) website, but I am unable to register for the orienteering event." >}}
+  The WMG orienteering competition will be held as the International Orienteering Federation (IOF) World Masters Orienteering Championships (WMOC). Please register via the IOF website (IOF-Eventor). For details on the procedure, please refer to Bulletin 1.
+  {{< /accordion-item >}}
+
   {{< accordion-item title="I would like to participate in other WMG events besides orienteering. If I register through IOF Eventor, how do I register for other WMG events?" >}}
 Once you complete the entry process through IOF Eventor and payment of the entry fee is confirmed, the WMOC2027 Organizing Committee will register you with WMG. After this, you will receive an email notification with instructions for further procedure.
 
 This process generally takes several weeks, so If you wish to prioritize entry into other competitions, please register with WMG yourself first. After that, please provide your WMG ID and IOF Eventor account ID via the email form shown at ["For those who have already registered with WMG" of Entry page]({{% ref "get_started/entry" %}}).
   {{< /accordion-item >}}
+
+  {{< accordion-item title="The entry deadline for the orienteering event is April 10, 2027, whereas the deadline for the WMG itself is February 28, 2027. Is it possible to register after March 1?" >}}
+  Registration for orienteering remains open until April 10. However, please note that the deadline for registration in other WMG events and for signing up for various services associated with WMG participation is February 28 (at 23:59 Japan Standard Time).
+  Regarding orienteering specifically, please also be aware that the deadline for the optional bus transport service (connecting Yoka Station or Kasumi Station to the event venue) is February 28.
+  We recommend registering early.
+  {{< /accordion-item >}}
+
 {{< /accordion >}}
 
 ## Entry - fee
@@ -36,8 +47,12 @@ see details at [WMG sites](https://wmg2027.jp/en/entry/guideline/).
   {{< accordion-item title="I live in Japan, but the discounted price isn't showing up. How can I get the discount?" >}}
 The participation fee can be selected by clicking the mark next to `card number`. By selecting `Discount Japanese citizens 1 -19,000 JPY`, the fee for Forest and Sprint participation will be 25,000 yen (excluding options).
   {{< /accordion-item >}}
-{{< /accordion >}}
 
+  {{< accordion-item title="It appears that the entry fee for the WMG is lower for residents of Japan; does this mean that foreign nationals living in Japan are also eligible for the reduced rate? If so, what is the procedure for this?" >}}
+  WMG participation fees are determined by place of residence, not nationality. Foreign nationals residing in Japan will be required to submit an image copy of their residence card.
+  {{< /accordion-item >}}
+
+{{< /accordion >}}
 
 ## Travel - accomodation
 
