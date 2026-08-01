@@ -16,14 +16,14 @@ description= 'World Masters Orienteering Championships 2027 Japan public website
 
 [logo]
   url = "/image/wmoc2027_logo.png"
-  width = 512
-  height = 512
+  width = 470
+  height = 661
 
 # 3. 組織のアイキャッチ用代表画像（JSON-LD の "image" に反映されます）
 [image]
-  url = "img/ogp-main.png"
-  width = 1200
-  height = 630
+  url = "img/logo1280x640.png"
+  width = 1280
+  height = 640
 
 [favicon]
     logo = "image/wmoc2027_logo.png"
