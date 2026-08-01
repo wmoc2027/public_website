@@ -6,7 +6,7 @@ icon: fas door-open
 
 # 実施要項
 
-要項1 の第三版が2026年7月25日に公開されました。{{< link "/competitions/bulletins">}} こちらのページ {{< /link >}} をご覧ください。エントリーの手順は、[Bulletin 1 rev.3](/bulletins/Bulletin1_3.pdf)の "Participate" 章をご覧ください。
+要項1 の第三版が2026年7月25日に公開されました。{{< link "/competitions/bulletins">}} こちらのページ {{< /link >}} をご覧ください。エントリーの手順は、[Bulletin 1 rev.3](/bulletins/Bulletin1_3_ja.pdf)の "Participate" 章をご覧ください。
 
 
 # WMOC2027 オリエンテーリング競技へのエントリ
@@ -15,10 +15,13 @@ icon: fas door-open
 
 * IOF Eventor からエントリー
   
-  [IOF Eventor WMOC2027 イベントページへのリンク](https://eventor.orienteering.sport/Events/Show/8862)
+  次の手順でエントリーを行ってください。
 
-  > [!important]
-  > 支払いが確認され次第WMGへの登録が行われます。エントリーと同時に速やかに支払いを行ってください。
+  1. [IOF Eventor へのユーザ登録]({{% ref "registration/registration_iof_eventor" %}})
+  2. [IOF Eventor WMOC2027 イベントページ](https://eventor.orienteering.sport/Events/Show/8862)からのエントリー
+
+     > [!important]
+     > 支払いが確認され次第WMGへの登録が行われます。エントリーと同時に速やかに支払いを行ってください。
 
 
 * WMGへのエントリーを優先された方
