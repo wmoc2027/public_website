@@ -3,10 +3,10 @@
 - title: Entry receipt begin
   icon: fas rocket
   color: primary
-  date: 2026-07-15
-  url:
+  date: 2026-07-25
+  url: https://wmoc2027.jp/get_started/entry/
   content:
-    ( **TBD** ) Registration for WMOC 2027 will open
+    Registration for WMOC 2027 will open
 
 - title: Orienteering receipt period ends
   icon: fas rocket
@@ -14,7 +14,7 @@
   date: 2027-04-10
   url: https://wmg2027.jp/competition/
   content:
-    ( **TBD** ) Orienteering competition entry receipt period ends<br>
+    Orienteering competition entry receipt period ends<br>
     <strong>The deadline is 11:59 PM Japan time</strong>
 
 - title: WMG 2027 opening ceremony & check-in begins
