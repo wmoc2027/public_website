@@ -34,6 +34,36 @@ This process generally takes several weeks, so If you wish to prioritize entry i
   We recommend registering early.
   {{< /accordion-item >}}
 
+  {{< accordion-item title="I heard this is a \"World Championship open to everyone\" —can complete beginners to orienteering participate?" >}}
+ The only requirement for participating in WMOC2027 is an age limit (35 years or older). There are no prerequisites regarding experience and past achievements. Although the event follows a qualification and final race format, everyone gets to participate in and enjoy the final race, regardless of their performance in the qualifiers. 
+There are two events: Sprint, which takes place in urban areas and parks, and Forest, which takes place in natural environments. Since the Forest event involves deciding your own route in nature, we ask that you understand the basic rules of the sport and map reading skills to ensure a safe and enjoyable experience. The Sprint event is relatively easy for beginners to participate in. If you have absolutely no prior experience, you will likely enjoy the event more if you try it out a few times beforehand.
+
+The website below offers technical explanations for beginners and information on various events held across the country. It also lists permanent courses that you can enjoy at any time.
+
+- Japan Orienteering Association（JOA）
+
+  [https://www.orienteering.or.jp/](https://www.orienteering.or.jp/)
+
+  [JOA's Page for Beginners](https://www.orienteering.or.jp/for_beginners/)
+
+* Mori wo hashirou. (Let's run through the forest.)
+
+  [https://www.asobox.com/o/](https://www.asobox.com/o/)
+
+* Japan O Entry (JOY)
+
+  [https://japan-o-entry.com/](https://japan-o-entry.com/)
+
+* Navi Tabi
+
+  [https://navitabi.co.jp/](https://navitabi.co.jp/)
+  {{< /accordion-item >}}
+
+  {{< accordion-item title="Can people aged 34 or younger not participate?" >}}
+Only those born on or before December 31, 1992, are eligible to participate in the official WMOC2027 competitions.
+However, we plan to hold "public races" on the same day that are open to younger participants as well. Details regarding these races are scheduled to be announced around October.
+  {{< /accordion-item >}}
+
 {{< /accordion >}}
 
 ## Entry - fee
