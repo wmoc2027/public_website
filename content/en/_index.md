@@ -37,6 +37,10 @@ content_blocks:
 {{< accordion id="accordion-flush" class="accordion-flush" >}}
 {{< accordion-item title="LATEST NEWS" show="true" >}}
 
+{{< badge title="12 Aug. 2026" >}}
+
+* Add [section for web sites for accomodations]({{% ref "travel/accommodation#web-site-for-accommodation-information" %}})
+
 {{< badge title="30 July. 2026" >}}
 
 * Added [Frequently Answers and Questions (FAQ) ]({{% ref "get_started/faq" %}}) page.
