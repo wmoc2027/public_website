@@ -38,19 +38,19 @@
     weight = 10
 [[main]]
     parent = "travel"
-    indentifier = "sightseeing"
+    identifier = "sightseeing"
     name = "Sightseeing"
     pageRef = "/travel/sightseeing"
     weight = 11
 [[main]]
     parent = "travel"
-    indentifier = "transportation"
+    identifier = "transportation"
     name = "Transportation"
     pageRef = "/travel/transportation"
     weight = 12
 [[main]]
     parent = "travel"
-    indentifier = "accommodation"
+    identifier = "accommodation"
     name = "Accommodation"
     pageRef = "/travel/accommodation"
     weight = 13
@@ -61,41 +61,41 @@
     weight = 20
 [[main]]
     parent = "competitions"
-    indentifier = "bulletins"
+    identifier = "bulletins"
     name = "BULLETINS"
     pageRef = "/competitions/bulletins"
     weight = 21
 [[main]]
     parent = "competitions"
-    indentifier = "startlists"
+    identifier = "startlists"
     name = "START LIST"
     pageRef = "/competitions/startlists"
     weight = 22
 [[main]]
     parent = "competitions"
-    indentifier = "results"
+    identifier = "results"
     name = "RESULTS"
     pageRef = "/competitions/results"
     weight = 23
 [[main]]
-    indentifier = "SIDE EVENTS"
+    identifier = "SIDE EVENTS"
     name = "SIDE EVENTS"
     pageRef = "/joint_events"
     weight = 30
 [[main]]
     parent = "SIDE EVENTS"
-    indentifier = "rehearsal_event"
+    identifier = "rehearsal_event"
     name = "REHEARSAL EVENT (July 11 2026)"
     pageRef = "/joint_events/pre_events/rehearsal-event"
     weight = 31
 [[main]]
     parent = "SIDE EVENTS"
-    indentifier = "orienteeringinjapan"
+    identifier = "orienteeringinjapan"
     name = "ORIENTEERING IN JAPAN"
     pageRef = "/joint_events/orienteering_in_japan"
     weight = 32
 [[main]]
-    indentifier = "PHOTO"
+    identifier = "PHOTO"
     name = "PHOTO"
     pageRef = "/photos"
     weight = 50

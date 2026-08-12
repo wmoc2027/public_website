@@ -39,19 +39,19 @@
     weight = 10
 [[main]]
     parent = "travel"
-    indentifier = "sightseeing"
+    identifier = "sightseeing"
     name = "観光"
     pageRef = "/travel/sightseeing"
     weight = 11
 [[main]]
     parent = "travel"
-    indentifier = "transportation"
+    identifier = "transportation"
     name = "アクセス"
     pageRef = "/travel/transportation"
     weight = 12
 [[main]]
     parent = "travel"
-    indentifier = "accommodation"
+    identifier = "accommodation"
     name = "宿泊情報"
     pageRef = "/travel/accommodation"
     weight = 13
@@ -62,41 +62,41 @@
     weight = 20
 [[main]]
     parent = "competitions"
-    indentifier = "bulletins"
+    identifier = "bulletins"
     name = "要項"
     pageRef = "/competitions/bulletins"
     weight = 21
 [[main]]
     parent = "competitions"
-    indentifier = "startlists"
+    identifier = "startlists"
     name = "スタートリスト"
     pageRef = "/competitions/startlists"
     weight = 22
 [[main]]
     parent = "competitions"
-    indentifier = "resultlists"
+    identifier = "resultlists"
     name = "競技結果"
     pageRef = "/competitions/results"
     weight = 23
 [[main]]
-    indentifier = "jointevents"
+    identifier = "jointevents"
     name = "関連イベント"
     pageRef = "/joint_events"
     weight = 30
 [[main]]
     parent = "関連イベント"
-    indentifier = "rehearsal_event"
+    identifier = "rehearsal_event"
     name = "リハーサル大会"
     pageRef = "/joint_events/pre_events/rehearsal-event"
     weight = 31
 [[main]]
     parent = "関連イベント"
-    indentifier = "orienteeringinjapan"
+    identifier = "orienteeringinjapan"
     name = "ORIENTEERING IN JAPAN"
     pageRef = "/joint_events/orienteering_in_japan"
     weight = 32
 [[main]]
-    indentifier = "写真"
+    identifier = "写真"
     name = "写真"
     pageRef = "/photos"
     weight = 50
