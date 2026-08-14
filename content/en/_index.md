@@ -26,7 +26,6 @@ content_blocks:
     more:
         title: More posts
     padding: 3
-    limit: 3
     background:
         color: body-tertiary
         subtle: false
