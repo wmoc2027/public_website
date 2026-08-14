@@ -17,10 +17,10 @@ content_blocks:
         align: start
     input:
         section: posts
-        reverse: false
+        reverse: true
         sort: date
     hide_empty: false
-    header_style: none
+    header_style: publication
     body_style: title
     orientation: horizontal
     more:
