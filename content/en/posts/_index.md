@@ -1,12 +1,29 @@
 ---
+title: News
 content_blocks:
   - _bookshop_name: hero
     heading:
-      title: NEWS
+      title: Our activities
       align: start
       content: World Masters Orienteering Competitions 2027
       width: 8
     background:
       backdrop: /image/2022_jwoc_relay1_susana_luzir.jpg
     breadcrumb: true
+  - _bookshop_name: articles
+    input:
+      reverse: false
+      sort: date
+    hide_empty: false
+    header_style: none
+    orientation: stacked
+    more:
+      title: More Blogs
+    padding: 0
+    limit: 3
+    background:
+      color: body-tertiary
+      subtle: false
+    class: border-0 card-zoom card-body-margin
+    justify: start
 ---
