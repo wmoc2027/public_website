@@ -15,6 +15,7 @@ content_blocks:
     heading:
         title: Our activities
         align: start
+        size: 6
     input:
         section: posts
         reverse: true

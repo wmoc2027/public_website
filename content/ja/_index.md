@@ -15,6 +15,7 @@ content_blocks:
     heading:
         title: 活動報告
         align: start
+        size: 6
     input:
         section: posts
         reverse: true
