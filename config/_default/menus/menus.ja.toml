@@ -100,3 +100,8 @@
     name = "写真"
     pageRef = "/photos"
     weight = 50
+[[main]]
+    identifier = "forbeginners"
+    name = "初心者の方へ"
+    pageRef = "/forbeginners"
+    weight = 5
