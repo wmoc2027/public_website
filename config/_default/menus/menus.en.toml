@@ -99,5 +99,10 @@
     name = "PHOTO"
     pageRef = "/photos"
     weight = 50
+[[main]]
+    identifier = "forbeginners"
+    name = "FOR BEGINNERS"
+    pageRef = "/forbeginners"
+    weight = 5
 
 
