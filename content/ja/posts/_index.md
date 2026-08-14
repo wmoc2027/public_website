@@ -11,10 +11,10 @@ content_blocks:
     breadcrumb: true
   - _bookshop_name: articles
     input:
-      reverse: false
+      reverse: true
       sort: date
     hide_empty: false
-    header_style: none
+    header_style: publication
     orientation: stacked
     more:
       title: More Blogs

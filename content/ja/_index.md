@@ -15,12 +15,13 @@ content_blocks:
     heading:
         title: 活動報告
         align: start
+        size: 6
     input:
         section: posts
-        reverse: false
+        reverse: true
         sort: date
     hide_empty: false
-    header_style: none
+    header_style: publication
     body_style: title
     orientation: horizontal
     more:
