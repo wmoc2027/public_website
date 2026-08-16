@@ -37,6 +37,10 @@ content_blocks:
 {{< accordion id="accordion-flush" class="accordion-flush" >}}
 {{< accordion-item title="LATEST NEWS" show="true" >}}
 
+{{< badge title="16 Aug. 2026" >}}
+
+* Added [a page introducing orienteering for beginners]({{% ref "/forbeginners" %}})
+
 {{< badge title="12 Aug. 2026" >}}
 
 * Add [section for web sites for accomodations]({{% ref "travel/accommodation#web-site-for-accommodation-information" %}})
