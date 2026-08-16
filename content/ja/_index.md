@@ -37,10 +37,13 @@ content_blocks:
 {{< accordion id="accordion-flush" class="accordion-flush" >}}
   {{< accordion-item title="LATEST NEWS" show="true" >}}
 
+{{< badge title="2026-08-16" >}}
+
+* 初心者向けに[オリエンテーリングについて紹介するページ]({{% ref "/forbeginners" %}})を追加しました。
+
 {{< badge title="2026-07-30" class="rounded-pill" >}}
 
 * [よくある質問と回答 (FAQ) ]({{% ref "get_started/faq" %}})ページを追加しました。
-
 
 {{< badge title="2026-07-25" class="rounded-pill" >}}
 
