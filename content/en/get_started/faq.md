@@ -23,9 +23,9 @@ content_blocks:
   {{< /accordion-item >}}
 
   {{< accordion-item title="I would like to participate in other WMG events besides orienteering. If I register through IOF Eventor, how do I register for other WMG events?" >}}
-Once you complete the entry process through IOF Eventor and payment of the entry fee is confirmed, the WMOC2027 Organizing Committee will register you with WMG. After this, you will receive an email notification with instructions for further procedure.
+If you are considering participating in WMG events other than orienteering, please first register for those events through the WMG entry system and complete the payment. Afterward, please enter your WMG ID and IOF Eventor account ID in the email form on the entry page under ["To those also participating in other events at WMG2027"]({{% ref "entry/#to-those-also-participating-in-other-events-at-wmg2027" %}})
 
-This process generally takes several weeks, so If you wish to prioritize entry into other competitions, please register with WMG yourself first. After that, please provide your WMG ID and IOF Eventor account ID via the email form shown at ["For those who have already registered with WMG" of Entry page]({{% ref "get_started/entry" %}}).
+Please note that if you complete your orienteering registration first, you will not be able to add other WMG events due to system limitations.
   {{< /accordion-item >}}
 
   {{< accordion-item title="The entry deadline for the orienteering event is April 10, 2027, whereas the deadline for the WMG itself is February 28, 2027. Is it possible to register after March 1?" >}}
