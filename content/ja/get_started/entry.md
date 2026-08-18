@@ -43,9 +43,9 @@ flowchart LR
 {{< /mermaid >}}
 
 > [!important]
-> IOF Eventor を通じて登録した場合、他の WMG コンテストに参加することはできません。
+> IOF Eventor からエントリーした場合、他の WMG2027 の種目に参加することはできません。
 
-### 共通
+### 共通要件
 
 IOF Eventor アカウントが必要です。下記記事を参考にIOF Eventor IDを事前に取得してください。
 
@@ -53,13 +53,7 @@ IOF Eventor アカウントが必要です。下記記事を参考にIOF Eventor
 
 ### WMOC2027 オリエンテーリング競技のみにエントリーされる方
 
-2026年7月25日 10:00 AM (JST) からエントリ受付開始します。
-
-IOF Eventor からエントリー
-  
-  次の手順でエントリーを行ってください。
-
-[IOF Eventor WMOC2027 イベントページ](https://eventor.orienteering.sport/Events/Show/8862)からのエントリー
+[IOF Eventor WMOC2027 イベントページ](https://eventor.orienteering.sport/Events/Show/8862) からエントリーを行ってください。
 
 > [!important]
 > 支払いが確認され次第WMGへの登録が行われます。エントリーと同時に速やかに支払いを行ってください。
