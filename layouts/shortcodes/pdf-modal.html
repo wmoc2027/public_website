@@ -1,0 +1,31 @@
+{{- $file := .Get "file" -}}
+{{- $id := .Get "id" | default "pdfModal" -}}
+{{- $btnText := .Get "title" | default "PDFを表示する" -}}
+
+<!-- モーダルを開くボタン -->
+<button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#{{ $id }}">
+  {{ $btnText }}
+</button>
+
+<!-- モーダル本体 (Bootstrap 5 準拠) -->
+<div class="modal fade" id="{{ $id }}" tabindex="-1" aria-labelledby="{{ $id }}Label" aria-hidden="true">
+  <div class="modal-dialog modal-xl modal-dialog-centered" style="max-width: 90vw;">
+    <div class="modal-content" style="height: 85vh;">
+      
+      <!-- ヘッダー（閉じるボタン） -->
+      <div class="modal-header">
+        <h5 class="modal-title" id="{{ $id }}Label">{{ $btnText }}</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      
+      <!-- ボディ（PDFを埋め込む領域） -->
+      <div class="modal-body p-0" style="overflow: hidden;">
+        <iframe src="{{ $file }}" width="100%" height="100%" style="border: none;">
+          お使いのブラウザはPDFのインライン表示に対応していません。
+          <a href="{{ $file }}" target="_blank">こちらからダウンロード</a>してください。
+        </iframe>
+      </div>
+      
+    </div>
+  </div>
+</div>
