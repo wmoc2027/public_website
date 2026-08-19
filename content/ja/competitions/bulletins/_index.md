@@ -14,23 +14,9 @@ content_blocks:
     breadcrumb: true
 ---
 
-{{< accordion id="accordion-default" >}}
-  {{< accordion-item title="要項" show="true" >}}
 
-* [要項 1 Ver.3](/bulletins/Bulletin1_3_ja.pdf) (2026年7月25日発行) {{< badge title="ENTRY" color="success" >}} おまたせしました。 **7月 25日 午前 10:00（日本時間）** よりエントリー受付を開始します。 詳しくは "Perticipate" の章 (14ページ) をご覧ください。 
+|書類|発行||
+|--|--|--|
+|[要項 1 Ver.3](/bulletins/Bulletin1_3_ja.pdf)|2026-08-16|{{< pdf-modal file="/bulletins/Bulletin1_3_ja.pdf" title="開く" id="bulletin1_3" >}}|
+|[旧地図](/bulletins/WMOC2027_oldmap.pdf)|2026-02-02|{{< pdf-modal file="/bulletins/WMOC2027_oldmap.pdf" title="開く" id="oldmap" >}}|
 
-* [旧地図](/bulletins/WMOC2027_oldmap.pdf) (2026年2月2日発行)
-
-  {{< /accordion-item >}}
-  {{< accordion-item title="プログラム - スプリント" >}}
-    公開までおまちください
-  {{< /accordion-item >}}
-  {{< accordion-item title="プログラム - フォレスト" >}}
-    公開までおまちください
-  {{< /accordion-item >}}
-{{< /accordion >}}
-
-
-<object data="/bulletins/Bulletin1_3_ja.pdf" width="100%" height="1100px" type="application/pdf">
-  <embed src="/bulletins/Bulletin1_3_ja.pdf" width="100%" height="1100px" type="application/pdf" />
-</object>
