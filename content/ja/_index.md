@@ -37,6 +37,10 @@ content_blocks:
 {{< accordion id="accordion-flush" class="accordion-flush" >}}
   {{< accordion-item title="LATEST NEWS" show="true" >}}
 
+{{< badge title="2026-08-28" >}}
+
+* 乗り放題パス[【WMG2027 JR関西ワイドエリアパス】](travel/jr_transport_pass)を販売開始！
+
 {{< badge title="2026-08-16" >}}
 
 * 初心者向けに[オリエンテーリングについて紹介するページ]({{% ref "/forbeginners" %}})を追加しました。
