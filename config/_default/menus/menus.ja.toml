@@ -51,10 +51,16 @@
     weight = 12
 [[main]]
     parent = "travel"
+    identifier = "乗り放題チケット"
+    name = "JR関西ワイドエリアパス"
+    pageRef = "/travel/jr_transport_pass"
+    weight = 13
+[[main]]
+    parent = "travel"
     identifier = "accommodation"
     name = "宿泊情報"
     pageRef = "/travel/accommodation"
-    weight = 13
+    weight = 14
 [[main]]
     identifier = "competitions"
     name = "競技情報"

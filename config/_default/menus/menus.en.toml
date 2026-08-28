@@ -50,10 +50,16 @@
     weight = 12
 [[main]]
     parent = "travel"
+    identifier = "RideTickets"
+    name = "Unlimited ride tickets"
+    pageRef = "/travel/jr_transport_pass"
+    weight = 13
+[[main]]
+    parent = "travel"
     identifier = "accommodation"
     name = "Accommodation"
     pageRef = "/travel/accommodation"
-    weight = 13
+    weight = 14
 [[main]]
     identifier = "competitions"
     name = "COMPETITION"
