@@ -61,6 +61,12 @@
     pageRef = "/travel/accommodation"
     weight = 14
 [[main]]
+    parent = "travel"
+    identifier = "accommodation_directory"
+    name = "Hotels list"
+    pageRef = "/travel/hotels_list"
+    weight = 15
+[[main]]
     identifier = "competitions"
     name = "COMPETITION"
     pageRef = "/competitions"
