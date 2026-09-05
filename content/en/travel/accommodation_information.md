@@ -104,7 +104,7 @@ There are no shops selling groceries or daily necessities near the forest event 
 ## 3. Transportation
 
 For full details of the transportation, please visit the following page.<br>
-[**TRANSPORTATION**](/transportation/)
+[**TRANSPORTATION**](/travel/transportation/)
 
 - The organisers plan to operate official buses connecting JR railway stations, accommodation areas, and the event venue.
 - Due to the ongoing difficulty in securing bus drivers in Japan, the official bus service is available only to those who register in advance.
