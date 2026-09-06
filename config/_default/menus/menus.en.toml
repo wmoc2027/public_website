@@ -38,28 +38,10 @@
     weight = 10
 [[main]]
     parent = "travel"
-    identifier = "sightseeing"
-    name = "Sightseeing"
-    pageRef = "/travel/sightseeing"
-    weight = 60
-[[main]]
-    parent = "travel"
     identifier = "accommodation information"
     name = "ACCOMMODATION INFORMATION"
     pageRef = "/travel/accommodation_information"
     weight = 10
-[[main]]
-    parent = "travel"
-    identifier = "RideTickets"
-    name = "Unlimited ride tickets"
-    pageRef = "/travel/jr_transport_pass"
-    weight = 50
-[[main]]
-    parent = "travel"
-    identifier = "accommodation"
-    name = "Accommodation"
-    pageRef = "/travel/accommodation"
-    weight = 40
 [[main]]
     parent = "travel"
     identifier = "accommodation_list"
@@ -72,6 +54,24 @@
     name = "TRANSPORTATION"
     pageRef = "/travel/transportation"
     weight = 30
+[[main]]
+    parent = "travel"
+    identifier = "accommodation"
+    name = "Accommodation"
+    pageRef = "/travel/accommodation"
+    weight = 40
+[[main]]
+    parent = "travel"
+    identifier = "RideTickets"
+    name = "Unlimited ride tickets"
+    pageRef = "/travel/jr_transport_pass"
+    weight = 50
+[[main]]
+    parent = "travel"
+    identifier = "sightseeing"
+    name = "Sightseeing"
+    pageRef = "/travel/sightseeing"
+    weight = 60
 [[main]]
     identifier = "competitions"
     name = "COMPETITION"

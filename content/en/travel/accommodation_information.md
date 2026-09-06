@@ -2,11 +2,10 @@
 title: Accommodation Information
 ---
 
-You can view and download the PDF by clicking on the links labelled [PDF] on this page.
-
 # Accommodation Information for the Host City and Towns of WMG/WMOC 2027 Orienteering
-
-[[PDF]Accommodation Information](/Accommodation&Transportation/00_Accommodation_Information_revv.pdf)
+On this page, you can download the PDF by clicking the “Download” button.
+Also, you can download a PDF summarizing the accommodation information from the link below.<br>
+<a href="/Accommodation&Transportation/Accommodation_Information_Sept_2026.pd" download="Accommodation_Information_Sept_2026.pd" class="btn btn-primary">Download</a>
 
 ## Preface
 
@@ -26,16 +25,11 @@ As shown on the map, the area is quite extensive, and public transportation opti
 Please note that the accommodations listed here have been confirmed with the host city and towns as being able to accept overseas participants for the orienteering event. There are also other accommodation options in the surrounding area—such as in Toyooka City, Asago City, Tottori City, and Himeji City—all of which are within easy reach if you are traveling by car.
 
 ---
+## Area Map
+[PDF]Area Map<br>
+<a href="/Accommodation&Transportation/01_Area_map.pdf" download="01_Area_map.pdf" class="btn btn-primary">Download</a><br>
+![](/Accommodation&Transportation/01_Area_map.svg)
 
-## 1. About the Area Map
-
-[[PDF]Area Map](/Accommodation&Transportation/01_Area_map.pdf)
-<iframe src="/Accommodation&Transportation/01_Area_map.pdf"
-        width="100%"
-        height="600px">
-</iframe>
-
----
 The map shows the following:
 - Event centre and venues for the Sprint and Forest competitions of the WMG/WMOC 2027 orienteering event
 - Railways (including the JR San-in Main Line) and major roads connecting these locations
@@ -44,105 +38,109 @@ The map shows the following:
 
 ---
 
-## 2. Accommodation Information
+## Accommodation Information
 
-[[PDF]Accommodation list (Yabu City)](/Accommodation&Transportation/02-1_Accommodation_list_A4_Yabu.pdf)  
-<iframe src="/Accommodation&Transportation/02-1_Accommodation_list_A4_Yabu.pdf"
-        width="100%"
-        height="200px">
-</iframe>
+[PDF]Accommodation list (Yabu City)<br>
+<a href="/Accommodation&Transportation/02-1_Accommodation_list_A4_Yabu.pdf" download="02-1_Accommodation_list_A4_Yabu.pdf" class="btn btn-primary">Download</a>
 
----
-[[PDF]Accommodation list (Kami Town).pdf](/Accommodation&Transportation/02-2_Accommodation_list_A4_Kami.pdf)  
-<iframe src="/Accommodation&Transportation/02-2_Accommodation_list_A4_Kami.pdf"
-        width="100%"
-        height="200px">
-</iframe>
+[PDF]Accommodation list (Kami Town)<br>
+<a href="/Accommodation&Transportation/02-2_Accommodation_list_A4_Kami.pdf" download="02-2_Accommodation_list_A4_Kami.pdf" class="btn btn-primary">Download</a>
 
----
-[[PDF]Accommodation list (Kamikawa Town)](/Accommodation&Transportation/02-3_Accommodation_list_A4_Kamikawa.pdf)
-<iframe src="/Accommodation&Transportation/02-3_Accommodation_list_A4_Kamikawa.pdf"
-        width="100%"
-        height="200px">
-</iframe>
-
----
-- Information provided for each accommodation includes location, access, rooms, meals, foreign language support, access to the event venue, etc.
-
-- Regarding reservations, in addition to using Online Travel Agencies (OTAs), many facilities accept bookings made directly via their websites or by email.
-
-- Please contact each facility directly via email or other means to confirm details such as room types, meal options, transportation services, and other details. While many Japanese accommodations include meals in their rates, some also offer "room-only" (no-meal) plans.
-
-- Most accommodation websites are available only in Japanese; however, you can view them in other languages by using tools such as Google Translate.
+[PDF]Accommodation list (Kamikawa Town)<br>
+<a href="/Accommodation&Transportation/02-3_Accommodation_list_A4_Kamikawa.pdf" download="02-3_Accommodation_list_A4_Kamikawa.pdf" class="btn btn-primary">Download</a>
 
 For full details of the accommodation list, please visit the following page.<br>
 [**ACCOMMODATION LIST**](/travel/accommodation_list/)
 
-You can also find detailed maps of each district in the PDF below.<br>
-[[PDF]Accommodation Map Hachi](/Accommodation&Transportation/02-1-F_Accommodation_Map_Hachi.pdf)  
-<iframe src="/Accommodation&Transportation/02-1-F_Accommodation_Map_Hachi.pdf"
-        width="50%"
-        height="200px">
-</iframe>
+The “Area” column in the Accommodation List corresponds to the accommodation areas marked in pink on the area map above.
 
-[[PDF]Accommodation Map Kasumi area and Hachikita](/Accommodation&Transportation/02-2-F_Accommodation_Map_Kasumi_area_and_Hachikita.pdf) 
-<iframe src="/Accommodation&Transportation/02-2-F_Accommodation_Map_Kasumi_area_and_Hachikita.pdf"
-        width="50%"
-        height="200px">
-</iframe>
-
----
-There are no shops selling groceries or daily necessities near the forest event area. We have therefore included information on convenience stores and supermarkets in the area.
-
-[[PDF]Supermarket&ConvenienceStore](/Accommodation&Transportation/03_Supermarket&ConvenienceStore.pdf)
-<iframe src="/Accommodation&Transportation/03_Supermarket&ConvenienceStore.pdf"
-        width="50%"
-        height="200px">
-</iframe>
-
----
-## 3. Transportation
-
-For full details of the transportation, please visit the following page.<br>
-[**TRANSPORTATION**](/travel/transportation/)
-
-- The organisers plan to operate official buses connecting JR railway stations, accommodation areas, and the event venue.
-- Due to the ongoing difficulty in securing bus drivers in Japan, the official bus service is available only to those who register in advance.
-- Please register via IOF Eventor.
----
-- **Registration deadline:**  
-  - Sunday, February 28, 2027, 23:59 (JST)
----
-- **Official bus fares:**  
-  - Full schedule: ¥15,000  
-  - Sprint only (3 days): ¥7,000  
-  - Forest only (5 days): ¥10,000
----
-- The official bus service originates at JR Yoka Station and JR Kasumi Station,  
-  with stops available along the way at roadside stations (*Michi-no-Eki*: Yoka Tajima-no-Kura,  
-  Hachikita, and Muraoka Farm Garden).Additionally, the Hachikita accommodation area (Hachikita Tourism Association) and Hachi Kogen (Hachi Kogen Exchange Promotion Centre) are designated as starting points for passengers staying in those areas. Buses will operate between these starting points and the event venue on event days.
-
-- Please note that the bus routes will differ depending on the day of the event.
-
-- The operating schedule (timetable) will be announced on the event website after the registration deadline, as it depends on the accommodation locations.
-
-- You may be assigned a specific bus to use based on your start time on the day of the event.
+- Information provided for each accommodation includes location, access, rooms, meals, foreign language support, access to the event venue, etc.
+- Regarding reservations, in addition to using Online Travel Agencies (OTAs), many facilities accept bookings made directly via their websites or by email.
+- Please contact each facility directly via email or other means to confirm details such as room types, meal options, transportation services, and other details. While many Japanese accommodations include meals in their rates, some also offer "room-only" (no-meal) plans.
+- Most accommodation websites are available only in Japanese; however, you can view them in other languages by using tools such as Google Translate.
 
 ---
 
-30 August 2026  
-WMG/WMOC2027 Orienteering Executive Committee
+### Accommodation Focus Maps
+
+[PDF]Accommodation Focus Map of Yabu<br>
+<a href="/Accommodation&Transportation/02-1-F_Accommodation_Map_Hachi.pdf" download="02-1-F_Accommodation_Map_Hachi.pdf" class="btn btn-primary">Download</a><br>
+Hachi Kogen Area<br>
+![](/Accommodation&Transportation/02_1_F_Yabu_HachiKogen.svg)
+
+---
+[PDF]Accommodation Focus Map of Kami<br>
+<a href="/Accommodation&Transportation/02-2-F_Accommodation_Map_Kasumi_area_and_Hachikita.pdf" download="02-2-F_Accommodation_Map_Kasumi_area_and_Hachikita.pdf" class="btn btn-primary">Download</a><br>
+In order: General View, Kasumi Area, Shibayama Area, Satsu Area, Hachikita Area<br>
+
+![](/Accommodation&Transportation/02_2_F_Kami1_All.svg)
+![](/Accommodation&Transportation/02_2_F_Kami2_Kasumi.svg)
+![](/Accommodation&Transportation/02_2_F_Kami3_Shibayama.svg)
+![](/Accommodation&Transportation/02_2_F_Kami4_Satsu.svg)
+![](/Accommodation&Transportation/02_2_F_Kami5_HachiKita.svg)
 
 ---
 
-## Related Websites
+### Convenience Stores & Supermarkets
 
-### Orienteering
-World Masters Orienteering Championships 2027  
-https://wmoc2027.jp/en/
+[PDF]Convenience Stores & Supermarkets<br>
+<a href="/Accommodation&Transportation/03_Supermarket&ConvenienceStore.pdf" download="03_Supermarket&ConvenienceStore.pdf" class="btn btn-primary">Download</a>
 
-World Masters Games 2027 Kansai, Japan  
-https://wmg2027.jp/en/
+There are no shops selling groceries or daily necessities near the forest event area.  
+We have therefore included information on convenience stores and supermarkets in the area.
+
+---
+
+# [Additional Information] Hotels or "Ryokan" the Japanese style inn
+
+There are various options available in the region of WMOC and surrounding area.
+
+The first option is staying the host municipalities of the WMOC. Please refer to the following web site of those municipalities. Please also note that the western style hotels or inns are limited, but you might also find wonderful Japanese style inns "ryokan" or Independently owned "minshuku". The official buses with optional fees are available from some of accommodations.
+
+* Kami-Town (Sprint, Middle Final)
+  
+  [https://visitkami.com/](https://visitkami.com/)
+
+* Yabu-City  (Forest Q) 
+
+  [https://visityabu.jp/](https://visityabu.jp/)
+
+* Kamikawa (Long Final)
+  
+  [https://www.kamikawa-navi.jp/en/](https://www.kamikawa-navi.jp/en/)
+
+The second option is [Kinosaki Onsen](https://maps.app.goo.gl/aKcz9RwMwh2DD5zPA), which is famous hot spring resort with variety of Japanese-Style accommodations, situated 15-30km from WMOC venue.　The resort also offers some western style hotels or Japanese Style Inns with beds.
+
+The third option is staying [Tottori](https://maps.app.goo.gl/VFpWDGEaNhouNzpdA) or [Himeji](https://maps.app.goo.gl/gw3T7qa84QPco6eP7) (both of them are regional core cities), which are 1.5-2 hours apart from WMOC venue but have many hotels of various ranks.
+
+We are planning to provide bus services from Kinosaki Onsen (second option), and Tottori and Himeji Station (third option) to the Venue. Details will be announced soon.
+
+We are looking forward to meet you at the WMOC 2027 and please feel free to [contact us](mailto:contact@wmoc2027.jp) if you have further inquiries. 
+
+> [!tip]
+> For more details of "Ryokan" is on this site
+> 
+> [https://www.mlit.go.jp/kankocho/ryokan/list_en.html](https://www.mlit.go.jp/kankocho/ryokan/list_en.html)
+
+## Web site for Accommodation Information
+
+Accommodation in the region can also be searched on booking.com, jalan.net (a Japanese booking site, also available in English), and Rakuten Travel, in addition to regional core cities like Tottori and Himeji.
+
+On booking.com,
+with key words, "kami,hyogo; yabu,hyogo; kamikawa,hyogo" you will find accommodations within the host municipalities. You can also search for surrounding areas such as toyooka,hyogo; and kinosaki onsen,hyogo, and find many accommodations listed.
+
+The Japanese accommodation booking site (Jalan.net; English)
+also allows you to find accommodations in Hyogo Prefecture. A map of Hyogo Prefecture is displayed, and you can narrow your search by region. Please search using key words, such as, Kasumi, Yabu, and Harima (Kamikawa) or Kinosaki.
+
+> [!Note]
+> Western-style hotels are limited in number within the region. Larger hotels, in particular, may already be booked by tour groups. Himeji and Tottori offer a sufficient number of Western-style hotels. Western-style hotels offer room-only or breakfast-included options.
+> 
+> While some Japanese inns offer beds, it's common to sleep on futons on tatami mats. The futons are soft enough to allow for relaxation This in itself will be an exotic experience! Also, the price of Japanese inns regularly includes breakfast and dinner. Please pay attention when checking prices. Some accommodations allow you to skip dinner, but please check individually on their websites.
+> 
+> Minshuku (Japanese-style bed and breakfast) also often provide dinner, but again, some accommodations allow you to skip dinner, but please check individually on their websites.
+> 
+> Within the region, there are accommodations that will provide transportation to and from the departure point of the official buses to the Arena. Information on such accommodations will be announced in September.
+
 
 ### Tourism Information
 Hyogo Prefecture  
