@@ -1,5 +1,5 @@
 ---
-title: WMG2027 JR Kansai Wide Area Pass
+title: Information on Transport Passes
 description: Details have been released regarding the sale of a WMG-exclusive transport pass that offers great value for orienteering participants. WMG2027 participants are eligible to purchase the &quot;WMG2027 JR Kansai Wide Area Pass.&quot;
 icon: fas train
 content_blocks:
@@ -7,7 +7,7 @@ content_blocks:
     heading:
       title: Transportation
       align: start
-      content: WMG2027 JR Kansai Wide Area Pass
+      content: Unlimited ride tickets
       width: 8
     background:
       backdrop: /image/2022_jwoc_relay1_susana_luzir.jpg
