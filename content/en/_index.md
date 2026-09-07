@@ -37,10 +37,6 @@ content_blocks:
 {{< accordion id="accordion-flush" class="accordion-flush" >}}
 {{< accordion-item title="LATEST NEWS" show="true" >}}
 
-{{< badge title="7 Sep. 2026" >}}
-
-* Added Informations of [Accommodation and Transportation](travel)
-
 {{< badge title="28 Aug. 2026" >}}
 
 * [WMG2027 JR Kansai WIDE Area Pass Now Available](travel/jr_transport_pass)
@@ -48,6 +44,10 @@ content_blocks:
 {{< badge title="16 Aug. 2026" >}}
 
 * Added [a page introducing orienteering for beginners]({{% ref "/forbeginners" %}})
+
+{{< badge title="12 Aug. 2026" >}}
+
+* Add [section for web sites for accomodations]({{% ref "travel/accommodation#web-site-for-accommodation-information" %}})
 
 {{< badge title="30 July. 2026" >}}
 
@@ -115,6 +115,9 @@ Please see here for transportation to each competition venue.
     {{< /card >}}
     {{< card  path="travel/sightseeing" header-style="publication"  title="Sightseeing" icon="fas suitcase-rolling" >}}
 Introducing the attractions around the competition area.
+    {{< /card >}}
+    {{< card  path="travel/accommodation" header-style="publication"  title="Accommodations" icon="fas bed" >}}
+Please click here for information on accommodation near each competition venue.
     {{< /card >}}
     {{< card  path="get_started/faq" header-style="publication"  title="FAQ" icon="fas circle-question" >}}
 Here are some frequently asked questions and their answers, sent to [contact@wmoc2027.jp](mailto:contact@wmoc2027.jp).
