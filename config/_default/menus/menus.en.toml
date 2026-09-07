@@ -38,33 +38,33 @@
     weight = 10
 [[main]]
     parent = "travel"
-    identifier = "sightseeing"
-    name = "Sightseeing"
-    pageRef = "/travel/sightseeing"
+    identifier = "accommodation_information"
+    name = "ACCOMMODATION INFORMATION"
+    pageRef = "/travel/accommodation_information"
     weight = 11
 [[main]]
     parent = "travel"
-    identifier = "transportation"
-    name = "Transportation"
-    pageRef = "/travel/transportation"
+    identifier = "accommodation_list"
+    name = "ACCOMMODATION LIST"
+    pageRef = "/travel/accommodation_list"
     weight = 12
 [[main]]
     parent = "travel"
-    identifier = "RideTickets"
-    name = "Unlimited ride tickets"
-    pageRef = "/travel/jr_transport_pass"
+    identifier = "transportation"
+    name = "TRANSPORTATION"
+    pageRef = "/travel/transportation"
     weight = 13
 [[main]]
     parent = "travel"
-    identifier = "accommodation"
-    name = "Accommodation"
-    pageRef = "/travel/accommodation"
+    identifier = "jr_kansai_wide_area_pass"
+    name = "WMG2027 JR Kansai Wide Area Pass"
+    pageRef = "/travel/jr_kansai_wide_area_pass"
     weight = 14
 [[main]]
     parent = "travel"
-    identifier = "accommodation_directory"
-    name = "Hotels list"
-    pageRef = "/travel/hotels_list"
+    identifier = "sightseeing"
+    name = "Sightseeing"
+    pageRef = "/travel/sightseeing"
     weight = 15
 [[main]]
     identifier = "competitions"
