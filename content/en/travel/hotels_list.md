@@ -16,6 +16,167 @@ content_blocks:
 modules: ["simple-datatables"]
 ---
 
+<<<<<<< HEAD:content/en/travel/accommodation_list.md
+{{< accordion id="accommodation-info" class="accordion-flush" >}}
+
+{{< accordion-item title="Hotels or Ryokan (Japanese-style Inn)" show="false" >}}
+
+**Hotels or Ryokan (Japanese-style Inn)**
+---
+
+There are various options available in the region of WMOC and surrounding area.
+
+The first option is staying the host municipalities of the WMOC.  
+Please refer to the following web site of those municipalities.  
+Western-style hotels or inns are limited, but you might also find wonderful Japanese-style inns “ryokan” or independently owned “minshuku”.  
+Official buses with optional fees are available from some accommodations.
+
+* **Kami-Town (Sprint, Middle Final)**  
+  https://visitkami.com/
+
+* **Yabu-City (Forest Q)**  
+  https://visityabu.jp/
+
+* **Kamikawa (Long Final)**  
+  https://www.kamikawa-navi.jp/en/
+
+---
+The second option is **Kinosaki Onsen**, a famous hot spring resort with a variety of Japanese-style accommodations, situated 15–30 km from the WMOC venue.  
+The resort also offers some western-style hotels or Japanese-style inns with beds.
+
+The third option is staying in **Tottori** or **Himeji**, both regional core cities with many hotels of various ranks, located 1.5–2 hours from the WMOC venue.
+
+We are planning to provide bus services from Kinosaki Onsen (second option), and Tottori and Himeji Station (third option) to the venue.  
+Details will be announced soon.
+
+We are looking forward to meeting you at WMOC 2027.  
+Please feel free to contact us at **contact@wmoc2027.jp** if you have further inquiries.
+
+> [!tip]
+> More details about “Ryokan”  
+> https://www.mlit.go.jp/kankocho/ryokan/list_en.html
+
+{{< /accordion-item >}}
+---
+
+{{< accordion-item title="Web site for accommodation information" show="false" >}}
+
+**Web site for accommodation information**
+---
+
+Accommodation in the region can also be searched on booking.com, jalan.net (Japanese booking site, available in English), and Rakuten Travel, in addition to regional core cities like Tottori and Himeji.
+
+---
+
+Booking.com
+Search with keywords such as:
+- **kami,hyogo**
+- **yabu,hyogo**
+- **kamikawa,hyogo**
+
+You can also search surrounding areas such as **toyooka,hyogo** and **kinosaki onsen,hyogo**.
+
+---
+
+Jalan.net (English)
+A map of Hyogo Prefecture is displayed, and you can narrow your search by region.  
+Recommended keywords:
+- **Kasumi**
+- **Yabu**
+- **Harima (Kamikawa)**
+- **Kinosaki**
+
+https://www.jalan.net/en/japan_hotels_ryokan/Hyogo/
+
+---
+
+Rakuten Travel
+Search by entering the region name.  
+https://travel.rakuten.com/
+
+---
+
+> [!Note]
+> Western-style hotels are limited in number within the region.  
+> Larger hotels may already be booked by tour groups.  
+> Himeji and Tottori offer a sufficient number of Western-style hotels.  
+>  
+> Japanese inns often include breakfast and dinner in the price.  
+> Some allow you to skip dinner—please check individually.  
+>  
+> Minshuku (Japanese-style B&B) also often provide dinner.  
+>  
+> Some accommodations provide transportation to/from the official bus departure points.  
+> Information will be announced in September.
+
+### Tourism Information of each local government
+Hyogo Prefecture  
+https://www.hyogo-tourism.jp/world/
+
+Yabu City Tourism Association  
+https://www.yabu-kankou.jp/
+
+Kami Town  
+https://www.kami-tourism.com/
+
+Kamikawa Town  
+https://www.kamikawa-navi.jp
+
+### Online Travel Agencies
+Rakuten  
+https://travel.rakuten.com/
+
+Jalan  
+https://www.jalan.net/en/
+
+Booking.com  
+https://www.booking.com/
+
+Expedia  
+https://www.expedia.com/
+
+Agoda  
+https://www.agoda.com/
+
+Airbnb  
+https://www.airbnb.com/
+
+### Others
+Kami Town<br>
+https://www.town.mikata-kami.lg.jp/soshiki/shogaigakushu/6/1/636.html
+
+{{< /accordion-item >}}
+---
+
+{{< accordion-item title="Accommodation Focus Maps" show="false" >}}
+
+**Accommodation Focus Maps**
+---
+
+[PDF]Accommodation Focus Map of Yabu<br>
+<a href="/Accommodation&Transportation/02-1-F_Accommodation_Map_Hachi.pdf" download="02-1-F_Accommodation_Map_Hachi.pdf" class="btn btn-primary">Download</a><br>
+Hachi Kogen Area<br>
+![](/Accommodation&Transportation/02_1_F_Yabu_HachiKogen.svg)
+
+---
+[PDF]Accommodation Focus Map of Kami<br>
+<a href="/Accommodation&Transportation/02-2-F_Accommodation_Map_Kasumi_area_and_Hachikita.pdf" download="02-2-F_Accommodation_Map_Kasumi_area_and_Hachikita.pdf" class="btn btn-primary">Download</a><br>
+In order: General View, Kasumi Area, Shibayama Area, Satsu Area, Hachikita Area<br>
+
+![](/Accommodation&Transportation/02_2_F_Kami1_All.svg)<br>
+![](/Accommodation&Transportation/02_2_F_Kami2_Kasumi.svg)<br>
+![](/Accommodation&Transportation/02_2_F_Kami3_Shibayama.svg)
+![](/Accommodation&Transportation/02_2_F_Kami4_Satsu.svg)<br>
+![](/Accommodation&Transportation/02_2_F_Kami5_HachiKita.svg)<br>
+
+{{< /accordion-item >}}
+
+{{< /accordion >}}
+
+## Accommodation List
+
+=======
+>>>>>>> cca1ee46849fc5d1a7c07421c0860197ac6c9b9c:content/en/travel/hotels_list.md
 * To filter accommodations by area, please enter one of the following area names into the search field.
 
   ```
