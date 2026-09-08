@@ -140,6 +140,9 @@ https://www.agoda.com/
 Airbnb  
 https://www.airbnb.com/
 
+### Others
+Kami Town<br>
+https://www.town.mikata-kami.lg.jp/soshiki/shogaigakushu/6/1/636.html
 
 {{< /accordion-item >}}
 ---
