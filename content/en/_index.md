@@ -45,6 +45,10 @@ content_blocks:
 
 * Added [a page introducing orienteering for beginners]({{% ref "/forbeginners" %}})
 
+{{< badge title="12 Aug. 2026" >}}
+
+* Add [section for web sites for accomodations]({{% ref "travel/accommodation#web-site-for-accommodation-information" %}})
+
 {{< badge title="30 July. 2026" >}}
 
 * Added [Frequently Answers and Questions (FAQ) ]({{% ref "get_started/faq" %}}) page.
@@ -111,6 +115,9 @@ Please see here for transportation to each competition venue.
     {{< /card >}}
     {{< card  path="travel/sightseeing" header-style="publication"  title="Sightseeing" icon="fas suitcase-rolling" >}}
 Introducing the attractions around the competition area.
+    {{< /card >}}
+    {{< card  path="travel/accommodation" header-style="publication"  title="Accommodations" icon="fas bed" >}}
+Please click here for information on accommodation near each competition venue.
     {{< /card >}}
     {{< card  path="get_started/faq" header-style="publication"  title="FAQ" icon="fas circle-question" >}}
 Here are some frequently asked questions and their answers, sent to [contact@wmoc2027.jp](mailto:contact@wmoc2027.jp).
