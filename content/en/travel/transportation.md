@@ -16,7 +16,6 @@ content_blocks:
 
 {{< image src="image/event_map_japan.jpg" ratio="16x9" class="rounded" caption="Transportation from Haneda and Narita Airport and Place of pre \"Training\" event" >}}
 
-<<<<<<< HEAD
 [PDF]Public transportation<br>
 <a href="/Accommodation&Transportation/Public_transportation.pdf" download="Public_transportation.pdf" class="btn btn-primary">Download</a>
 
@@ -37,12 +36,12 @@ Please register via IOF Eventor.
 
 **Official bus fares:**
 
+
 | Remark | Price |
 |---|---|
 | Full schedule | 15,000 JPY |
 | Sprint only (3 days) | 7,000 JPY |
 | Forest only (5 days) | 10,000 JPY |
-
 
 The official bus service originates at **JR Yoka Station and JR Kasumi Station**, with stops available along the way at roadside stations (*Michi-no-Eki*: Yoka Tajima-no-Kura, Hachikita, and Muraoka Farm Garden).
 
@@ -57,6 +56,4 @@ You may be assigned a specific bus to use based on your start time on the day of
 [PDF]Official Bus Route (See page 34 of the PDF below.)<br>
 
 <a href="/Accommodation&Transportation/Accommodation_Information_Sept_2026.pdf" download="Accommodation_Information_Sept_2026.pdf" class="btn btn-primary">Download</a>
-=======
 {{< image src="image/event_map_detail.jpg" ratio="16x9" class="rounded" >}}
->>>>>>> cca1ee46849fc5d1a7c07421c0860197ac6c9b9c
