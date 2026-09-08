@@ -26,9 +26,11 @@ Please register via IOF Eventor.
 
 **Official bus fares:**
 
-- **Full schedule:** ¥15,000
-- **Sprint only (3 days):** ¥7,000
-- **Forest only (5 days):** ¥10,000
+| Remark | Price|
+|:---:|---:|
+|Full schedule|15,000 JPY|
+|Sprint only(3 days)|7,000 JPY|
+|Forest only(5 days)|10,000 JPY|
 
 The official bus service originates at **JR Yoka Station and JR Kasumi Station**, with stops available along the way at roadside stations (*Michi-no-Eki*: Yoka Tajima-no-Kura, Hachikita, and Muraoka Farm Garden).
 
