@@ -1,11 +1,22 @@
 ---
 title: Transportation
-description: This page provides information on available public transportation and official buses.
+description: Please see here for transportation to each competition venue.
+icon: fas train
+content_blocks:
+  - _bookshop_name: hero
+    heading:
+      title: Transportation
+      align: start
+      content: Events
+      width: 8
+    background:
+      backdrop: /image/2022_jwoc_relay1_susana_luzir.jpg
+    breadcrumb: true
 ---
 
-## For All Participants<br>
-![](/Accommodation&Transportation/Public_transportation.svg)
+{{< image src="image/event_map_japan.jpg" ratio="16x9" class="rounded" caption="Transportation from Haneda and Narita Airport and Place of pre \"Training\" event" >}}
 
+<<<<<<< HEAD
 [PDF]Public transportation<br>
 <a href="/Accommodation&Transportation/Public_transportation.pdf" download="Public_transportation.pdf" class="btn btn-primary">Download</a>
 
@@ -46,3 +57,6 @@ You may be assigned a specific bus to use based on your start time on the day of
 [PDF]Official Bus Route (See page 34 of the PDF below.)<br>
 
 <a href="/Accommodation&Transportation/Accommodation_Information_Sept_2026.pdf" download="Accommodation_Information_Sept_2026.pdf" class="btn btn-primary">Download</a>
+=======
+{{< image src="image/event_map_detail.jpg" ratio="16x9" class="rounded" >}}
+>>>>>>> cca1ee46849fc5d1a7c07421c0860197ac6c9b9c

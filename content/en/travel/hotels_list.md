@@ -1,12 +1,12 @@
 ---
-title: Accommodation List
+title: Accommodation directory
 description: Search for your preferred accommodation by entering a keyword.
 icon: fas bed
 fluid: true
 content_blocks:
   - _bookshop_name: hero
     heading:
-      title: Accommodation List
+      title: Accommodation directory
       align: start
       content: 
       width: 8
@@ -16,6 +16,7 @@ content_blocks:
 modules: ["simple-datatables"]
 ---
 
+<<<<<<< HEAD:content/en/travel/accommodation_list.md
 {{< accordion id="accommodation-info" class="accordion-flush" >}}
 
 {{< accordion-item title="Hotels or Ryokan (Japanese-style Inn)" show="false" >}}
@@ -174,6 +175,8 @@ In order: General View, Kasumi Area, Shibayama Area, Satsu Area, Hachikita Area<
 
 ## Accommodation List
 
+=======
+>>>>>>> cca1ee46849fc5d1a7c07421c0860197ac6c9b9c:content/en/travel/hotels_list.md
 * To filter accommodations by area, please enter one of the following area names into the search field.
 
   ```
