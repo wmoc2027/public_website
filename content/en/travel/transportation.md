@@ -20,7 +20,7 @@ content_blocks:
 <a href="/Accommodation&Transportation/Public_transportation.pdf" download="Public_transportation.pdf" class="btn btn-primary">Download</a>
 
 For details on JR (Japan Railways) discount passes, visit the page below<br>
-[**WMG2027 JR Kansai Wide Area Pass**](/travel/jr_kansai_wide_area_pass)
+[**WMG2027 JR Kansai Wide Area Pass**](/travel/jr_transport_pass)
 
 ## Official Bus Service for Reservations Holders
 

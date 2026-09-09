@@ -38,12 +38,6 @@
     weight = 10
 [[main]]
     parent = "travel"
-    identifier = "sightseeing"
-    name = "Sightseeing"
-    pageRef = "/travel/sightseeing"
-    weight = 11
-[[main]]
-    parent = "travel"
     identifier = "transportation"
     name = "Transportation"
     pageRef = "/travel/transportation"
@@ -66,6 +60,12 @@
     name = "Hotels list"
     pageRef = "/travel/hotels_list"
     weight = 15
+    [[main]]
+    parent = "travel"
+    identifier = "sightseeing"
+    name = "Sightseeing"
+    pageRef = "/travel/sightseeing"
+    weight = 16
 [[main]]
     identifier = "competitions"
     name = "COMPETITION"

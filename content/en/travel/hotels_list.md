@@ -16,13 +16,15 @@ content_blocks:
 modules: ["simple-datatables"]
 ---
 
-<<<<<<< HEAD:content/en/travel/accommodation_list.md
+{{< carousel id="carousel-1x1" ratio="1x1" class="col-sm-12 col-lg-6 mx-auto" >}}
+  {{< img src="image/event_map_detail.jpg" caption="slide 1" >}}
+  {{< img src="image/event_map_detail.jpg" caption="slide 2" >}}
+  {{< img src="image/event_map_detail.jpg" caption="slide 3" >}}
+{{< /carousel >}}
+
 {{< accordion id="accommodation-info" class="accordion-flush" >}}
 
 {{< accordion-item title="Hotels or Ryokan (Japanese-style Inn)" show="false" >}}
-
-**Hotels or Ryokan (Japanese-style Inn)**
----
 
 There are various options available in the region of WMOC and surrounding area.
 
@@ -40,7 +42,6 @@ Official buses with optional fees are available from some accommodations.
 * **Kamikawa (Long Final)**  
   https://www.kamikawa-navi.jp/en/
 
----
 The second option is **Kinosaki Onsen**, a famous hot spring resort with a variety of Japanese-style accommodations, situated 15–30 km from the WMOC venue.  
 The resort also offers some western-style hotels or Japanese-style inns with beds.
 
@@ -57,16 +58,11 @@ Please feel free to contact us at **contact@wmoc2027.jp** if you have further in
 > https://www.mlit.go.jp/kankocho/ryokan/list_en.html
 
 {{< /accordion-item >}}
----
 
 {{< accordion-item title="Web site for accommodation information" show="false" >}}
 
-**Web site for accommodation information**
----
-
 Accommodation in the region can also be searched on booking.com, jalan.net (Japanese booking site, available in English), and Rakuten Travel, in addition to regional core cities like Tottori and Himeji.
 
----
 
 Booking.com
 Search with keywords such as:
@@ -76,7 +72,6 @@ Search with keywords such as:
 
 You can also search surrounding areas such as **toyooka,hyogo** and **kinosaki onsen,hyogo**.
 
----
 
 Jalan.net (English)
 A map of Hyogo Prefecture is displayed, and you can narrow your search by region.  
@@ -88,13 +83,11 @@ Recommended keywords:
 
 https://www.jalan.net/en/japan_hotels_ryokan/Hyogo/
 
----
 
 Rakuten Travel
 Search by entering the region name.  
 https://travel.rakuten.com/
 
----
 
 > [!Note]
 > Western-style hotels are limited in number within the region.  
@@ -146,19 +139,16 @@ Kami Town<br>
 https://www.town.mikata-kami.lg.jp/soshiki/shogaigakushu/6/1/636.html
 
 {{< /accordion-item >}}
----
 
 {{< accordion-item title="Accommodation Focus Maps" show="false" >}}
 
-**Accommodation Focus Maps**
----
+<a href="/Accommodation&Transportation/02-1-F_Accommodation_Map_Hachi.pdf" download="02-1-F_Accommodation_Map_Hachi.pdf" class="btn btn-primary">Download</a>
+[PDF]Accommodation Focus Map of Yabu 
 
-[PDF]Accommodation Focus Map of Yabu<br>
-<a href="/Accommodation&Transportation/02-1-F_Accommodation_Map_Hachi.pdf" download="02-1-F_Accommodation_Map_Hachi.pdf" class="btn btn-primary">Download</a><br>
 Hachi Kogen Area<br>
+
 ![](/Accommodation&Transportation/02_1_F_Yabu_HachiKogen.svg)
 
----
 [PDF]Accommodation Focus Map of Kami<br>
 <a href="/Accommodation&Transportation/02-2-F_Accommodation_Map_Kasumi_area_and_Hachikita.pdf" download="02-2-F_Accommodation_Map_Kasumi_area_and_Hachikita.pdf" class="btn btn-primary">Download</a><br>
 In order: General View, Kasumi Area, Shibayama Area, Satsu Area, Hachikita Area<br>
@@ -169,14 +159,14 @@ In order: General View, Kasumi Area, Shibayama Area, Satsu Area, Hachikita Area<
 ![](/Accommodation&Transportation/02_2_F_Kami4_Satsu.svg)<br>
 ![](/Accommodation&Transportation/02_2_F_Kami5_HachiKita.svg)<br>
 
+
+
 {{< /accordion-item >}}
 
 {{< /accordion >}}
 
 ## Accommodation List
 
-=======
->>>>>>> cca1ee46849fc5d1a7c07421c0860197ac6c9b9c:content/en/travel/hotels_list.md
 * To filter accommodations by area, please enter one of the following area names into the search field.
 
   ```
