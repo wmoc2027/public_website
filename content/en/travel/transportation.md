@@ -16,7 +16,7 @@ content_blocks:
     breadcrumb: true
 ---
 
-![](/Accommodation_Transportation/Public_Transportation.png)
+![](/Accommodation_Transportation/Public_Transportation.svg)
 
 Public Transportation<br>
 {{< fas file-pdf fa-2xl >}}

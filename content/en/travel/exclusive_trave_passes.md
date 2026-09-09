@@ -16,7 +16,7 @@ content_blocks:
     breadcrumb: true
 ---
 
-![](/Accommodation_Transportation/Exclusive_Travel_Passes.png)
+![](/Accommodation_Transportation/Exclusive_Travel_Passes.svg)
 
 This is an unlimited-ride pass that allows for smooth travel across a wide range of JR West
 lines within the event area during the tournament.

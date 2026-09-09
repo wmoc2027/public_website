@@ -31,7 +31,7 @@ Also, you can download a PDF summarizing the accommodation information from the 
 
 ## Accommodation Information
 
-![](/Accommodation_Transportation/Area_Map.png)
+![](/Accommodation_Transportation/Area_Map.svg)
 
 The map shows the following:
 - Event centre and venues for the Sprint and Forest competitions of the WMG/WMOC 2027 orienteering event

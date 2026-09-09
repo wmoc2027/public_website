@@ -155,12 +155,12 @@ Accommodation Focus Map of Kami<br>
 
 {{< carousel id="carousel" ratio="16x9" class="d-block col-sm-12 col-lg-6 mx-auto"
  >}}
-  {{< img src="Accommodation_Transportation/Hachi_Kogen_Area_(Yabu).png" caption="Hachi Kogen Area (Yabu)" >}}
-  {{< img src="Accommodation_Transportation/General_View_(Kami).png" caption="General View (Kami)" >}}
-  {{< img src="Accommodation_Transportation/Kasumi_Area_(Kami).png" caption="Kasumi Area (Kami)" >}}
-  {{< img src="Accommodation_Transportation/Shibayama_Area_(Kami).png" caption="Shibayama Area (Kami)" >}}
-  {{< img src="Accommodation_Transportation/Satsu_Area_(Kami).png" caption="Satsu Area (Kami)" >}}
-  {{< img src="Accommodation_Transportation/Hachikita_Area_(Kami).png" caption="Hachikita Area (Kami)" >}}
+  {{< img src="Accommodation_Transportation/Hachi_Kogen_Area_(Yabu).svg" caption="Hachi Kogen Area (Yabu)" >}}
+  {{< img src="Accommodation_Transportation/General_View_(Kami).svg" caption="General View (Kami)" >}}
+  {{< img src="Accommodation_Transportation/Kasumi_Area_(Kami).svg" caption="Kasumi Area (Kami)" >}}
+  {{< img src="Accommodation_Transportation/Shibayama_Area_(Kami).svg" caption="Shibayama Area (Kami)" >}}
+  {{< img src="Accommodation_Transportation/Satsu_Area_(Kami).svg" caption="Satsu Area (Kami)" >}}
+  {{< img src="Accommodation_Transportation/Hachikita_Area_(Kami).svg" caption="Hachikita Area (Kami)" >}}
 {{< /carousel >}}
 
 ## Accommodation List
