@@ -147,17 +147,9 @@ https://www.town.mikata-kami.lg.jp/soshiki/shogaigakushu/6/1/636.html
 
 Hachi Kogen Area<br>
 
-![](/Accommodation&Transportation/02_1_F_Yabu_HachiKogen.svg)
-
 [PDF]Accommodation Focus Map of Kami<br>
 <a href="/Accommodation&Transportation/02-2-F_Accommodation_Map_Kasumi_area_and_Hachikita.pdf" download="02-2-F_Accommodation_Map_Kasumi_area_and_Hachikita.pdf" class="btn btn-primary">Download</a><br>
 In order: General View, Kasumi Area, Shibayama Area, Satsu Area, Hachikita Area<br>
-
-![](/Accommodation&Transportation/02_2_F_Kami1_All.svg)<br>
-![](/Accommodation&Transportation/02_2_F_Kami2_Kasumi.svg)<br>
-![](/Accommodation&Transportation/02_2_F_Kami3_Shibayama.svg)
-![](/Accommodation&Transportation/02_2_F_Kami4_Satsu.svg)<br>
-![](/Accommodation&Transportation/02_2_F_Kami5_HachiKita.svg)<br>
 
 
 
