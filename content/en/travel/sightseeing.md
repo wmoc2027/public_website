@@ -1,11 +1,11 @@
 ---
-title: Sightseeing
+title: SIGHTSEEING
 description: Introducing the attractions around the competition area.
 icon: fas suitcase-rolling
 content_blocks:
   - _bookshop_name: hero
     heading:
-      title: Sightseeing
+      title: SIGHTSEEING
       align: start
       content: Travel
       width: 8

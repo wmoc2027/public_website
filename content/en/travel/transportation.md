@@ -1,11 +1,11 @@
 ---
-title: Transportation
+title: TRANSPORTATION
 description: Please see here for transportation to each competition venue.
 icon: fas train
 content_blocks:
   - _bookshop_name: hero
     heading:
-      title: Transportation
+      title: TRANSPORTATION
       align: start
       content: Events
       width: 8
@@ -20,7 +20,7 @@ content_blocks:
 <a href="/Accommodation&Transportation/Public_transportation.pdf" download="Public_transportation.pdf" class="btn btn-primary">Download</a>
 
 For details on JR (Japan Railways) discount passes, visit the page below<br>
-[**WMG2027 JR Kansai Wide Area Pass**](/travel/jr_transport_pass)
+[**WMG2027 JR Kansai Wide Area Pass**](travel/exclusive_trave_passes)
 
 ## Official Bus Service for Reservations Holders
 

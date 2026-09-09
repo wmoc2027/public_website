@@ -1,11 +1,11 @@
 ---
-title: Accommodations
+title: ACCOMMODATION
 description: Here is an information on accommodation near each competition venue.
 icon: fas bed
 content_blocks:
   - _bookshop_name: hero
     heading:
-      title: Accommodation
+      title: ACCOMMODATION
       align: start
       content: Events
       width: 8

@@ -1,12 +1,12 @@
 ---
-title: Accommodation directory
+title: ACCOMMODATION DIRECTORY
 description: Search for your preferred accommodation by entering a keyword.
 icon: fas bed
 fluid: true
 content_blocks:
   - _bookshop_name: hero
     heading:
-      title: Accommodation directory
+      title: ACCOMMODATION DIRECTORY
       align: start
       content: 
       width: 8
