@@ -1,5 +1,6 @@
 ---
 title: ACCOMMODATION DIRECTORY
+weight: 12
 description: On this page, you can view detailed lodging information as well as a list of accommodations.
 icon: fas bed
 fluid: true

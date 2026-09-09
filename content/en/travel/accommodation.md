@@ -1,5 +1,6 @@
 ---
 title: ACCOMMODATION
+weight: 11
 description: Here is an information on accommodation near each competition venue.
 icon: fas bed
 fluid: true
@@ -21,7 +22,7 @@ Also, you can download a PDF summarizing the accommodation information from the 
 
 {{< fas file-pdf fa-2xl >}}
 {{< pdf-modal 
-    file="/Accommodation_Transportation/Accommodation_Information_Sept_2026.pdf" 
+ file="/Accommodation_Transportation/Accommodation_Information_Sept_2026.pdf" 
     title="Download" 
     id="accommodation_information" 
 >}}
@@ -30,7 +31,7 @@ Also, you can download a PDF summarizing the accommodation information from the 
 
 ## Accommodation Information
 
-![](/Accommodation_Transportation/01_Area_map.svg)
+![](/Accommodation_Transportation/Area_Map.svg)
 
 The map shows the following:
 - Event centre and venues for the Sprint and Forest competitions of the WMG/WMOC 2027 orienteering event

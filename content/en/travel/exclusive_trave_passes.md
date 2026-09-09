@@ -1,7 +1,9 @@
 ---
 title: EXCLUSIVE TRAVEL PASSES
+weight: 14
 description: Details have been released regarding the sale of a WMG-exclusive transport pass that offers great value for orienteering participants. WMG2027 participants are eligible to purchase the &quot;WMG2027 JR Kansai Wide Area Pass.&quot;
 icon: fas train
+fluid: true
 content_blocks:
   - _bookshop_name: hero
     heading:
@@ -14,9 +16,7 @@ content_blocks:
     breadcrumb: true
 ---
 
-![](https://images.microcms-assets.io/assets/64fc4bbb59984b12bd20b794d0532861/3d630b1dcd8b497b8e6b8cca0b26374e/en_202611JWRP_WMG_routemap.jpg?w=1000&h=750)
-
-
+![](/Accommodation_Transportation/Exclusive_Travel_Passes.svg)
 
 This is an unlimited-ride pass that allows for smooth travel across a wide range of JR West
 lines within the event area during the tournament.

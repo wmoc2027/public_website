@@ -1,5 +1,6 @@
 ---
 title: SIGHTSEEING
+weight: 15
 description: Introducing the attractions around the competition area.
 icon: fas suitcase-rolling
 fluid: true
