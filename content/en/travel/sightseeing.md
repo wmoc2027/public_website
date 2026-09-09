@@ -2,6 +2,7 @@
 title: SIGHTSEEING
 description: Introducing the attractions around the competition area.
 icon: fas suitcase-rolling
+fluid: true
 content_blocks:
   - _bookshop_name: hero
     heading:
