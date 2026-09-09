@@ -39,6 +39,10 @@ content_blocks:
 
 {{< badge title="28 Aug. 2026" >}}
 
+{{< badge title="10 Sep. 2026" >}}
+
+* Added Informations of [Accommodation and Transportation](travel)
+
 * [WMG2027 JR Kansai WIDE Area Pass Now Available](travel/jr_transport_pass)
 
 {{< badge title="16 Aug. 2026" >}}

@@ -34,7 +34,7 @@
 [[main]]
     identifier = "travel"
     name = "TRAVEL"
-    pageRef = "/travel"
+    pageRef = "/travel/"
     weight = 10
 [[main]]
     parent = "travel"
