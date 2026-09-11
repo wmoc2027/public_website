@@ -56,7 +56,7 @@ jobs:
       - name: Install Node.js dependencies
         run: |
           hugo mod npm pack
-          npm install
+          npm install --legacy-peer-deps # 💡 バージョン競合を無視して強制インストールするフラグを追加
 
       # グローバル環境にもCLIツールを展開
       - name: Install PostCSS Globally
