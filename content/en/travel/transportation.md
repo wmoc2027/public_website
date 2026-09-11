@@ -16,7 +16,8 @@ content_blocks:
     breadcrumb: true
 ---
 
-![](/Accommodation_Transportation/Public_Transportation.svg)
+{{< image src="/Accommodation_Transportation/Public_Transportation.svg" class="img-fluid w-50" wrapper="text-center" >}}
+
 
 Public Transportation<br>
 {{< fas file-pdf fa-2xl >}}
