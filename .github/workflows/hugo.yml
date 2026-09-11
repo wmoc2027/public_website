@@ -51,7 +51,6 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '20'
-          cache: 'npm'
 
       # 2. 条件分岐を外し、package.jsonがある場合は確実にローカルへインストール
       # (無ければ npm init -y もしくは最低限のインストールを行います)
