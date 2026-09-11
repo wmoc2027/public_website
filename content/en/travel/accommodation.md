@@ -1,11 +1,13 @@
 ---
-title: Accommodations
+title: ACCOMMODATION
+weight: 11
 description: Here is an information on accommodation near each competition venue.
 icon: fas bed
+fluid: true
 content_blocks:
   - _bookshop_name: hero
     heading:
-      title: Accommodation
+      title: ACCOMMODATION
       align: start
       content: Events
       width: 8
@@ -14,59 +16,51 @@ content_blocks:
     breadcrumb: true
 ---
 
-# Hotels or "Ryokan" the Japanese style inn
+# Accommodation Information for the Host City and Towns of WMG/WMOC 2027 Orienteering
+On this page, you can download the PDF by clicking the “Download” button.
+Also, you can download a PDF summarizing the accommodation information from the link below.<br>
 
-There are various options available in the region of WMOC and surrounding area.
+{{< fas file-pdf fa-2xl >}}
+{{< pdf-modal 
+ file="/Accommodation_Transportation/Accommodation_Information_Sept_2026.pdf" 
+    title="Download" 
+    id="accommodation_information" 
+>}}
 
-The first option is staying the host municipalities of the WMOC. Please refer to the following web site of those municipalities. Please also note that the western style hotels or inns are limited, but you might also find wonderful Japanese style inns "ryokan" or Independently owned "minshuku". The official buses with optional fees are available from some of accommodations.
+---
 
-* Kami-Town (Sprint, Middle Final)
-  
-  [https://visitkami.com/](https://visitkami.com/)
+## Accommodation Information
 
-* Yabu-City  (Forest Q) 
+![](/Accommodation_Transportation/Area_Map.svg)
 
-  [https://visityabu.jp/](https://visityabu.jp/)
+The map shows the following:
+- Event centre and venues for the Sprint and Forest competitions of the WMG/WMOC 2027 orienteering event
+- Railways (including the JR San-in Main Line) and major roads connecting these locations
+- Official bus routes
+- Major accommodation areas
 
-* Kamikawa (Long Final)
-  
-  [https://www.kamikawa-navi.jp/en/](https://www.kamikawa-navi.jp/en/)
+For full details of the accommodation list, please visit the following page.<br>
+[**ACCOMMODATION DIRECTORY**](/travel/accommodation_directory/)
 
-The second option is [Kinosaki Onsen](https://maps.app.goo.gl/aKcz9RwMwh2DD5zPA), which is famous hot spring resort with variety of Japanese-Style accommodations, situated 15-30km from WMOC venue.　The resort also offers some western style hotels or Japanese Style Inns with beds.
+The “Area” column in the Accommodation List corresponds to the accommodation areas marked in pink on the area map above.
 
-The third option is staying [Tottori](https://maps.app.goo.gl/VFpWDGEaNhouNzpdA) or [Himeji](https://maps.app.goo.gl/gw3T7qa84QPco6eP7) (both of them are regional core cities), which are 1.5-2 hours apart from WMOC venue but have many hotels of various ranks.
+- Information provided for each accommodation includes location, access, rooms, meals, foreign language support, access to the event venue, etc.
+- Regarding reservations, in addition to using Online Travel Agencies (OTAs), many facilities accept bookings made directly via their websites or by email.
+- Please contact each facility directly via email or other means to confirm details such as room types, meal options, transportation services, and other details. While many Japanese accommodations include meals in their rates, some also offer "room-only" (no-meal) plans.
+- Most accommodation websites are available only in Japanese; however, you can view them in other languages by using tools such as Google Translate.
 
-We are planning to provide bus services from Kinosaki Onsen (second option), and Tottori and Himeji Station (third option) to the Venue. Details will be announced soon.
+---
 
-We are looking forward to meet you at the WMOC 2027 and please feel free to [contact us](mailto:contact@wmoc2027.jp) if you have further inquiries. 
+## Convenience Stores & Supermarkets
 
-> [!tip]
-> For more details of "Ryokan" is on this site
-> 
-> [https://www.mlit.go.jp/kankocho/ryokan/list_en.html](https://www.mlit.go.jp/kankocho/ryokan/list_en.html)
+{{< fas file-pdf fa-2xl >}}
+{{< pdf-modal 
+    file="/Accommodation_Transportation/ConvenienceStore_Supermarket.pdf" 
+    title="Download" 
+    id="convenience_supermarket" 
+>}}
 
-# Web site for accommodation Information
+There are no shops selling groceries or daily necessities near the forest event area.  
+We have therefore included information on convenience stores and supermarkets in the area.
 
-Accommodation in the region can also be searched on booking.com, jalan.net (a Japanese booking site, also available in English), and Rakuten Travel, in addition to regional core cities like Tottori and Himeji.
-
-On booking.com,
-with key words, "kami,hyogo; yabu,hyogo; kamikawa,hyogo" you will find accommodations within the host municipalities. You can also search for surrounding areas such as toyooka,hyogo; and kinosaki onsen,hyogo, and find many accommodations listed.
-
-The Japanese accommodation booking site (Jalan.net; English)
-also allows you to find accommodations in Hyogo Prefecture. A map of Hyogo Prefecture is displayed, and you can narrow your search by region. Please search using key words, such as, Kasumi, Yabu, and Harima (Kamikawa) or Kinosaki.
-
-https://www.jalan.net/en/japan_hotels_ryokan/Hyogo/
-
-Rakuten Travel
-You can find by entering the region name.
-
-https://travel.rakuten.com/
-
-> [!Note]
-> Western-style hotels are limited in number within the region. Larger hotels, in particular, may already be booked by tour groups. Himeji and Tottori offer a sufficient number of Western-style hotels. Western-style hotels offer room-only or breakfast-included options.
-> 
-> While some Japanese inns offer beds, it's common to sleep on futons on tatami mats. The futons are soft enough to allow for relaxation This in itself will be an exotic experience! Also, the price of Japanese inns regularly includes breakfast and dinner. Please pay attention when checking prices. Some accommodations allow you to skip dinner, but please check individually on their websites.
-> 
-> Minshuku (Japanese-style bed and breakfast) also often provide dinner, but again, some accommodations allow you to skip dinner, but please check individually on their websites.
-> 
-> Within the region, there are accommodations that will provide transportation to and from the departure point of the official buses to the Arena. Information on such accommodations will be announced in September.
+---

@@ -1,12 +1,13 @@
 ---
-title: Accommodation directory
-description: Search for your preferred accommodation by entering a keyword.
+title: ACCOMMODATION DIRECTORY
+weight: 12
+description: On this page, you can view detailed lodging information as well as a list of accommodations.
 icon: fas bed
 fluid: true
 content_blocks:
   - _bookshop_name: hero
     heading:
-      title: Accommodation directory
+      title: ACCOMMODATION DIRECTORY
       align: start
       content: 
       width: 8
@@ -15,12 +16,6 @@ content_blocks:
     breadcrumb: true
 modules: ["simple-datatables"]
 ---
-
-{{< carousel id="carousel-1x1" ratio="1x1" class="col-sm-12 col-lg-6 mx-auto" >}}
-  {{< img src="image/event_map_detail.jpg" caption="slide 1" >}}
-  {{< img src="image/event_map_detail.jpg" caption="slide 2" >}}
-  {{< img src="image/event_map_detail.jpg" caption="slide 3" >}}
-{{< /carousel >}}
 
 {{< accordion id="accommodation-info" class="accordion-flush" >}}
 
@@ -135,35 +130,38 @@ Airbnb
 https://www.airbnb.com/
 
 ### Others
-Kami Town<br>
+Kami Town  
 https://www.town.mikata-kami.lg.jp/soshiki/shogaigakushu/6/1/636.html
 
 {{< /accordion-item >}}
 
-{{< accordion-item title="Accommodation Focus Maps" show="false" >}}
-
-<a href="/Accommodation&Transportation/02-1-F_Accommodation_Map_Hachi.pdf" download="02-1-F_Accommodation_Map_Hachi.pdf" class="btn btn-primary">Download</a>
-[PDF]Accommodation Focus Map of Yabu 
-
-Hachi Kogen Area<br>
-
-![](/Accommodation&Transportation/02_1_F_Yabu_HachiKogen.svg)
-
-[PDF]Accommodation Focus Map of Kami<br>
-<a href="/Accommodation&Transportation/02-2-F_Accommodation_Map_Kasumi_area_and_Hachikita.pdf" download="02-2-F_Accommodation_Map_Kasumi_area_and_Hachikita.pdf" class="btn btn-primary">Download</a><br>
-In order: General View, Kasumi Area, Shibayama Area, Satsu Area, Hachikita Area<br>
-
-![](/Accommodation&Transportation/02_2_F_Kami1_All.svg)<br>
-![](/Accommodation&Transportation/02_2_F_Kami2_Kasumi.svg)<br>
-![](/Accommodation&Transportation/02_2_F_Kami3_Shibayama.svg)
-![](/Accommodation&Transportation/02_2_F_Kami4_Satsu.svg)<br>
-![](/Accommodation&Transportation/02_2_F_Kami5_HachiKita.svg)<br>
-
-
-
-{{< /accordion-item >}}
-
 {{< /accordion >}}
+
+Accommodation Focus Map of Yabu<br>
+{{< fas file-pdf fa-2xl >}}
+{{< pdf-modal 
+    file="/Accommodation_Transportation/Accommodation_Focus_Map_of_Yabu.pdf" 
+    title="Download" 
+    id="Accommodation_Focus_Map_of_Yabu" 
+>}} 
+
+Accommodation Focus Map of Kami<br>
+{{< fas file-pdf fa-2xl >}}
+{{< pdf-modal 
+    file="/Accommodation_Transportation/Accommodation_Focus_Map_of_Kami.pdf" 
+    title="Download" 
+    id="Accommodation_Focus_Map_of_Kami" 
+>}} 
+
+{{< carousel id="carousel" ratio="16x9" class="d-block col-sm-12 col-lg-6 mx-auto"
+ >}}
+  {{< img src="Accommodation_Transportation/Hachi_Kogen_Area_(Yabu).svg" caption="Hachi Kogen Area (Yabu)" >}}
+  {{< img src="Accommodation_Transportation/General_View_(Kami).svg" caption="General View (Kami)" >}}
+  {{< img src="Accommodation_Transportation/Kasumi_Area_(Kami).svg" caption="Kasumi Area (Kami)" >}}
+  {{< img src="Accommodation_Transportation/Shibayama_Area_(Kami).svg" caption="Shibayama Area (Kami)" >}}
+  {{< img src="Accommodation_Transportation/Satsu_Area_(Kami).svg" caption="Satsu Area (Kami)" >}}
+  {{< img src="Accommodation_Transportation/Hachikita_Area_(Kami).svg" caption="Hachikita Area (Kami)" >}}
+{{< /carousel >}}
 
 ## Accommodation List
 
@@ -174,6 +172,8 @@ In order: General View, Kasumi Area, Shibayama Area, Satsu Area, Hachikita Area<
   ```
 
 * To view a hotel's location on Google Maps, click the link in the "Address" row under the "Details" column.
+
+* **Search for your preferred accommodation by entering a keyword**.
 
 {{< table filter-col="1" filter="Yoka,Yabu,Sekinomiya,Kasumi,Shibayama,Satsu,Ojiro,Hachi-Kita,Kamikawa" sortable="true" searchable="true" paginate="true" pagination=5  wrap="false" >}}
 | Name                                                                                                            | Area       | Type                       | Bathroom                                        | Breakfast            | Dinner                  | WC                                         | Distance to the nearest Official Bus Stop                   | Details                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |

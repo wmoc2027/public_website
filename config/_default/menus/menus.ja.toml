@@ -34,33 +34,33 @@
     weight = 4
 [[main]]
     identifier = "travel"
-    name = "交通と宿泊"
+    name = "宿泊と交通"
     pageRef = "/travel/"
     weight = 10
+[[main]]
+    parent = "travel"
+    identifier = "accommodation"
+    name = "宿泊情報"
+    pageRef = "/travel/accommodation/"
+    weight = 1
+[[main]]
+    parent = "travel"
+    identifier = "transportation"
+    name = "交通情報"
+    pageRef = "/travel/transportation"
+    weight = 13
+[[main]]
+    parent = "travel"
+    identifier = "乗り放題チケット"
+    name = "JR関西ワイドエリアパス"
+    pageRef = "travel/exclusive_trave_passes"
+    weight = 14
 [[main]]
     parent = "travel"
     identifier = "sightseeing"
     name = "観光"
     pageRef = "/travel/sightseeing"
-    weight = 11
-[[main]]
-    parent = "travel"
-    identifier = "transportation"
-    name = "アクセス"
-    pageRef = "/travel/transportation"
-    weight = 12
-[[main]]
-    parent = "travel"
-    identifier = "乗り放題チケット"
-    name = "JR関西ワイドエリアパス"
-    pageRef = "/travel/jr_transport_pass"
-    weight = 13
-[[main]]
-    parent = "travel"
-    identifier = "accommodation"
-    name = "宿泊情報"
-    pageRef = "/travel/accommodation"
-    weight = 14
+    weight = 15
 [[main]]
     identifier = "competitions"
     name = "競技情報"

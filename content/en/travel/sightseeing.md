@@ -1,11 +1,13 @@
 ---
-title: Sightseeing
+title: SIGHTSEEING
+weight: 15
 description: Introducing the attractions around the competition area.
 icon: fas suitcase-rolling
+fluid: true
 content_blocks:
   - _bookshop_name: hero
     heading:
-      title: Sightseeing
+      title: SIGHTSEEING
       align: start
       content: Travel
       width: 8
