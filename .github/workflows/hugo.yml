@@ -46,24 +46,19 @@ jobs:
         with:
           submodules: recursive
 
-      # 1. Node.js環境を明示的にセットアップ
+      # Node.js環境のセットアップ (Node 22)
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '22'
 
-      # 2. 条件分岐を外し、package.jsonがある場合は確実にローカルへインストール
-      # (無ければ npm init -y もしくは最低限のインストールを行います)
+      # Hinodeテーマの構成ファイルをルートに引き出し、依存パッケージを完全にインストール
       - name: Install Node.js dependencies
         run: |
-          if [ -f package.json ]; then
-            npm install
-          else
-            npm init -y
-            npm install postcss postcss-cli autoprefixer
-          fi
+          hugo mod npm pack
+          npm install
 
-      # 3. グローバル環境にも必要なCLIツールを展開
+      # グローバル環境にもCLIツールを展開
       - name: Install PostCSS Globally
         run: sudo npm install -g postcss postcss-cli autoprefixer
 
@@ -71,11 +66,13 @@ jobs:
         id: pages
         uses: actions/configure-pages@v5
 
+      # ビルド実行（環境変数を追加してパスのズレを完全に防ぎます）
       - name: Build with Hugo
         if: github.repository == 'wmoc2027/public_website'
         env:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
           HUGO_ENVIRONMENT: production
+          PWD: ${{ github.workspace }}   # 💡 PostCSSが設定ファイルを見つけられるようカレントパスを明示
         run: |
           hugo \
             --minify \
@@ -86,6 +83,7 @@ jobs:
         env:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
           HUGO_ENVIRONMENT: draft
+          PWD: ${{ github.workspace }}   # 💡 同様にパスを明示
         run: |
           hugo \
             --minify \
