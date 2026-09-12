@@ -53,7 +53,7 @@
     parent = "travel"
     identifier = "乗り放題チケット"
     name = "JR関西ワイドエリアパス"
-    pageRef = "travel/exclusive_trave_passes"
+    pageRef = "travel/jr_transport_pass"
     weight = 14
 [[main]]
     parent = "travel"
