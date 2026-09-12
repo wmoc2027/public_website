@@ -16,7 +16,7 @@ content_blocks:
     breadcrumb: true
 ---
 
-{{< image src="/Accommodation_Transportation/Public_Transportation.svg" class="img-fluid w-50" wrapper="text-center" >}}
+{{< image src="/Accommodation_Transportation/Public_Transportation.svg" class="img-fluid w-100" wrapper="text-center" >}}
 
 
 Public Transportation<br>
@@ -28,7 +28,7 @@ Public Transportation<br>
 >}} 
 
 For details on JR (Japan Railways) discount passes, visit the page below<br>
-[**EXCLUSIVE TRAVEL PASSES**](travel/exclusive_trave_passes)
+[**EXCLUSIVE TRAVEL PASSES**](travel/jr_transport_pass)
 
 ## Official Bus Service for Reservations Holders
 

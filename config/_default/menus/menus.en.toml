@@ -58,7 +58,7 @@
     parent = "travel"
     identifier = "exclusive_trave_passes"
     name = "EXCLUSIVE TRAVEL PASSES"
-    pageRef = "/travel/exclusive_trave_passes"
+    pageRef = "/travel/jr_transport_pass"
     weight = 14
 [[main]]
     parent = "travel"
