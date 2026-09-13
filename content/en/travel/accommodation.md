@@ -17,6 +17,7 @@ content_blocks:
 ---
 
 # Accommodation Information for the Host City and Towns of WMG/WMOC 2027 Orienteering
+
 On this page, you can download the PDF by clicking the “Download” button.
 Also, you can download a PDF summarizing the accommodation information from the link below.<br>
 
