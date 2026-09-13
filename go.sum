@@ -1,5 +1,7 @@
 github.com/FortAwesome/Font-Awesome v0.0.0-20260210181720-337dd2045d56 h1:wZEHFCO5SVesIEn1oBuo3ltK7stDYViJsNT2aGRSXN4=
 github.com/FortAwesome/Font-Awesome v0.0.0-20260210181720-337dd2045d56/go.mod h1:IUgezN/MFpCDIlFezw3L8j83oeiIuYoj28Miwr/KUYo=
+github.com/FortAwesome/Font-Awesome v0.0.0-20260715180930-14c65a3747d0 h1:4+bB2ojsMTsQroHtQr1FWy2gxFzpBn5hISldeRfxF+o=
+github.com/FortAwesome/Font-Awesome v0.0.0-20260715180930-14c65a3747d0/go.mod h1:IUgezN/MFpCDIlFezw3L8j83oeiIuYoj28Miwr/KUYo=
 github.com/airbnb/lottie-web v5.13.0+incompatible h1:plBV5Uq/F1kK0EC61Hr0cBGReI9OgUfd/pp0baoDX8o=
 github.com/airbnb/lottie-web v5.13.0+incompatible/go.mod h1:nTss557UK9FGnp8QYlCMO29tjUHwbdAHG/DprbGfHGE=
 github.com/cloudcannon/bookshop/hugo/v3 v3.18.2 h1:j3XUvvuCv/7SfGKzd7gzb3WEgs1DurqTRDe7gdMAAvU=
@@ -8,14 +10,20 @@ github.com/cloudcannon/bookshop/hugo/v3 v3.18.5 h1:AKWzUQpWcBSbJgHQ/5cfPQtGX40bn
 github.com/cloudcannon/bookshop/hugo/v3 v3.18.5/go.mod h1:s7mIonDhtsLcn10ZKuVXyqd6BDHI8vT1WQhZw8rPfY8=
 github.com/cloudcannon/bookshop/hugo/v3 v3.19.0 h1:khb65FKbLXMWvm34OULEpKReCwNzE5rY1/bnC+rpMwI=
 github.com/cloudcannon/bookshop/hugo/v3 v3.19.0/go.mod h1:s7mIonDhtsLcn10ZKuVXyqd6BDHI8vT1WQhZw8rPfY8=
+github.com/cloudcannon/bookshop/hugo/v3 v3.20.0 h1:cplbvPKQhmRv+1gyaP61+mu5MEVoOGUEVvdoi4hmuYA=
+github.com/cloudcannon/bookshop/hugo/v3 v3.20.0/go.mod h1:s7mIonDhtsLcn10ZKuVXyqd6BDHI8vT1WQhZw8rPfY8=
 github.com/gethinode/hinode/v2 v2.12.1 h1:eISoR8Sh6rIE6J5jqvkQFVr8f76KkezL+KicpeXRU7A=
 github.com/gethinode/hinode/v2 v2.12.1/go.mod h1:69RSie5ub0JGbTr+WtHZNLLaU0JNDhzPHdJAbxuykjE=
 github.com/gethinode/hinode/v2 v2.20.0 h1:WSfhRbJaK3NEB34T7dZMJhq8YvseBapn3cOFFYfXURs=
 github.com/gethinode/hinode/v2 v2.20.0/go.mod h1:TgOeFsqFMU2iboO+iMk/JRq6yZiOQXWl/oXBtIm1+3w=
+github.com/gethinode/hinode/v3 v3.24.0 h1:IJFHlvFQBqfXdAvp3IKJcQjKLYb8q0WCAo5sQlxiI1w=
+github.com/gethinode/hinode/v3 v3.24.0/go.mod h1:/9PtJMB9HPhv7WtHd4bg+FUwTRbi9I9L3sGR9i6saFA=
 github.com/gethinode/mod-blocks v1.22.1 h1:akTuUmBbC81SvgfVIRXCu/g4UuelEYnlhjYNVmyE2UM=
 github.com/gethinode/mod-blocks v1.22.1/go.mod h1:7a0rJUYtWi9HJZ6sf/7aiuZiVnMxh/r8ZuArv0ELlbM=
 github.com/gethinode/mod-blocks v1.24.0 h1:QVKs3yh6CwrqdtCyZhagwaDQxa+gUlyq2KhYEWuq1k4=
 github.com/gethinode/mod-blocks v1.24.0/go.mod h1:fPJnt8bW7dk7S1xPGStwqpHnzIGwETnN4SBmvLPoZa0=
+github.com/gethinode/mod-blocks/v2 v2.6.0 h1:KXJKut0ubKVU6v3Gl+6pz8hrYHvjoHOvsp/7kXyNVtw=
+github.com/gethinode/mod-blocks/v2 v2.6.0/go.mod h1:qpgUtHU2KdxhAHpjV9jZUyqGafHgFVDsyyu8P2uJnCs=
 github.com/gethinode/mod-bootstrap v1.3.6 h1:TMNifG5iV6PrrvHPfcIu1Urfdisae/bXmaY1RPhfIIU=
 github.com/gethinode/mod-bootstrap v1.3.6/go.mod h1:CxrYCFzKtBMz3YWG5i/d5jHKCgvUo60NFcCmz2mxCjQ=
 github.com/gethinode/mod-bootstrap v1.3.7 h1:rbjOg//q7dbsM+TkDQLsyk9LKv93D1RUjtcSkvV55UU=
@@ -28,6 +36,8 @@ github.com/gethinode/mod-csp v1.0.11 h1:kQKQWF0UL/RT8m5t+VBbTGyo2vTWmCwVXKrHDuCw
 github.com/gethinode/mod-csp v1.0.11/go.mod h1:Nb22QMicoUHgZQUKP5TCgVrSI8K3KU7jLuLBShmotjg=
 github.com/gethinode/mod-csp v1.0.13 h1:d1lJTl6/ooPYYQEa/Trn3O4cWx70yV1GYBi9ctGNYrU=
 github.com/gethinode/mod-csp v1.0.13/go.mod h1:Nb22QMicoUHgZQUKP5TCgVrSI8K3KU7jLuLBShmotjg=
+github.com/gethinode/mod-csp v1.0.14 h1:9lzgaGrLhLoOy1AnQrUrry+HBR5cfGinHEFCj5Xa1Vk=
+github.com/gethinode/mod-csp v1.0.14/go.mod h1:Nb22QMicoUHgZQUKP5TCgVrSI8K3KU7jLuLBShmotjg=
 github.com/gethinode/mod-flexsearch/v4 v4.3.1 h1:5i/DPWICh/fP1gg9x0bbrh192J3YDJA0VOCPxEJ66E8=
 github.com/gethinode/mod-flexsearch/v4 v4.3.1/go.mod h1:v/6gSW2NeYuWs1JNS7FrBpSYwoNDDP9cARV8lrcv6rI=
 github.com/gethinode/mod-flexsearch/v4 v4.3.3 h1:/h900BK1zmfI3NQ/xp6srFNnPABiJhVaAg+xhiN+v1U=

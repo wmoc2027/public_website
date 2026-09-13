@@ -3,13 +3,15 @@ module example.com/wmoc2027
 go 1.24.5
 
 require (
-	github.com/FortAwesome/Font-Awesome v0.0.0-20260210181720-337dd2045d56 // indirect
+	github.com/FortAwesome/Font-Awesome v0.0.0-20260715180930-14c65a3747d0 // indirect
 	github.com/airbnb/lottie-web v5.13.0+incompatible // indirect
-	github.com/cloudcannon/bookshop/hugo/v3 v3.19.0 // indirect
+	github.com/cloudcannon/bookshop/hugo/v3 v3.20.0 // indirect
 	github.com/gethinode/hinode/v2 v2.20.0 // indirect
+	github.com/gethinode/hinode/v3 v3.24.0 // indirect
 	github.com/gethinode/mod-blocks v1.24.0 // indirect
+	github.com/gethinode/mod-blocks/v2 v2.6.0 // indirect
 	github.com/gethinode/mod-bootstrap v1.5.0 // indirect
-	github.com/gethinode/mod-csp v1.0.13 // indirect
+	github.com/gethinode/mod-csp v1.0.14 // indirect
 	github.com/gethinode/mod-flexsearch/v4 v4.3.3 // indirect
 	github.com/gethinode/mod-fontawesome/v5 v5.1.1 // indirect
 	github.com/gethinode/mod-google-analytics/v2 v2.0.4 // indirect
