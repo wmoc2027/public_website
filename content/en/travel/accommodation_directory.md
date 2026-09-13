@@ -137,45 +137,25 @@ https://www.town.mikata-kami.lg.jp/soshiki/shogaigakushu/6/1/636.html
 
 {{< /accordion >}}
 
-Accommodation Focus Map of Yabu<br>
-{{< fas file-pdf fa-2xl >}}
-{{< pdf-modal 
-    file="/Accommodation_Transportation/Accommodation_Focus_Map_of_Yabu.pdf" 
-    title="Download" 
-    id="Accommodation_Focus_Map_of_Yabu" 
->}} 
-
-Accommodation Focus Map of Kami<br>
-{{< fas file-pdf fa-2xl >}}
-{{< pdf-modal 
-    file="/Accommodation_Transportation/Accommodation_Focus_Map_of_Kami.pdf" 
-    title="Download" 
-    id="Accommodation_Focus_Map_of_Kami" 
->}} 
-
-{{< carousel id="carousel" ratio="16x9" class="d-block col-sm-12 col-lg-6 mx-auto"
- >}}
-  {{< img src="Accommodation_Transportation/Hachi_Kogen_Area_(Yabu).svg" caption="Hachi Kogen Area (Yabu)" >}}
-  {{< img src="Accommodation_Transportation/General_View_(Kami).svg" caption="General View (Kami)" >}}
-  {{< img src="Accommodation_Transportation/Kasumi_Area_(Kami).svg" caption="Kasumi Area (Kami)" >}}
-  {{< img src="Accommodation_Transportation/Shibayama_Area_(Kami).svg" caption="Shibayama Area (Kami)" >}}
-  {{< img src="Accommodation_Transportation/Satsu_Area_(Kami).svg" caption="Satsu Area (Kami)" >}}
-  {{< img src="Accommodation_Transportation/Hachikita_Area_(Kami).svg" caption="Hachikita Area (Kami)" >}}
-{{< /carousel >}}
-
 ## Accommodation List
 
 * To filter accommodations by area, please enter one of the following area names into the search field.
 
-  ```
-  Yoka Yabu Sekinomiya Kasumi Shibayama Satsu Ojiro Hachi-Kita Kamikawa
-  ```
-
 * To view a hotel's location on Google Maps, click the link in the "Address" row under the "Details" column.
 
-* **Search for your preferred accommodation by entering a keyword**.
+* Please enter keywords that match your desired criteria from the table into the search field.
 
-{{< table filter-col="1" filter="Yoka,Yabu,Sekinomiya,Kasumi,Shibayama,Satsu,Ojiro,Hachi-Kita,Kamikawa" sortable="true" searchable="true" paginate="true" pagination=5  wrap="false" >}}
+{{< pdf-modal 
+    file="/Accommodation_Transportation/Area_Map.svg" 
+    title="Legend for area names" 
+    id="areaname_regend" 
+    width=40
+    height=100
+>}} 
+
+---
+
+{{< table filter-col="1" filter="Yoka,Yabu,Sekinomiya,Kasumi,Shibayama,Satsu,Ojiro,Hachi-Kita,Kamikawa" sortable="true" searchable="true" filter-responsive="true" paginate="true" pagination=5  wrap="false" >}}
 | Name                                                                                                            | Area       | Type                       | Bathroom                                        | Breakfast            | Dinner                  | WC                                         | Distance to the nearest Official Bus Stop                   | Details                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 |:----------------------------------------------------------------------------------------------------------------|:-----------|:---------------------------|:------------------------------------------------|:---------------------|:------------------------|:-------------------------------------------|:------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [PURE HOTEL](http://purehotel.jp/kannai/index.html)                                                             | Yoka       | hotel                      | large public bath and private bath              |                      |                         | Western                                    | Yoka Tajimanokura RS, 0.3km                                 | Address : [153-1 Takayanagi, Yoka-cho, Yabu-shi, Hyogo](https://maps.app.goo.gl/KPLoX4VuzNEN6vUf7)<br>Multilingual support : electronic translator and translator app<br>Parking : 25<br>freeWiFi : Yes<br>Capacity(rooms/guests): 29 / 31<br>Check-in/out: 4:00 PM - 10:00 AM<br>OTA: Rakuten, Jalan, Yahoo, Booking, Agoda<br>Contact(Phone / Fax): 079-662-7060, 079-662-7059<br>Payment Method: Cash, Credit card, e-money<br>Remarks: Food service is not available                                       |
@@ -245,3 +225,32 @@ Accommodation Focus Map of Kami<br>
 | [Hoshi to Kaze no Niwa](https://niwanoyado.jp/en/starwind/)                                                     | Kamikawa   | rent a whole house         | bathroom                                        |                      |                         | Western                                    | JR Teramae, 6km                                             | Address : [1015-2 Minamioda, Kamikawa-cho, Kanzaki-gun, Hyogo](https://maps.app.goo.gl/X9oBUiuUZv56zUjG6)<br>e-mail : online form on the website<br>Parking : Parking capacity varies by baccommodation.<br>freeWiFi : Yes<br>Capacity(rooms/guests): 4 / 16<br>Check-in/out: 4:00 PM - 11:00 AM<br>OTA: Rakuten, Jalan, Yahoo<br>Contact(Phone / Fax): 050-3142-7518<br>Payment Method: Cash, Credit card<br>Remarks: advance payment                                                                         |
 | [Kaminokawa no Hitotoki Camp Resort](https://kaminokawa-hitotoki.com/)                                          | Kamikawa   | rent a whole house         | bathroom                                        | bread                | BBQ(option)             | Western                                    | JR Teramae, 10km                                            | Address : [1019-13 Neuno, Kamikawa-cho, Kanzaki-gun, Hyogo](https://maps.app.goo.gl/Jt8A3u79Xpswio1r5)<br>e-mail : online form on the website<br>Multilingual support : translator app<br>Parking : Yes<br>freeWiFi : No<br>Capacity(rooms/guests): 22 / 176<br>Check-in/out: 3:00 PM - 10:00 AM<br>Contact(Phone / Fax): 0790-35-8600, 0790-35-8601<br>Remarks: advance payment                                                                                                                               |
 {{< /table >}}
+
+
+## Download area maps
+
+Accommodation Focus Map of Yabu
+
+{{< pdf-modal 
+    file="/Accommodation_Transportation/Accommodation_Focus_Map_of_Yabu.pdf" 
+    title="Yabu city area map"
+    id="Accommodation_Focus_Map_of_Yabu" 
+>}} 
+
+{{< pdf-modal 
+    file="/Accommodation_Transportation/Accommodation_Focus_Map_of_Kami.pdf" 
+    title="Kami town area map" 
+    id="Accommodation_Focus_Map_of_Kami" 
+>}} 
+
+---
+
+{{< carousel id="carousel" ratio="16x9" class="d-block col-sm-12 col-lg-6 w-100 mx-auto"
+ >}}
+  {{< img src="Accommodation_Transportation/Hachi_Kogen_Area_(Yabu).svg" caption="Hachi Kogen Area (Yabu)" >}}
+  {{< img src="Accommodation_Transportation/General_View_(Kami).svg" caption="General View (Kami)" >}}
+  {{< img src="Accommodation_Transportation/Kasumi_Area_(Kami).svg" caption="Kasumi Area (Kami)" >}}
+  {{< img src="Accommodation_Transportation/Shibayama_Area_(Kami).svg" caption="Shibayama Area (Kami)" >}}
+  {{< img src="Accommodation_Transportation/Satsu_Area_(Kami).svg" caption="Satsu Area (Kami)" >}}
+  {{< img src="Accommodation_Transportation/Hachikita_Area_(Kami).svg" caption="Hachikita Area (Kami)" >}}
+{{< /carousel >}}
