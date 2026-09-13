@@ -3,7 +3,10 @@ title: ACCOMMODATION DIRECTORY
 weight: 12
 description: On this page, you can view detailed lodging information as well as a list of accommodations.
 icon: fas bed
+single: true
 fluid: true
+sidebar: false
+toc: false
 content_blocks:
   - _bookshop_name: hero
     heading:
@@ -16,6 +19,20 @@ content_blocks:
     breadcrumb: true
 modules: ["simple-datatables"]
 ---
+
+<!-- 💡 ここから追加：強制的に左右の列制限をリセットするCSS -->
+<style>
+  /* 左側のサイドバー用空列を完全に消す */
+  .container-xxl .row .col.col-lg-2 {
+    display: none !important;
+  }
+  /* メインコンテンツの列幅を100%（最大）にする */
+  .container-xxl .row .col-12.col-md-9.col-lg-8 {
+    width: 100% !important;
+    max-width: 100% !important;
+    flex: 0 0 100% !important;
+  }
+</style>
 
 {{< accordion id="accommodation-info" class="accordion-flush" >}}
 
@@ -139,17 +156,17 @@ https://www.town.mikata-kami.lg.jp/soshiki/shogaigakushu/6/1/636.html
 
 ## Accommodation List
 
-* To filter accommodations by area, please enter one of the following area names into the search field.
+* To filter accommodations by area, please select the area name shown in the "Area Name Legend" using the selection buttons on the table.
 
 * To view a hotel's location on Google Maps, click the link in the "Address" row under the "Details" column.
 
 * Please enter keywords that match your desired criteria from the table into the search field.
 
 {{< pdf-modal 
-    file="/Accommodation_Transportation/Area_Map.svg" 
+    file="/Accommodation_Transportation/Area_Map.pdf" 
     title="Legend for area names" 
     id="areaname_regend" 
-    width=40
+    width=80
     height=100
 >}} 
 

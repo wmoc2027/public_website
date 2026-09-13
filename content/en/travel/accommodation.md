@@ -39,7 +39,8 @@ The map shows the following:
 - Official bus routes
 - Major accommodation areas
 
-For full details of the accommodation list, please visit the following page.<br>
+For full details of the accommodation list, please visit the following page.
+
 [**ACCOMMODATION DIRECTORY**](/travel/accommodation_directory/)
 
 The “Area” column in the Accommodation List corresponds to the accommodation areas marked in pink on the area map above.
