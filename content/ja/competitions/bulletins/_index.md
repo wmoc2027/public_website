@@ -14,9 +14,16 @@ content_blocks:
     breadcrumb: true
 ---
 
+# 各種書類のダウンロード
 
 |書類|発行||
 |--|--|--|
 |[要項 1 Ver.3](/bulletins/Bulletin1_3_ja.pdf)|2026-08-16|{{< pdf-modal file="/bulletins/Bulletin1_3_ja.pdf" title="開く" id="bulletin1_3" >}}|
 |[旧地図](/bulletins/WMOC2027_oldmap.pdf)|2026-02-02|{{< pdf-modal file="/bulletins/WMOC2027_oldmap.pdf" title="開く" id="oldmap" >}}|
+|[立入禁止区域](/bulletins/embargoed_areas_ja.pdf)|2025-11-10|{{< pdf-modal file="/bulletins/embargoed_areas_ja.pdf" title="開く" id="embargoedarea" >}}|
 
+# 立入禁止区域
+
+大会が終了するまで次に示す区域への立ち入りを禁止します。
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1YJAwGFN50gCafGBzq4CznehlVJ4gFv3j&ehbc=2E312F" width="640" height="480"></iframe>
