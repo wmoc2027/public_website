@@ -1,6 +1,8 @@
 {{- $file := .Get "file" -}}
 {{- $id := .Get "id" | default "pdfModal" -}}
 {{- $btnText := .Get "title" | default "PDFを表示する" -}}
+{{- $width := .Get "width" | default 90 -}}
+{{- $height := .Get "height" | default 85 -}}
 
 <!-- モーダルを開くボタン -->
 <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#{{ $id }}">
@@ -9,8 +11,8 @@
 
 <!-- モーダル本体 (Bootstrap 5 準拠) -->
 <div class="modal fade" id="{{ $id }}" tabindex="-1" aria-labelledby="{{ $id }}Label" aria-hidden="true">
-  <div class="modal-dialog modal-xl modal-dialog-centered" style="max-width: 90vw;">
-    <div class="modal-content" style="height: 85vh;">
+  <div class="modal-dialog modal-xl modal-dialog-centered" style="max-width: {{ $width }}vw;">
+    <div class="modal-content" style="height: {{ $height }}vh;">
       
       <!-- ヘッダー（閉じるボタン） -->
       <div class="modal-header">
