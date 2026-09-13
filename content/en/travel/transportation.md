@@ -28,7 +28,10 @@ Public Transportation<br>
 >}} 
 
 For details on JR (Japan Railways) discount passes, visit the page below<br>
-[**EXCLUSIVE TRAVEL PASSES**](travel/jr_transport_pass)
+
+{{< button icon="fas train" cue=false order="last" href="/travel/jr_transport_pass" >}}
+    EXCLUSIVE TRAVEL PASSES
+{{< /button >}}
 
 ## Official Bus Service for Reservations Holders
 
