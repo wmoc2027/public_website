@@ -30,7 +30,13 @@
   color: success
   date: 2027-05-21
   content:
-    場所・時間は未定
+    <dl>
+      <dt>時刻</dt>
+        <dd>TBD</dd>
+      <dt>場所</dt>
+        <dd>香住B&G海洋センター</dd>
+    </dl>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11989.253680576978!2d134.62279504606704!3d35.64832159254654!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5fffcb594a56fa4b%3A0xf09216b54a92d8f!2z6aaZ576O55S66aaZ5L2P77yi77yG77yn5rW35rSL44K744Oz44K_44O8!5e1!3m2!1sja!2sjp!4v1789344019464!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 
 
 - title: スプリント予選
@@ -38,7 +44,13 @@
   color: success
   date: 2027-05-22
   content:
-    場所・時間は未定
+    <dl>
+      <dt>時刻</dt>
+        <dd>TBD</dd>
+      <dt>場所</dt>
+        <dd>しおかぜ香苑</dd>
+    </dl>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2997.6209087925586!2d134.62334317547774!3d35.64012527260059!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5fffccbc6e709747%3A0x56dc4515c5b66e16!2z44GX44GK44GL44Gc6aaZ6IuR!5e1!3m2!1sja!2sjp!4v1789342967956!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 
 
 - title: スプリント決勝
@@ -47,14 +59,26 @@
   date: 2027-05-23
   url:
   content:
-    場所・時間は未定
+    <dl>
+      <dt>時刻</dt>
+        <dd>TBD</dd>
+      <dt>場所</dt>
+        <dd>しおかぜ香苑</dd>
+    </dl>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2997.6209087925586!2d134.62334317547774!3d35.64012527260059!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5fffccbc6e709747%3A0x56dc4515c5b66e16!2z44GX44GK44GL44Gc6aaZ6IuR!5e1!3m2!1sja!2sjp!4v1789342967956!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
 
 - title: フォレストモデルイベント
   icon: fas map
   color: success
   date: 2027-05-24
   content:
-    ハチ高原 ( 〒667-1127 兵庫県養父市大久保1591 )
+    <dl>
+      <dt>時刻</dt>
+        <dd>TBD</dd>
+      <dt>場所</dt>
+        <dd>ハチ高原 ( 〒667-1127 兵庫県養父市大久保1591 )</dd>
+    </dl>
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2379.913501001878!2d134.53451672970778!3d35.38435370257173!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35557b231a41fe87%3A0xbae5c049e26e9380!2z6aSK54i25biC6Zai5a6u5Zyw5Z-f5bGAIOODj-ODgemrmOWOn-S6pOa1geS_g-mAsuOCu-ODs-OCv-ODvA!5e1!3m2!1sja!2sjp!4v1763169310683!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 - title: フォレスト競技予選
@@ -62,7 +86,12 @@
   color: success
   date: 2027-05-25
   content:
-    10:00 - 15:00 東鉢伏高原 ロッジかねいちや ( 〒667-1128 兵庫県養父市別宮1168 )
+    <dl>
+      <dt>時刻</dt>
+        <dd>TBD</dd>
+      <dt>場所</dt>
+        <dd>東鉢伏高原 ロッジかねいちや ( 〒667-1128 兵庫県養父市別宮1168 )</dd>
+    </dl>
     <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d1000.6256825728867!2d134.5652965331887!3d35.3847312573173!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzXCsDIzJzA0LjgiTiAxMzTCsDMzJzU3LjkiRQ!5e1!3m2!1sja!2sjp!4v1763169420062!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 - title: ミドルディスタンス競技決勝・表彰式
@@ -70,7 +99,12 @@
   color: success
   date: 2027-05-26
   content:
-    10:00 - 15:00 兎和野高原 兎和野高原野外教育センター ( 〒667-1336 兵庫県美方郡香美町村岡区宿791-1 )
+    <dl>
+      <dt>時刻</dt>
+        <dd>TBD</dd>
+      <dt>場所</dt>
+        <dd>兎和野高原 兎和野高原野外教育センター ( 〒667-1336 兵庫県美方郡香美町村岡区宿791-1 )</dd>
+    </dl>
     <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d67250.30776776135!2d134.5528772!3d35.4357231!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x355562f6ad4a6091%3A0x5270147edc4ef67a!2z5YW15bqr55yM56uL5YWO5ZKM6YeO6auY5Y6f6YeO5aSW5pWZ6IKy44K744Oz44K_44O8!5e1!3m2!1sja!2sjp!4v1753891277517!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 - title: 休息日・トレーニングイベント
@@ -78,7 +112,12 @@
   color: success
   date: 2027-05-27
   content:
-    9:00 - 15:00 ハチ北高原 スキー場駐車場 ( 〒667-1344 兵庫県美方郡香美町村岡区大笹580-1 )
+    <dl>
+      <dt>時刻</dt>
+        <dd>TBD</dd>
+      <dt>場所</dt>
+        <dd>ハチ北高原 スキー場駐車場 ( 〒667-1344 兵庫県美方郡香美町村岡区大笹580-1 )</dd>
+    </dl>
     <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d32014.23191236645!2d134.5279434!3d35.3993153!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35556353f24463e7%3A0x4d16e0841e4d2fa6!2z44OP44OB5YyX6auY5Y6f44K544Kt44O85aC0!5e1!3m2!1sja!2sjp!4v1763169725428!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 - title: ロングディスタンス決勝・表彰式・WMOC閉会式
@@ -86,7 +125,12 @@
   color: success
   date: 2027-05-28
   content:
-    9:30 - 15:00 峰山高原 ( 〒679-3125 兵庫県神崎郡神河町上小田881-146 )
+    <dl>
+      <dt>時刻</dt>
+        <dd>TBD</dd>
+      <dt>場所</dt>
+        <dd>峰山高原 ( 〒679-3125 兵庫県神崎郡神河町上小田881-146 )</dd>
+    </dl>
     <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1054.7344320312598!2d134.6667097!3d35.1320461!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x355515293b3016b7%3A0x634589d58ea97677!2z5bOw5bGx6auY5Y6f!5e1!3m2!1sja!2sjp!4v1753891599212!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 - title: WMG2027閉会式
