@@ -2,7 +2,7 @@ disabled = false
 locale = "ja"
 label = "日本語"
 contentDir = 'content/ja'
-weight = 1
+weight = 3
 
 [params]
   displayName = "JA"
