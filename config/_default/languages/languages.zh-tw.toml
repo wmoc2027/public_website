@@ -1,0 +1,24 @@
+disabled = false
+locale = "zh-tw"
+label = "繁體中文"
+contentDir = 'content/zh-tw'
+weight = 2
+
+[params]
+  displayName = "ZH-TW"
+  isoCode = "zh-tw"
+  rtl = false
+  dateFormat = "2006年1月2日"
+
+  [params.head]
+    tagline = "WMOC2027"
+  [params.social]
+    title = "聯絡我們"
+    caption = "如果您想進一步了解我們，歡迎隨時聯絡或在社群媒體上關注我們。"
+  [params.footer]
+    # license = "Licensed under Creative Commons (<a href='https://creativecommons.org/licenses/by-nc-sa/4.0/' class='link-secondary' target='_blank' rel='noopener noreferrer nofollow'>CC BY-NC-SA 4.0</a>)."
+    # toml-docs-end lang-param
+  [params.sections.blog]
+    reference = "更多文章"
+  [params.sections.projects]
+    reference = "更多專案"
