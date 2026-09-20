@@ -28,19 +28,15 @@ Also, you can download a PDF summarizing the accommodation information from the 
     id="accommodation_information" 
 >}}
 
----
-
-## Accommodation Information
-
-{{< image src="/Accommodation_Transportation/Area_Map.svg" class="img-fluid w-100" wrapper="text-center" >}}
-
 The map shows the following:
 - Event centre and venues for the Sprint and Forest competitions of the WMG/WMOC 2027 orienteering event
 - Railways (including the JR San-in Main Line) and major roads connecting these locations
 - Official bus routes
 - Major accommodation areas
 
-For full details of the accommodation list, please visit the following page.
+## Accommodation Information
+
+You can also view a list of accommodations on our website.
 
 [**ACCOMMODATION DIRECTORY**](/travel/accommodation_directory/)
 
@@ -51,7 +47,7 @@ The “Area” column in the Accommodation List corresponds to the accommodation
 - Please contact each facility directly via email or other means to confirm details such as room types, meal options, transportation services, and other details. While many Japanese accommodations include meals in their rates, some also offer "room-only" (no-meal) plans.
 - Most accommodation websites are available only in Japanese; however, you can view them in other languages by using tools such as Google Translate.
 
----
+{{< image src="/Accommodation_Transportation/Area_Map.svg" class="img-fluid w-100" wrapper="text-center" >}}
 
 ## Convenience Stores & Supermarkets
 
@@ -64,5 +60,3 @@ The “Area” column in the Accommodation List corresponds to the accommodation
 
 There are no shops selling groceries or daily necessities near the forest event area.  
 We have therefore included information on convenience stores and supermarkets in the area.
-
----

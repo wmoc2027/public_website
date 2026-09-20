@@ -30,35 +30,27 @@ title="下載"
 id="accommodation_information"
 >}}
 
-
-## 住宿資訊
-
-{{< image src="/Accommodation_Transportation/Area_Map.svg" class="img-fluid w-100" wrapper="text-center" >}}
-
 地圖顯示了以下內容：
 
 - 2027 年 WMG/WMOC 定向越野賽短距離賽和森林賽的活動中心和比賽場地
-
 - 連接這些地點的鐵路（包括 JR 山陰本線）和主要道路
-
 - 官方巴士路線
-
 - 主要住宿區域
 
-有關詳細信息，請訪問住宿列表請訪問以下頁面。
+## 住宿資訊
+
+您也可以在我們的網站上查看住宿清單。
 
 [**住宿指南**](/travel/accommodation_directory/)
 
 住宿清單中的「區域」一欄與上方區域地圖中以粉紅色標記的住宿區域相對應。
 
 - 每間住宿的資訊包括地點、交通、房間、餐飲、外語服務、活動場地交通等。
-
 - 關於預訂，除了透過線上旅行社 (OTA) 預訂外，許多住宿場所也接受直接透過其網站或電子郵件預訂。
-
 - 請透過電子郵件或其他方式直接聯絡各住宿場所，確認房間類型、餐飲選擇、交通服務等詳細資訊。雖然許多日本住宿的房價包含餐食，但也有一些提供「僅住宿」（不含餐點）的套餐。
-
 - 大多數住宿網站僅提供日文版本；但是，您可以使用 Google 翻譯等工具查看其他語言版本。
 
+{{< image src="/Accommodation_Transportation/Area_Map.svg" class="img-fluid w-100" wrapper="text-center" >}}
 
 ## 便利商店和超市
 

@@ -5,7 +5,7 @@ icon: fas bed
 content_blocks:
   - _bookshop_name: hero
     heading:
-      title: Accommodation
+      title: 宿泊
       align: start
       content: Events
       width: 8
@@ -14,26 +14,56 @@ content_blocks:
     breadcrumb: true
 ---
 
-# 会場周辺・温泉・都市
+# WMG/WMOC 2027 オリエンテーリング開催都市・町における宿泊情報
 
-WMOC およびその周辺地域では、さまざまなオプションが利用可能です。
+このページの「ダウンロード」ボタンをクリックすると、PDFファイルをダウンロードできます。
 
-最初の選択肢は、WMOCの主催自治体のなかです。下記各自治体のホームページをご覧ください。この周辺は洋風のホテルや旅館は限られていますが、素敵な和風の旅館も見つかるかもしれません。一部の宿泊施設からはオプション料金のオフィシャルバスが運行されています。
+また、下記のリンクから宿泊施設情報をまとめたPDFをダウンロードできます。<br>
 
-* 香美町 (スプリント・ミドル 決勝)
-  
-  [https://www.kami-tourism.com/](https://www.kami-tourism.com/)
+{{< fas file-pdf fa-2xl >}}
+{{< pdf-modal
+file="/Accommodation_Transportation/Accommodation_Information_Sept_2026.pdf"
+title="ダウンロード"
+id="accommodation_information"
+>}}
 
-* 養父市  (フォレスト予選) 
+この地図には以下の情報が表示されています。
+- WMG/WMOC 2027オリエンテーリング大会のスプリントおよびフォレスト競技の会場とイベントセンター
+- これらの場所を結ぶ鉄道（JR山陰本線を含む）および主要道路
+- 公式バス路線
+- 主要宿泊施設エリア
 
-  [https://www.yabu-kankou.jp/](https://www.yabu-kankou.jp/)
+## 宿泊施設情報
 
-* 神河町 (ロング決勝)
-  
-  [https://www.kamikawa-navi.jp](https://www.kamikawa-navi.jp)
+宿泊施設一覧は、WEBサイト上からもご覧いただけます。
 
-2つ目は[城崎温泉](https://maps.app.goo.gl/aKcz9RwMwh2DD5zPA)です。WMOC会場から15～30kmの距離にあり、様々な和室の宿泊施設がある有名な温泉地です。　洋風ホテルやベッド付き旅館もございます。
-3つ目は、WMOC会場から1時間半～2時間ほど離れていますが、様々なランクのホテルが多数ある[鳥取](https://maps.app.goo.gl/VFpWDGEaNhouNzpdA)または[姫路](https://maps.app.goo.gl/gw3T7qa84QPco6eP7)（どちらも地方中核都市）に滞在する方法です。
+[**宿泊施設ディレクトリ**](/travel/accommodation_directory/)
 
-城崎温泉（第2案）、鳥取駅・姫路駅（第3案）から会場までバスの運行を予定しております。詳細は近日中に発表いたします。
-WMOC 2027 でお会いできることを楽しみにしています。さらにご質問がございましたら、お気軽に [お問い合わせ](mailto:contact@wmoc2027.jp) ください。
+宿泊施設一覧の「エリア」欄は、上記のエリアマップでピンク色で示されている宿泊エリアに対応しています。
+
+- 各宿泊施設には、所在地、アクセス、客室、食事、外国語対応、イベント会場へのアクセスなどの情報が掲載されています。
+- 予約については、オンライン旅行代理店（OTA）のほか、多くの施設ではウェブサイトまたはEメールでの直接予約も受け付けています。
+
+- 客室タイプ、食事オプション、送迎サービスなどの詳細については、Eメールなどで各施設に直接お問い合わせください。日本の宿泊施設の多くは料金に食事が含まれていますが、「宿泊のみ」（食事なし）プランを提供している施設もあります。
+
+- ほとんどの宿泊施設のウェブサイトは日本語のみですが、Google翻訳などのツールを使えば他の言語で閲覧できます。
+
+{{< image src="/Accommodation_Transportation/Area_Map.svg" class="img-fluid w-100" wrapper="text-center" >}}
+
+## コンビニエンスストア＆スーパーマーケット
+
+{{< fas file-pdf fa-2xl >}}
+{{< pdf-modal
+
+file="/Accommodation_Transportation/ConvenienceStore_Supermarket.pdf"
+
+title="ダウンロード"
+
+id="convenience_supermarket"
+>}}
+
+森林イベント会場周辺には、食料品や日用品を販売する店舗はありません。
+
+そのため、周辺のコンビニエンスストアとスーパーマーケットの情報を掲載しました。
+
+---
