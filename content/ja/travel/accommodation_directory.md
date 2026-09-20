@@ -1,7 +1,7 @@
 ---
-title: ACCOMMODATION DIRECTORY
+title: 宿泊施設一覧
 weight: 12
-description: On this page, you can view detailed lodging information as well as a list of accommodations.
+description: このページでは、宿泊施設の詳細情報と宿泊施設の一覧をご覧いただけます。
 icon: fas bed
 single: true
 fluid: true
@@ -33,142 +33,127 @@ modules: ["simple-datatables"]
     flex: 0 0 100% !important;
   }
 </style>
-
 {{< accordion id="accommodation-info" class="accordion-flush" >}}
 
-{{< accordion-item title="Hotels or Ryokan (Japanese-style Inn)" show="false" >}}
+{{< accordion-item title="ホテルまたは旅館" show="false" >}}
 
-There are various options available in the region of WMOC and surrounding area.
+WMOC開催地域とその周辺には、様々な宿泊施設があります。
 
-The first option is staying the host municipalities of the WMOC.  
-Please refer to the following web site of those municipalities.  
-Western-style hotels or inns are limited, but you might also find wonderful Japanese-style inns “ryokan” or independently owned “minshuku”.  
-Official buses with optional fees are available from some accommodations.
+まず、WMOC開催自治体に宿泊する方法があります。
 
-* **Kami-Town (Sprint, Middle Final)**  
-  https://visitkami.com/
+各自治体のウェブサイトをご覧ください。
 
-* **Yabu-City (Forest Q)**  
-  https://visityabu.jp/
+洋風ホテルや旅館は限られていますが、素敵な和風旅館や個人経営の民宿も見つかるかもしれません。
 
-* **Kamikawa (Long Final)**  
-  https://www.kamikawa-navi.jp/en/
+一部の宿泊施設からは、有料の公式バスが運行しています。
 
-The second option is **Kinosaki Onsen**, a famous hot spring resort with a variety of Japanese-style accommodations, situated 15–30 km from the WMOC venue.  
-The resort also offers some western-style hotels or Japanese-style inns with beds.
 
-The third option is staying in **Tottori** or **Himeji**, both regional core cities with many hotels of various ranks, located 1.5–2 hours from the WMOC venue.
+* **上町（スプリント、ミドルファイナル）**
 
-We are planning to provide bus services from Kinosaki Onsen (second option), and Tottori and Himeji Station (third option) to the venue.  
-Details will be announced soon.
+https://visitkami.com/
 
-We are looking forward to meeting you at WMOC 2027.  
-Please feel free to contact us at **contact@wmoc2027.jp** if you have further inquiries.
+* **藪市（フォレストQ）**
+
+https://visityabu.jp/
+
+* **上川（ロングファイナル）**
+
+https://www.kamikawa-navi.jp/en/
+
+2つ目の選択肢は、WMOC会場から15～30kmの距離にある、様々な和風宿泊施設が揃う有名な温泉地、**城崎温泉**です。
+
+城崎温泉には、洋風ホテルやベッド付きの和風旅館もあります。
+
+3つ目の選択肢は、WMOC会場から1.5～2時間の距離にある、様々なランクのホテルが多数ある地域の中核都市、**鳥取**または**姫路**に宿泊することです。
+
+城崎温泉（2つ目の選択肢）、鳥取駅、姫路駅（3つ目の選択肢）から会場までのバス運行を予定しています。
+
+詳細は近日中に発表いたします。
+
+WMOC 2027でお会いできることを楽しみにしております。
+ご質問等ございましたら、お気軽に**contact@wmoc2027.jp**までお問い合わせください。
 
 > [!tip]
-> More details about “Ryokan”  
+> 旅館に関する詳細はこちら
 > https://www.mlit.go.jp/kankocho/ryokan/list_en.html
 
 {{< /accordion-item >}}
 
-{{< accordion-item title="Web site for accommodation information" show="false" >}}
+{{< accordion-item title="宿泊情報サイト" show="false" >}}
 
-Accommodation in the region can also be searched on booking.com, jalan.net (Japanese booking site, available in English), and Rakuten Travel, in addition to regional core cities like Tottori and Himeji.
+鳥取や姫路といった地域の主要都市に加え、booking.com、jalan.net（日本語予約サイト、英語対応）、楽天トラベルでも地域の宿泊施設を検索できます。
 
 
 Booking.com
-Search with keywords such as:
-- **kami,hyogo**
-- **yabu,hyogo**
-- **kamikawa,hyogo**
+キーワード検索：
+- **上県、兵庫県**
+- **藪県、兵庫県**
+- **上川県、兵庫県**
 
-You can also search surrounding areas such as **toyooka,hyogo** and **kinosaki onsen,hyogo**.
+**豊岡県、兵庫県**や**城崎温泉県、兵庫県**などの周辺エリアも検索できます。
 
+Jalan.net（英語）
+兵庫県の地図が表示され、地域で絞り込んで検索できます。
 
-Jalan.net (English)
-A map of Hyogo Prefecture is displayed, and you can narrow your search by region.  
-Recommended keywords:
-- **Kasumi**
-- **Yabu**
-- **Harima (Kamikawa)**
-- **Kinosaki**
+おすすめキーワード：
+- **霞**
+- **藪**
+- **播磨（上川）**
+- **城崎**
 
 https://www.jalan.net/en/japan_hotels_ryokan/Hyogo/
 
+楽天トラベル
+地域名を入力して検索してください。
 
-Rakuten Travel
-Search by entering the region name.  
 https://travel.rakuten.com/
 
+>【注意】
+> この地域には洋風ホテルが限られています。
+> 大型ホテルは団体客で既に予約されている場合があります。姫路と鳥取には、洋風ホテルが十分にあります。
+> 日本の旅館は、料金に朝食と夕食が含まれている場合が多いです。
+> 夕食を抜いても宿泊できるところもありますので、各自ご確認ください。
+> 民宿（日本式のB&B）でも、夕食を提供しているところが多いです。
+> 宿泊施設によっては、公式バス出発地点までの送迎サービスを提供しているところもあります。
+> 詳細は9月に発表されます。
 
-> [!Note]
-> Western-style hotels are limited in number within the region.  
-> Larger hotels may already be booked by tour groups.  
-> Himeji and Tottori offer a sufficient number of Western-style hotels.  
->  
-> Japanese inns often include breakfast and dinner in the price.  
-> Some allow you to skip dinner—please check individually.  
->  
-> Minshuku (Japanese-style B&B) also often provide dinner.  
->  
-> Some accommodations provide transportation to/from the official bus departure points.  
-> Information will be announced in September.
+### 各自治体の観光情報
 
-### Tourism Information of each local government
-Hyogo Prefecture  
-https://www.hyogo-tourism.jp/world/
+* [兵庫県](https://www.hyogo-tourism.jp/world/)
+* [養父市観光協会](https://www.yabu-kankou.jp/)
+* [神河町](https://www.kami-tourism.com/)
+* [神河町](https://www.kamikawa-navi.jp)
 
-Yabu City Tourism Association  
-https://www.yabu-kankou.jp/
+### オンライン旅行代理店
 
-Kami Town  
-https://www.kami-tourism.com/
+* [楽天](https://travel.rakuten.com/)
+* [Jalan](https://www.jalan.net/en/)
+* [Booking.com](https://www.booking.com/)
+* [Expedia](https://www.expedia.com/)
+* [Agoda](https://www.agoda.com/)
+* [Airbnb](https://www.airbnb.com/)
 
-Kamikawa Town  
-https://www.kamikawa-navi.jp
+### その他
 
-### Online Travel Agencies
-Rakuten  
-https://travel.rakuten.com/
-
-Jalan  
-https://www.jalan.net/en/
-
-Booking.com  
-https://www.booking.com/
-
-Expedia  
-https://www.expedia.com/
-
-Agoda  
-https://www.agoda.com/
-
-Airbnb  
-https://www.airbnb.com/
-
-### Others
-Kami Town  
-https://www.town.mikata-kami.lg.jp/soshiki/shogaigakushu/6/1/636.html
+[神河町](https://www.town.mikata-kami.lg.jp/soshiki/shogaigakushu/6/1/636.html)
 
 {{< /accordion-item >}}
 
 {{< /accordion >}}
 
-## Accommodation List
+## 宿泊施設一覧
 
-* To filter accommodations by area, please select the area name shown in the "Area Name Legend" using the selection buttons on the table.
+* エリアで宿泊施設を絞り込むには、表の選択ボタンを使用して「エリア名凡例」に表示されているエリア名を選択してください。
+* ホテルの所在地をGoogleマップで表示するには、「詳細」列の「住所」行にあるリンクをクリックしてください。
+* 表からご希望の条件に一致するキーワードを検索フィールドに入力してください。
 
-* To view a hotel's location on Google Maps, click the link in the "Address" row under the "Details" column.
-
-* Please enter keywords that match your desired criteria from the table into the search field.
-
-{{< pdf-modal 
-    file="/Accommodation_Transportation/Area_Map.pdf" 
-    title="Legend for area names" 
-    id="areaname_regend" 
-    width=80
-    height=100
->}} 
+{{< pdf-modal
+file="/Accommodation_Transportation/Area_Map.pdf"
+title="エリア名凡例"
+id="areaname_regend"
+width=80
+height=100
+>}}
 
 ---
 
@@ -243,6 +228,7 @@ https://www.town.mikata-kami.lg.jp/soshiki/shogaigakushu/6/1/636.html
 |   7 | [Kaminokawa no Hitotoki Camp Resort](https://kaminokawa-hitotoki.com/)                                          | Kamikawa    | rent a whole house         | bathroom                                        | bread                | BBQ(option)             | Western                                    | JR Teramae, 10km                                            | Address : [1019-13 Neuno, Kamikawa-cho, Kanzaki-gun, Hyogo](https://maps.app.goo.gl/Jt8A3u79Xpswio1r5)<br>e-mail : online form on the website<br>Multilingual support : translator app<br>Parking : Yes<br>freeWiFi : No<br>Capacity(rooms/guests): 22 / 176<br>Check-in/out: 3:00 PM - 10:00 AM<br>Contact(Phone / Fax): 0790-35-8600, 0790-35-8601<br>Remarks: advance payment                                                                                                                               |
 {{< /table >}}
 
+
 ## Download area maps
 
 Accommodation Focus Map of Yabu
@@ -259,6 +245,7 @@ Accommodation Focus Map of Yabu
     id="Accommodation_Focus_Map_of_Kami" 
 >}} 
 
+---
 
 {{< carousel id="carousel" ratio="16x9" class="d-block col-sm-12 col-lg-6 w-100 mx-auto"
  >}}
