@@ -76,9 +76,7 @@ https://www.kamikawa-navi.jp/en/
 如有任何疑問，請隨時與我們聯絡：**contact@wmoc2027.jp**
 
 > [!tip]
-
 > 更多關於「日式旅館」的信息
-
 > https://www.mlit.go.jp/kankocho/ryokan/list_en.html
 
 {{< /accordion-item >}}
@@ -92,9 +90,7 @@ Booking.com
 使用以下關鍵字搜尋：
 
 - **上，兵庫縣**
-
 - **養父，兵庫縣**
-
 - **神河，兵庫縣**
 
 您也可以搜尋週邊地區，例如 **豐岡，兵庫縣** 和 **城崎溫泉，兵庫縣**。
@@ -106,11 +102,8 @@ Jalan.net（英文）
 推薦關鍵字：
 
 - **香住**
-
 - **養父**
-
 - **播磨（神河）**
-
 - **城崎**
 
 https://www.jalan.net/en/japan_hotels_ryokan/Hyogo/
@@ -122,18 +115,10 @@ https://www.jalan.net/en/japan_hotels_ryokan/Hyogo/
 https://travel.rakuten.com/
 
 > [!Note]
-
 > 該地區的西式酒店數量有限。
-
 > 大型飯店可能已被旅行團預訂。姬路和鳥取有足夠的西式飯店。
 
-日式旅館通常包含早餐和晚餐。
-
-部分旅館允許您不吃晚餐－請自行確認。
-
-民宿（日式住宿加早餐）通常也提供晚餐。
-
-部分住宿提供往返官方巴士出發點的接送服務。
+日式旅館通常包含早餐和晚餐。部分旅館允許您不吃晚餐－請自行確認。民宿（日式住宿加早餐）通常也提供晚餐。部分住宿提供往返官方巴士出發點的接送服務。
 
 相關資訊將於九月公佈。
 
@@ -143,58 +128,51 @@ https://travel.rakuten.com/
 https://www.hyogo-tourism.jp/world/
 
 養父武市觀光協會
-
 https://www.yabu-kankou.jp/
 
 香美町
-
 https://www.kami-tourism.com/
 
 神河町
-
 https://www.kamikawa-navi.jp
 
 ### 線上旅行社
 
 樂天
-
 https://travel.rakuten.com/
 
 Jalan
-
 https://www.jalan.net/en/
 
 Booking.com
-
 https://www.booking.com/
 
 Expedia
-
 https://www.expedia.com/
 
 Agoda
-
 https://www.agoda.com/
 
 Airbnb
 https://www.airbnb.com/
 
 ### 其他
+
 香美町
 
 https://www.town.mikata-kami.lg.jp/soshiki/shogaigakushu/6/1/636.html
 
 {{</accordion-item>}}
-
 {{</accordion>}}
 
 ## 住宿列表
 
 * 如需按區域篩選住宿，請使用表格中的選擇按鈕，選擇「區域名稱圖例」中顯示的區域名稱。
-
 * 如需在 Google 地圖上查看飯店位置，請點選「詳情」列下「地址」行中的連結。
-
 * 請在搜尋框中輸入符合您所需條件的關鍵字。
+
+> [!note]
+> 世界奧委會2027年運動會的住宿資訊需要一些時間才能在各大線上旅行社（OTA）上全部列出。如果您找不到任何住宿信息，請直接聯繫住宿方。
 
 {{< pdf-modal
 file="/Accommodation_Transportation/Area_Map.pdf"
