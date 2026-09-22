@@ -40,10 +40,7 @@ modules: ["simple-datatables"]
 
 There are various options available in the region of WMOC and surrounding area.
 
-The first option is staying the host municipalities of the WMOC.  
-Please refer to the following web site of those municipalities.  
-Western-style hotels or inns are limited, but you might also find wonderful Japanese-style inns “ryokan” or independently owned “minshuku”.  
-Official buses with optional fees are available from some accommodations.
+The first option is staying the host municipalities of the WMOC. Please refer to the following web site of those municipalities. Western-style hotels or inns are limited, but you might also find wonderful Japanese-style inns “ryokan” or independently owned “minshuku”. Official buses with optional fees are available from some accommodations.
 
 * **Kami-Town (Sprint, Middle Final)**  
   https://visitkami.com/
@@ -54,16 +51,13 @@ Official buses with optional fees are available from some accommodations.
 * **Kamikawa (Long Final)**  
   https://www.kamikawa-navi.jp/en/
 
-The second option is **Kinosaki Onsen**, a famous hot spring resort with a variety of Japanese-style accommodations, situated 15–30 km from the WMOC venue.  
-The resort also offers some western-style hotels or Japanese-style inns with beds.
+The second option is **Kinosaki Onsen**, a famous hot spring resort with a variety of Japanese-style accommodations, situated 15–30 km from the WMOC venue. The resort also offers some western-style hotels or Japanese-style inns with beds.
 
 The third option is staying in **Tottori** or **Himeji**, both regional core cities with many hotels of various ranks, located 1.5–2 hours from the WMOC venue.
 
-We are planning to provide bus services from Kinosaki Onsen (second option), and Tottori and Himeji Station (third option) to the venue.  
-Details will be announced soon.
+We are planning to provide bus services from Kinosaki Onsen (second option), and Tottori and Himeji Station (third option) to the venue. Details will be announced soon.
 
-We are looking forward to meeting you at WMOC 2027.  
-Please feel free to contact us at **contact@wmoc2027.jp** if you have further inquiries.
+We are looking forward to meeting you at WMOC 2027. Please feel free to contact us at **contact@wmoc2027.jp** if you have further inquiries.
 
 > [!tip]
 > More details about “Ryokan”  
@@ -102,12 +96,9 @@ https://travel.rakuten.com/
 
 
 > [!Note]
-> Western-style hotels are limited in number within the region.  
-> Larger hotels may already be booked by tour groups.  
-> Himeji and Tottori offer a sufficient number of Western-style hotels.  
+> Western-style hotels are limited in number within the region. Larger hotels may already be booked by tour groups. Himeji and Tottori offer a sufficient number of Western-style hotels.  
 >  
-> Japanese inns often include breakfast and dinner in the price.  
-> Some allow you to skip dinner—please check individually.  
+> Japanese inns often include breakfast and dinner in the price. Some allow you to skip dinner—please check individually.  
 >  
 > Minshuku (Japanese-style B&B) also often provide dinner.  
 >  
@@ -162,6 +153,10 @@ https://www.town.mikata-kami.lg.jp/soshiki/shogaigakushu/6/1/636.html
 
 * Please enter keywords that match your desired criteria from the table into the search field.
 
+> [!note]
+> It will take some time for accommodation plans for the WMOC 2027 Games to be listed on each OTA (Online Travel Agent). If you cannot find any listings, please contact the accommodations directly.
+
+
 {{< pdf-modal 
     file="/Accommodation_Transportation/Area_Map.pdf" 
     title="Legend for area names" 
@@ -171,6 +166,7 @@ https://www.town.mikata-kami.lg.jp/soshiki/shogaigakushu/6/1/636.html
 >}} 
 
 ---
+
 
 {{< table filter-col="2" filter="Yoka,Kasumi,Shibayama,Satsu,Ojiro,Hachi-kogen,Hachi-Kita,Kamikawa" sortable="true" searchable="true" filter-responsive="true" paginate="true" pagination=5  wrap="false" >}}
 |   № | Name                                                                                                            | Area        | Type                       | Bathroom                                        | Breakfast            | Dinner                  | WC                                         | Distance to the nearest Official Bus Stop                   | Details                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |

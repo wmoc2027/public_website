@@ -147,6 +147,9 @@ https://travel.rakuten.com/
 * ホテルの所在地をGoogleマップで表示するには、「詳細」列の「住所」行にあるリンクをクリックしてください。
 * 表からご希望の条件に一致するキーワードを検索フィールドに入力してください。
 
+> [!note]
+> 各 OTA - Online Travel Agent - にWMOC 2027 大会期間中の宿泊プランが掲載されるにはお時間を要します。掲載が見つからない場合は各宿へ直接お問い合わせください。
+
 {{< pdf-modal
 file="/Accommodation_Transportation/Area_Map.pdf"
 title="エリア名凡例"
