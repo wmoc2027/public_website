@@ -79,7 +79,7 @@ WMOC 2027 is part of the Kansai World Masters Games 2027 (hereinafter WMG 2027).
 see details at [WMG sites](https://wmg2027.jp/en/entry/guideline/).
   {{< /accordion-item >}}
   {{< accordion-item title="I live in Japan, but the discounted price isn't showing up. How can I get the discount?" >}}
-The participation fee can be selected by clicking the mark next to `card number`. By selecting `Discount Japanese citizens 1 -19,000 JPY`, the fee for Forest and Sprint participation will be 25,000 yen (excluding options).
+The participation fee can be selected by clicking the mark next to `card number`. By selecting `Discount Japanese citizens 1 -19,000 JPY`, the fee for Forest and Sprint participation will be 25,000 yen (excluding options). [See details here.]({{% relref "/get_started/entry/#新增選項包括日本公民折扣" %}})
   {{< /accordion-item >}}
 
   {{< accordion-item title="It appears that the entry fee for the WMG is lower for residents of Japan; does this mean that foreign nationals living in Japan are also eligible for the reduced rate? If so, what is the procedure for this?" >}}

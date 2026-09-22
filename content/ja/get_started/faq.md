@@ -77,7 +77,7 @@ WMG の参加費と認定プロセスは、IOF の規則ではなく、WMG の�
 詳細は[WMGサイト](https://wmg2027.jp/entry/guideline/)をご覧ください。
   {{< /accordion-item >}}
   {{< accordion-item title="日本に住んでいますが、割引価格が表示されません。どうすれば割引を受けられますか?" >}}
-参加費は`card number`横のマークをクリックすると選択できます。  `Discount Japanese citizens 1 -19,000 JPY` を選択すると、ForestとSprintの参加料金が25,000円（オプション除く）となります。
+参加費は`card number`横のマークをクリックすると選択できます。  `Discount Japanese citizens 1 -19,000 JPY` を選択すると、ForestとSprintの参加料金が25,000円（オプション除く）となります。[詳細はこちらをご覧ください。]({{% relref "/get_started/entry#%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%8F%82%E5%8A%A0%E8%80%85%E5%90%91%E3%81%91%E5%89%B2%E5%BC%95%E3%82%92%E5%90%AB%E3%82%80%E3%82%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E8%BF%BD%E5%8A%A0" %}})
   {{< /accordion-item >}}
 
   {{< accordion-item title="日本在住者はWMGのエントリー料が安いようですが、外国籍でも日本に住んでおれば安くなるということでしょうか？　その手続きはどのようにすればよいのでしょうか？" >}}
