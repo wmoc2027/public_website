@@ -49,15 +49,15 @@ modules:
 
 部分住宿地點提供付費的官方巴士。
 
-* **神町（短距離賽、中距離決賽）**
+* **香美町（短距離賽、中距離決賽）**
 
 https://visitkami.com/
 
-* **藪部市（森林賽）**
+* **養父部市（森林賽）**
 
 https://visityabu.jp/
 
-* **神川（長距離決賽）**
+* **神河（長距離決賽）**
 
 https://www.kamikawa-navi.jp/en/
 
@@ -93,9 +93,9 @@ Booking.com
 
 - **上，兵庫縣**
 
-- **藪，兵庫縣**
+- **養父，兵庫縣**
 
-- **上川，兵庫縣**
+- **神河，兵庫縣**
 
 您也可以搜尋週邊地區，例如 **豐岡，兵庫縣** 和 **城崎溫泉，兵庫縣**。
 
@@ -105,11 +105,11 @@ Jalan.net（英文）
 
 推薦關鍵字：
 
-- **霞**
+- **香住**
 
-- **藪**
+- **養父**
 
-- **播磨（上川）**
+- **播磨（神河）**
 
 - **城崎**
 
@@ -142,15 +142,15 @@ https://travel.rakuten.com/
 兵庫縣
 https://www.hyogo-tourism.jp/world/
 
-藪武市觀光協會
+養父武市觀光協會
 
 https://www.yabu-kankou.jp/
 
-神町
+香美町
 
 https://www.kami-tourism.com/
 
-神川町
+神河町
 
 https://www.kamikawa-navi.jp
 
@@ -180,7 +180,7 @@ Airbnb
 https://www.airbnb.com/
 
 ### 其他
-神町
+香美町
 
 https://www.town.mikata-kami.lg.jp/soshiki/shogaigakushu/6/1/636.html
 
@@ -281,18 +281,18 @@ height=100
 
 ## 下載區域圖
 
-藪市住宿重點地圖
+養父市住宿重點地圖
 
 {{< pdf-modal
 file="/Accommodation_Transportation/Accommodation_Focus_Map_of_Yabu.pdf"
-title="藪市區域地圖"
+title="養父市區域地圖"
 
 id="Accommodation_Focus_Map_of_Yabu"
 >}}
 
 {{< pdf-modal
 file="/Accommodation_Transportation/Accommodation_Focus_Map_of_Kami.pdf"
-title="神町區域地圖"
+title="香美町區域地圖"
 id="Accommodation_Focus_Map_of_Kami"
 >}}
 
@@ -302,7 +302,7 @@ id="Accommodation_Focus_Map_of_Kami"
 
 >}}
 
-{{< img src="Accommodation_Transportation/Hachi_Kogen_Area_(Yabu).svg" caption="八高原地區 (Yabu)" >}}
+{{< img src="Accommodation_Transportation/Hachi_Kogen_Area_(Yabu).svg" caption="鉢高原地區 (Yabu)" >}}
 
 {{< img src="Accommodation_Transportation/General_View_(Kami).svg" caption="全景 (Kami)" >}}
 
