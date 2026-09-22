@@ -79,4 +79,36 @@ Please register at the [IOF Eventor WMOC2027 event page](https://eventor.oriente
 
    <a href="mailto:contact@wmoc2027.jp?subject=Request%20to%20apply%20to%20orienteering%20with%20WMG%20ID&body=Hello%20support%2C%0D%0AI%20have%20already%20registered%20for%20the%20WMG.%20I%20would%20like%20to%20request%20registration%20for%20the%20orienteering%20competition.%0D%0A%0D%0A%2A%20name%0D%0A%0D%0A%2A%20Your%20residence%0D%0A%0D%0A%2A%20The%20Orienteering%20events%20you%20wish%20to%20enter%20-%20either%20one%20or%20both%20of%20below.%0D%0A%20%20x%20Sprint%20competition%0D%0A%20%20x%20Forest%20competition%0D%0A%0D%0A%2A%20The%20competition%20class%20you%20wish%20to%20enter%20-%20either%20one%20of%20below%0D%0A%20%20M35%2CM40%2CM45%2CM50%2CM55%2CM60%2CM65%2CM70%2CM75%2CM80%2CM85%2CM90%2CM95%0D%0A%20%20W35%2CW40%2CW45%2CW50%2CW55%2CW60%2CW65%2CW70%2CW75%2CW80%2CW85%2CW90%2CW95%0D%0A%0D%0A%2A%20Your%20existing%20WMG-ID%20number.%0D%0A%0D%0A%2A%20Your%20IOF%20ID%20number%0D%0A%20%20if%20you%20do%20not%20have%20one%2C%20please%20refer%20to%20section%2016.3%2C%20item%201%2C%20to%20obtain%20one.">e-mail link with entry form here.</a>
 
+### Adding options, including discounts for Japanese citizens
 
+The entry fee for the tournament is 44,000 yen, but various options are available. **A discount for Japanese participants is also available as an option**, so please be sure to apply if you are eligible.
+
+> [!tip]
+> For details on option pricing and other information, please refer to Chapter 17 of [bulletin 1 rev.3](/bulletins/Bulletin1_3.pdf).
+
+> [!note]
+> Japanese participants who are eligible for the discount must meet one of the following requirements:
+> * Individuals who hold Japanese nationality, regardless of whether they reside in Japan or abroad.
+> * Individuals whose current address is in Japan, regardless of nationality.
+>
+> Foreign nationals residing in Japan are required to present their residence card at the time of application.
+
+
+1. On the entry page, select the player's name you want to register from "Search by organization," and then click the cart icon in the list that appears.
+  ![](image/entry_options/1_enter_options.png)
+
+1. Follow these steps:
+   1. If you already have options, first add an option item using the "+ Add" button.
+   2. Open the selection field.
+   3. Select "Discount Japanese citizens" from fields list.
+  ![](image/entry_options/2_add_and_select_options.png)
+
+1. The selected options will be listed.
+  ![](image/entry_options/3_options_list.png)
+
+1. Once you have finished selecting your options and pressed the "Next" button, the payment confirmation screen will appear. Please make sure that "Japanese Discount" is displayed among the items.
+  ![](image/entry_options/4_confirm_options.png)
+
+
+> [!note]
+> Regarding discount options, you are not required to submit documents proving your Japanese citizenship at the time of payment. However, if the WMOC2027 Organizing Committee determines that the discount is not applicable during the application process, we may contact you individually.
