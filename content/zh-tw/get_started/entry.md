@@ -98,15 +98,14 @@ flowchart LR
    ![](image/entry_options/1_enter_options.png)
 
 1. 請依照以下步驟操作：
-   1. 如果您已有選項，請先使用「+ 新增」按鈕新增選項。
-   2. 開啟選擇框。
-   3. 從選項清單中選擇「日本公民折扣」。
+   1. 開啟選擇框。
+   2. 從欄位清單中選擇「日本公民折扣」。
+   3. 如需新增其他選項，請點選「+ ​​新增」按鈕。
+   4. 新增完所有選項後，請點選「確定」按鈕。選項編輯視窗將關閉。
    ![](image/entry_options/2_add_and_select_options.png)
-
-1. 所選選項將顯示在清單中。
    ![](image/entry_options/3_options_list.png)
 
-1. 選擇完所有選項並點選「下一步」按鈕後，將出現付款確認頁面。請確保“日本公民折扣”已包含在選項清單中。
+2. 選擇完所有選項並點選「下一步」按鈕後，將出現付款確認頁面。請確保“日本公民折扣”已包含在選項清單中。
    ![](image/entry_options/4_confirm_options.png)
 
 > [!note]
