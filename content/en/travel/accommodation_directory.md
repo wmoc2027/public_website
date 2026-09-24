@@ -100,10 +100,7 @@ https://travel.rakuten.com/
 >  
 > Japanese inns often include breakfast and dinner in the price. Some allow you to skip dinner—please check individually.  
 >  
-> Minshuku (Japanese-style B&B) also often provide dinner.  
->  
-> Some accommodations provide transportation to/from the official bus departure points.  
-> Information will be announced in September.
+> Among Japanese-style inns, those privately owned and operated are called "minshuku". Many of these also offer dinner.
 
 ### Tourism Information of each local government
 Hyogo Prefecture  

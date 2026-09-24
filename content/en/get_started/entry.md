@@ -98,12 +98,11 @@ The entry fee for the tournament is 44,000 yen, but various options are availabl
   ![](image/entry_options/1_enter_options.png)
 
 1. Follow these steps:
-   1. If you already have options, first add an option item using the "+ Add" button.
-   2. Open the selection field.
-   3. Select "Discount Japanese citizens" from fields list.
+   1. Open the selection field.
+   2. Select "Discount Japanese citizens" from fields list.
+   3. If you would like to add other options, please press the "+ Add" button.
+   4. Once you have finished adding all the options, please press the OK button. The options editing window will close.
   ![](image/entry_options/2_add_and_select_options.png)
-
-1. The selected options will be listed.
   ![](image/entry_options/3_options_list.png)
 
 1. Once you have finished selecting your options and pressed the "Next" button, the payment confirmation screen will appear. Please make sure that "Japanese Discount" is displayed among the items.
