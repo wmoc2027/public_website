@@ -59,6 +59,12 @@ The website below offers technical explanations for beginners and information on
   [https://navitabi.co.jp/](https://navitabi.co.jp/)
   {{< /accordion-item >}}
 
+  {{< accordion-item title="Please tell me how to upload my face photograph at the WMG2027 Kansai My Page." >}}
+Please go to the “My Page” section on the WMG2027 website and complete the registration there. For more details, please refer to the section titled “How to upload images for WMG2027” at the bottom of the page below.
+
+[**ENTRY**](/get_started/entry/)
+  {{< /accordion-item >}}
+
   {{< accordion-item title="Can people aged 34 or younger not participate?" >}}
 Only those born on or before December 31, 1992, are eligible to participate in the official WMOC2027 competitions.
 However, we plan to hold "public races" on the same day that are open to younger participants as well. Details regarding these races are scheduled to be announced around October.
