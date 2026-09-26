@@ -111,3 +111,15 @@ The entry fee for the tournament is 44,000 yen, but various options are availabl
 
 > [!note]
 > Regarding discount options, you are not required to submit documents proving your Japanese citizenship at the time of payment. However, if the WMOC2027 Organizing Committee determines that the discount is not applicable during the application process, we may contact you individually.
+
+### How to upload images for WMG2027
+Here is an explanation of how to register a photo image via the WMG2027 Kansai "My Page"—the final step in the entry process for WMG/WMOC2027.
+
+1. When you enter WMOC2027, your data will be transferred to WMG2027 Kansai. Once this process is complete, a "Registration Complete" email containing the password needed to log in to your WMG My Page will be sent to your registered email address.
+2. Next, visit the WMG2027 website (https://wmg2027.jp/), go to the "Entry" section, and click "My Page" at the top of the screen to bring up the login page; then, enter your ID (email address) and password to log in to your My Page.
+3. Click "Basic Information" where it appears, then select "Edit Basic Information" to upload the photo image data.
+4. You are required to upload the image data described in both (a) and (b) below.
+* (a) A recent photograph (front view, without a hat)
+* (b) An identity verification documents:
+    * [Overseas Residents] Please upload an image of your valid passport.
+    * [Japanese Residents] Please upload one image of a document with your photograph issued by a public institution. These include My Number Card*, driver's license, passport, residence card, etc. (*When submitting your My Number Card, please be sure to photograph and submit only the front side. Documents showing the back side (individual number) will not be accepted.) Alternatively, please upload two images of documents issued by a public institution, such as your health insurance card, a copy of your resident registration certificate, or your national pension book.
