@@ -116,7 +116,8 @@ The entry fee for the tournament is 44,000 yen, but various options are availabl
 Here is an explanation of how to register a photo image via the WMG2027 Kansai "My Page"—the final step in the entry process for WMG/WMOC2027.
 
 1. When you enter WMOC2027, your data will be transferred to WMG2027 Kansai. Once this process is complete, a "Registration Complete" email containing the password needed to log in to your WMG My Page will be sent to your registered email address.
-2. Next, visit the WMG2027 website (https://wmg2027.jp/), go to the "Entry" section, and click "My Page" at the top of the screen to bring up the login page; then, enter your ID (email address) and password to log in to your My Page.
+2. Please go to the link below and log in to your WMG2027 account.
+* https://mypage.wmg2027.jp/
 3. Click "Basic Information" where it appears, then select "Edit Basic Information" to upload the photo image data.
 4. You are required to upload the image data described in both (a) and (b) below.
 * (a) A recent photograph (front view, without a hat)
