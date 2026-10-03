@@ -1,56 +1,55 @@
 ---
 title: FAQ
 icon: fas circle-question
-description: >-
-  This page lists answers to frequently asked questions, categorized by topic.
-  Please click on the item that interests you.
+description: このページには、よくある質問に対する回答がトピック別にまとめられています。興味のある項目をクリックしてください。
 content_blocks:
   - _bookshop_name: hero
     heading:
       title: FAQ
       align: start
-      content: >-
-        Here are some frequently asked questions and their answers, sent to
-        [contact@wmoc2027.jp](mailto:contact@wmoc2027.jp).
+      content: contact@wmoc2027.jpに寄せられたよくあるご質問とその回答をご紹介します。
       width: 8
     background:
       backdrop: /image/2022_jwoc_relay1_susana_luzir.jpg
     breadcrumb: true
 ---
 
-## Entry - Process
+## エントリー - 手続き
 
 
 {{< accordion id="entry-process" always-open="true" >}}
-  {{< accordion-item title="I tried to register via the World Masters Games (WMG) website, but I am unable to register for the orienteering event." >}}
-  The WMG orienteering competition will be held as the International Orienteering Federation (IOF) World Masters Orienteering Championships (WMOC). Please register via the IOF website (IOF-Eventor). For details on the procedure, please refer to Bulletin 1.
+  {{< accordion-item title="ワールドマスターズゲームズ（WMG）のサイトからエントリーをしようとしましたが、オリエンテーリングのエントリーが出来ません。" >}}
+  WMGのオリエンテーリング競技は、国際オリエンテーリング連盟（IOF）のマスターズ世界選手権（WMOC）として開催されます。エントリーはIOFのページ（IOF-Eventor）から行ってください。手続きの詳細は、Bulletin1を参照してください。
+  {{< /accordion-item >}}
+  {{< accordion-item title="オリエンテーリング以外のWMGのイベントにも参加してみたいです。 IOF Eventor を通じて登録する場合、他の WMG イベントにはどのように登録すればよいですか?" >}}
+オリエンテーリング以外のWMGの競技にも参加を検討されている場合は、まずWMGのエントリーシステムで他の競技にエントリーし、支払いを完了してください。その後、 エントリーページの[「WMG2027の他の競技へのエントリーを希望される方」 ]({{% ref "entry/#wmg2027の他の競技へのエントリーを希望される方" %}})のメールフォームより、WMG IDとIOF EventorアカウントIDをご入力ください。
+
+先にオリエンテーリングの受付が完了してしまうと、システムの都合上他のWMG競技種目への追加エントリー手続きができなくなります。
   {{< /accordion-item >}}
 
-  {{< accordion-item title="I would like to participate in other WMG events besides orienteering. If I register through IOF Eventor, how do I register for other WMG events?" >}}
-If you are considering participating in WMG events other than orienteering, please first register for those events through the WMG entry system and complete the payment. Afterward, please enter your WMG ID and IOF Eventor account ID in the email form on the entry page under ["To those also participating in other events at WMG2027"]({{% ref "entry/#to-those-also-participating-in-other-events-at-wmg2027" %}})
-
-Please note that if you complete your orienteering registration first, you will not be able to add other WMG events due to system limitations.
+  {{< accordion-item title="IOFのIDを取得しようと思うのですが、英語でしか書かれていないのでどうすればよいかよくわかりません。日本語での説明はないでしょうか？" >}}
+  [こちらのページ]({{% ref "registration/registration_iof_eventor" %}})をご覧ください。
   {{< /accordion-item >}}
 
-  {{< accordion-item title="The entry deadline for the orienteering event is April 10, 2027, whereas the deadline for the WMG itself is February 28, 2027. Is it possible to register after March 1?" >}}
-  Registration for orienteering remains open until April 10. However, please note that the deadline for registration in other WMG events and for signing up for various services associated with WMG participation is February 28 (at 23:59 Japan Standard Time).
-  Regarding orienteering specifically, please also be aware that the deadline for the optional bus transport service (connecting Yoka Station or Kasumi Station to the event venue) is February 28.
-  We recommend registering early.
+  {{< accordion-item title="オリエンテーリングのエントリーの締め切りは2027年4月10日となっていますが、WMGは2027年2月28日となっています。3月1日以降もエントリーできるのでしょうか。" >}}
+  オリエンテーリングに関しては、エントリ―は4月10日まで受け付けます。ただし、WMGの他の競技種目のエントリーおよびWMGに参加することで付帯する様々なサービスの申し込みは、2月28日(日本時間の23時59分)で締め切られますので、ご注意ください。
+オリエンテーリングについても、オプションであるバス輸送サービス（八鹿駅・香住駅～イベントの会場）については2月28日が締め切りですのでご注意ください。
+早めのエントリーをお勧めします。
   {{< /accordion-item >}}
 
-  {{< accordion-item title="I heard this is a \"World Championship open to everyone\" —can complete beginners to orienteering participate?" >}}
- The only requirement for participating in WMOC2027 is an age limit (35 years or older). There are no prerequisites regarding experience and past achievements. Although the event follows a qualification and final race format, everyone gets to participate in and enjoy the final race, regardless of their performance in the qualifiers. 
-There are two events: Sprint, which takes place in urban areas and parks, and Forest, which takes place in natural environments. Since the Forest event involves deciding your own route in nature, we ask that you understand the basic rules of the sport and map reading skills to ensure a safe and enjoyable experience. The Sprint event is relatively easy for beginners to participate in. If you have absolutely no prior experience, you will likely enjoy the event more if you try it out a few times beforehand.
+  {{< accordion-item title="「誰でも参加出来る世界選手権」と聞きましたが、オリエンテーリングの初心者でも参加出来るのでしょうか。" >}}
+WMOC2027の参加のための条件は、年齢の制限（35才以上）のみです。競技力やこれまでの実績は問いません。
+予選決勝方式となっておりますが、予選で成績が悪くても、全員が決勝レースに参加して楽しむことが出来ます。
+種目は市街地・公園で行われるスプリントと森の中で行われるフォレストの２種目です。フォレスト種目は自然の中で一人で進路を決める競技であることから、基本的な競技ルールや地図読みについてご理解いただき、安全に楽しんでいただけるよう準備していただければと思います。スプリント種目は初級者の方でも比較的安心して参加できます。事前に何度か初心者向けの競技会で体験しておくと、競技をより楽しめると思います。
+以下のサイトでは、オリエンテーリングの初心者の方に向けた技術解説や、全国各地での様々なイベントが紹介されています。また常設でいつでも楽しめるコースもあります。
 
-The website below offers technical explanations for beginners and information on various events held across the country. It also lists permanent courses that you can enjoy at any time.
-
-- Japan Orienteering Association（JOA）
+* 日本オリエンテーリング協会（JOA）
 
   [https://www.orienteering.or.jp/](https://www.orienteering.or.jp/)
 
-  [JOA's Page for Beginners](https://www.orienteering.or.jp/for_beginners/)
+  [JOAの初心者向けページ](https://www.orienteering.or.jp/for_beginners/)
 
-* Mori wo hashirou. (Let's run through the forest.)
+* 森を走ろう
 
   [https://www.asobox.com/o/](https://www.asobox.com/o/)
 
@@ -61,67 +60,73 @@ The website below offers technical explanations for beginners and information on
 * Navi Tabi
 
   [https://navitabi.co.jp/](https://navitabi.co.jp/)
+
   {{< /accordion-item >}}
 
-  {{< accordion-item title="Can people aged 34 or younger not participate?" >}}
-Only those born on or before December 31, 1992, are eligible to participate in the official WMOC2027 competitions.
-However, we plan to hold "public races" on the same day that are open to younger participants as well. Details regarding these races are scheduled to be announced around October.
+  {{< accordion-item title="WMG2027関西のマイページから写真などの画像を登録する方法を教えてください。" >}}
+WMG2027のホームページからマイページに入り、そこで登録を行っていただきます。詳しくは以下ページの下部「WMG2027への画像アップロード方法」を参照してください。
+
+[**エントリ**](/get_started/entry/)
   {{< /accordion-item >}}
+
+  {{< accordion-item title="34才以下は参加出来ないのでしょうか？" >}}
+WMOC2027の正式競技に参加出来るのは、1992年12月31日までに生まれた方のみです。
+ただし、同じ日に、若い方でも参加出来る「パブリックレース」の併設を予定しています。その詳細は10月頃に発表する予定です。
+  {{< /accordion-item >}}
+
+  {{< accordion-item title="エントリー可能な条件は何か他にありますか？" >}}
+WMOC 2027は、ワールドマスターズゲームズ2027関西日本大会の一部であり、国際マスターズゲームズ協会のすべての規定が適用されます。つまり、参加資格に関して国籍や居住地による制限は一切ありません。
+  {{< /accordion-item >}}
+
 
 {{< /accordion >}}
 
-## Entry - fee
+## エントリー - 参加費
 
 {{< accordion id="entry-fee" always-open="true" >}}
-  {{< accordion-item title="Why is there such a big difference in participation fees between those who is residents in Japan and those who isn't?" >}}
-WMOC 2027 is part of the Kansai World Masters Games 2027 (hereinafter WMG 2027). The whole entry fee includes WMG fee which is applied different fees to those who reside in Japan and those who do not. Please note that WMG participation fees and accreditation processes are determined by WMG rules and policies and not those of the IOF, and apply equally to all WMG sports. We ask for your understanding and cooperation. 
-
-see details at [WMG sites](https://wmg2027.jp/en/entry/guideline/).
+  {{< accordion-item title="日本在住者とそうでない人で参加費にこれほどの差が出るのはなぜでしょうか？" >}}
+WMOC 2027 は、関西ワールドマスターズゲームズ 2027 (以下、WMG 2027) の一部であり、WMOC 2027 への参加を希望する人は全員、ワールドマスターズゲームズへの参加登録も行う必要があります。参加費にはWMG手数料が含まれており、日本在住者とそうでない人では料金が異なります。
+WMG の参加費と認定プロセスは、IOF の規則ではなく、WMG の規則と方針によって決定され、すべての WMG スポーツに平等に適用されることに注意してください。ご理解とご協力をお願いいたします。
+詳細は[WMGサイト](https://wmg2027.jp/entry/guideline/)をご覧ください。
   {{< /accordion-item >}}
-  {{< accordion-item title="I live in Japan, but the discounted price isn't showing up. How can I get the discount?" >}}
-The participation fee can be selected by clicking the mark next to `card number`. By selecting `Discount Japanese citizens 1 -19,000 JPY`, the fee for Forest and Sprint participation will be 25,000 yen (excluding options). [See details here.]({{% relref "/get_started/entry/#新增選項包括日本公民折扣" %}})
+  {{< accordion-item title="日本に住んでいますが、割引価格が表示されません。どうすれば割引を受けられますか?" >}}
+参加費は`card number`横のマークをクリックすると選択できます。  `Discount Japanese citizens 1 -19,000 JPY` を選択すると、ForestとSprintの参加料金が25,000円（オプション除く）となります。[詳細はこちらをご覧ください。]({{% relref "/get_started/entry#%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%8F%82%E5%8A%A0%E8%80%85%E5%90%91%E3%81%91%E5%89%B2%E5%BC%95%E3%82%92%E5%90%AB%E3%82%80%E3%82%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E8%BF%BD%E5%8A%A0" %}})
   {{< /accordion-item >}}
 
-  {{< accordion-item title="It appears that the entry fee for the WMG is lower for residents of Japan; does this mean that foreign nationals living in Japan are also eligible for the reduced rate? If so, what is the procedure for this?" >}}
-  WMG participation fees are determined by place of residence, not nationality. Foreign nationals residing in Japan will be required to submit an image copy of their residence card.
+  {{< accordion-item title="日本在住者はWMGのエントリー料が安いようですが、外国籍でも日本に住んでおれば安くなるということでしょうか？　その手続きはどのようにすればよいのでしょうか？" >}}
+  WMG参加料金は国籍ではなく、居住地で決まります。日本にお住いの外国籍のかたは、在留カードの画像コピーを提出していただくことになります。
   {{< /accordion-item >}}
 
 {{< /accordion >}}
 
-## Travel - accomodation
+
+## 宿泊
 
 
 {{< accordion id="travel-accomodation" always-open="true" >}}
-  {{< accordion-item title="How do I find an accommodation arround the WMOC venes?" >}}
+  {{< accordion-item title="WMOC 地区周辺で宿泊施設を見つけるにはどうすればよいですか?" >}}
 
-There are various options available in the region of WMOC and surrounding area.
+WMOC およびその周辺地域では、さまざまなオプションが利用可能です。
 
-The first option is staying the host municipalities of the WMOC. Please refer to the following web site of those municipalities. Please also note that the western style hotels or inns are limited, but you might also find wonderful Japanese style inns. The official buses with optional fees are available from some of accommodations.
+最初の選択肢は、WMOCの主催自治体のなかです。下記各自治体のホームページをご覧ください。この周辺は洋風のホテルや旅館は限られていますが、素敵な和風の旅館も見つかるかもしれません。一部の宿泊施設からはオプション料金のオフィシャルバスが運行されています。
 
-* Kami-Town (Sprint, Middle Final)
+* 香美町 (スプリント・ミドル 決勝)
   
   [https://www.kami-tourism.com/](https://www.kami-tourism.com/)
 
-* Yabu-City  (Forest Q) 
+* 養父市  (フォレスト予選) 
 
   [https://www.yabu-kankou.jp/](https://www.yabu-kankou.jp/)
 
-* Kamikawa (Long Final)
+* 神河町 (ロング決勝)
   
   [https://www.kamikawa-navi.jp](https://www.kamikawa-navi.jp)
 
-The second option is [Kinosaki Onsen](https://maps.app.goo.gl/aKcz9RwMwh2DD5zPA), which is famous hot spring resort with variety of Japanese-Style accommodations, situated 15-30km from WMOC venue.　The resort also offers some western style hotels or Japanese Style Inns with beds.
+2つ目は[城崎温泉](https://maps.app.goo.gl/aKcz9RwMwh2DD5zPA)です。WMOC会場から15～30kmの距離にあり、様々な和室の宿泊施設がある有名な温泉地です。　洋風ホテルやベッド付き旅館もございます。
+3つ目は、WMOC会場から1時間半～2時間ほど離れていますが、様々なランクのホテルが多数ある[鳥取](https://maps.app.goo.gl/VFpWDGEaNhouNzpdA)または[姫路](https://maps.app.goo.gl/gw3T7qa84QPco6eP7)（どちらも地方中核都市）に滞在する方法です。
 
-The third option is staying [Tottori](https://maps.app.goo.gl/VFpWDGEaNhouNzpdA) or [Himeji](https://maps.app.goo.gl/gw3T7qa84QPco6eP7) (both of them are regional core cities), which are 1.5-2 hours apart from WMOC venue but have many hotels of various ranks.
-
-We are planning to provide bus services from Kinosaki Onsen (second option), and Tottori and Himeji Station (third option) to the Venue. Details will be announced soon.
-
-We are looking forward to meet you at the WMOC 2027 and please feel free to [contact us](mailto:contact@wmoc2027.jp) if you have further inquiries. 
-
-> [!tip]
-> For more details of "Ryokan" is on this site
-> 
-> [https://www.mlit.go.jp/kankocho/ryokan/list_en.html](https://www.mlit.go.jp/kankocho/ryokan/list_en.html)
+城崎温泉（第2案）、鳥取駅・姫路駅（第3案）から会場までバスの運行を予定しております。詳細は近日中に発表いたします。
+WMOC 2027 でお会いできることを楽しみにしています。さらにご質問がございましたら、お気軽に [お問い合わせ](mailto:contact@wmoc2027.jp) ください。
 
   {{< /accordion-item >}}
 {{< /accordion >}}
