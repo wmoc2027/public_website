@@ -69,6 +69,9 @@ Please go to the “My Page” section on the WMG2027 website and complete the r
 Only those born on or before December 31, 1992, are eligible to participate in the official WMOC2027 competitions.
 However, we plan to hold "public races" on the same day that are open to younger participants as well. Details regarding these races are scheduled to be announced around October.
   {{< /accordion-item >}}
+  {{< accordion-item title="Are there any other restrictions on who may enter?" >}}
+  WMOC 2027 is part of World Masters Games 2027 Kansai Japan, and all International Masters Games Association policies apply. This means that there are NO citizenship or place of residence restrictions at all on who may enter the event.
+  {{< /accordion-item >}}
 
 {{< /accordion >}}
 
