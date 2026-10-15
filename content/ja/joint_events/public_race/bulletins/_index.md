@@ -17,7 +17,7 @@ content_blocks:
 
 |Date|Publication|Link|
 |--|--|--|
-|2026年10月15日|要項1|{{< button color="primary" href="/reheasal_events/bulletin1_rehearsal_2day_event_ja.pdf" button-size="md" >}}ダウンロード{{< /button >}}|
+|2026年10月15日|要項1|{{< button color="primary" href="/public_race/PublicBulletin1_ja.pdf" button-size="md" >}}ダウンロード{{< /button >}}|
 
 
 <object data="/public_race/PublicBulletin1_ja.pdf" width="100%" height="1100px" type="application/pdf">
