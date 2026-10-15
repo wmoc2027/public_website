@@ -37,6 +37,15 @@ content_blocks:
 {{< accordion id="accordion-flush" class="accordion-flush" >}}
 {{< accordion-item title="LATEST NEWS" show="true" >}}
 
+{{< badge title="2026-10-15" >}}
+
+* We have created a [page for public races](joint_events/public_race). You can access it from "SIDE EVENTS" in the menu bar.
+* We have released [Bulletin1 for a public race.](joint_events/public_race/bulletins)
+
+{{< /accordion-item >}}
+
+{{< accordion-item title="ARCHIVED NEWS" show="false" >}}
+
 {{< badge title="10 Sep. 2026" >}}
 
 * Added Informations of [Accommodation and Transportation](travel)
@@ -65,10 +74,6 @@ content_blocks:
 {{< badge title="23 July. 2026" >}}
 
 * We have launched an [official Facebook page](https://www.facebook.com/WMOC2027Japan). You can access it via the link at the bottom of the page.
-
-{{< /accordion-item >}}
-
-{{< accordion-item title="ARCHIVED NEWS" show="false" >}}
 
 {{< badge title="7 July. 2026" >}}
 
@@ -103,6 +108,7 @@ content_blocks:
 Event schedules for each events.
     {{< /card >}}
     {{< card path="get_started/entry" header-style="publication" title="ENTRY" icon="fas door-open" >}}
+
 {{< badge title="Updated: 21 Jul. 2026" >}} Registration of WMOC 2027 will be opend on Jul. 25 2026 at 10:00 AM JST.
     {{< /card >}}
     {{< card path="competitions/bulletins" header-style="publication" title="Bulletins and programs" icon="fas person-chalkboard" >}}

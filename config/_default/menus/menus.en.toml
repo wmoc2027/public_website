@@ -32,6 +32,12 @@
     pageRef = "/get_started/faq"
     weight = 4
 [[main]]
+    parent = "get_started"
+    identifier = "forbeginners"
+    name = "FOR BEGINNERS"
+    pageRef = "/forbeginners"
+    weight = 5
+[[main]]
     identifier = "travel"
     name = "TRAVEL"
     pageRef = "/travel/"
@@ -96,25 +102,27 @@
     weight = 30
 [[main]]
     parent = "SIDE EVENTS"
+    identifier = "public_race"
+    name = "PUBLIC RACE"
+    pageRef = "/joint_events/public_race"
+    weight = 31
+[[main]]
+    parent = "SIDE EVENTS"
     identifier = "rehearsal_event"
     name = "REHEARSAL EVENT (July 11 2026)"
     pageRef = "/joint_events/pre_events/rehearsal-event"
-    weight = 31
+    weight = 32
 [[main]]
     parent = "SIDE EVENTS"
     identifier = "orienteeringinjapan"
     name = "ORIENTEERING IN JAPAN"
     pageRef = "/joint_events/orienteering_in_japan"
-    weight = 32
+    weight = 33
 [[main]]
     identifier = "PHOTO"
     name = "PHOTO"
     pageRef = "/photos"
     weight = 50
-[[main]]
-    identifier = "forbeginners"
-    name = "FOR BEGINNERS"
-    pageRef = "/forbeginners"
-    weight = 5
+
 
 

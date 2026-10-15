@@ -16,6 +16,12 @@
     weight = 1
 [[main]]
     parent = "get_started"
+    identifier = "forbeginners"
+    name = "初心者の方へ"
+    pageRef = "/forbeginners"
+    weight = 2
+[[main]]
+    parent = "get_started"
     identifier = "entry"
     name = "エントリ"
     pageRef = "/get_started/entry"
@@ -96,24 +102,25 @@
     pageRef = "/joint_events"
     weight = 30
 [[main]]
-    parent = "関連イベント"
+    parent = "jointevents"
+    identifier = "public_race"
+    name = "パブリックレース"
+    pageRef = "/joint_events/public_race"
+    weight = 31
+[[main]]
+    parent = "jointevents"
     identifier = "rehearsal_event"
     name = "リハーサル大会"
     pageRef = "/joint_events/pre_events/rehearsal-event"
-    weight = 31
+    weight = 32
 [[main]]
-    parent = "関連イベント"
+    parent = "jointevents"
     identifier = "orienteeringinjapan"
     name = "ORIENTEERING IN JAPAN"
     pageRef = "/joint_events/orienteering_in_japan"
-    weight = 32
+    weight = 33
 [[main]]
     identifier = "写真"
     name = "写真"
     pageRef = "/photos"
     weight = 50
-[[main]]
-    identifier = "forbeginners"
-    name = "初心者の方へ"
-    pageRef = "/forbeginners"
-    weight = 5
