@@ -53,7 +53,7 @@
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2997.6209087925586!2d134.62334317547774!3d35.64012527260059!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5fffccbc6e709747%3A0x56dc4515c5b66e16!2z44GX44GK44GL44Gc6aaZ6IuR!5e1!3m2!1sja!2sjp!4v1789342967956!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 
 
-- title: スプリント決勝
+- title: スプリント決勝 & パブリックレース1
   icon: fas person-running
   color: success
   date: 2027-05-23
@@ -68,7 +68,7 @@
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2997.6209087925586!2d134.62334317547774!3d35.64012527260059!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5fffccbc6e709747%3A0x56dc4515c5b66e16!2z44GX44GK44GL44Gc6aaZ6IuR!5e1!3m2!1sja!2sjp!4v1789342967956!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 
 
-- title: フォレストモデルイベント
+- title: フォレストモデルイベント & パブリックレース2
   icon: fas map
   color: success
   date: 2027-05-24
@@ -120,7 +120,7 @@
     </dl>
     <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d32014.23191236645!2d134.5279434!3d35.3993153!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35556353f24463e7%3A0x4d16e0841e4d2fa6!2z44OP44OB5YyX6auY5Y6f44K544Kt44O85aC0!5e1!3m2!1sja!2sjp!4v1763169725428!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-- title: ロングディスタンス決勝・表彰式・WMOC閉会式
+- title: ロングディスタンス決勝 & パブリックレース3 / 表彰式 / WMOC閉会式
   icon: fas person-running
   color: success
   date: 2027-05-28

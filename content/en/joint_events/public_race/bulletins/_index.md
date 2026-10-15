@@ -18,7 +18,7 @@ content_blocks:
 
 |Date|Publication|Link|
 |--|--|--|
-|Oct.15.2026|Bulletin|{{< button color="primary" href="/reheasal_events/bulletin1_rehearsal_2day_event_en.pdf" button-size="md" >}}Download{{< /button >}}|
+|Oct.15.2026|Bulletin|{{< button color="primary" href="/public_race/PublicBulletin1_en.pdf" button-size="md" >}}Download{{< /button >}}|
 
 
 <object data="/public_race/PublicBulletin1_en.pdf" width="100%" height="1100px" type="application/pdf">
