@@ -35,7 +35,15 @@ content_blocks:
 ---
 
 {{< accordion id="accordion-flush" class="accordion-flush" >}}
-  {{< accordion-item title="LATEST NEWS" show="true" >}}
+{{< accordion-item title="LATEST NEWS" show="true" >}}
+
+{{< badge title="2026-10-15" >}}
+
+* [パブリックレースのページ](joint_events/public_race)を開設しました。メニューバーの「関連イベント」からアクセスできます。
+* [パブリックレースの要項1](joint_events/public_race/bulletins)を公開しました。
+
+{{< /accordion-item >}}
+{{< accordion-item title="ARCHIVED NEWS" show="false" >}}
 
 {{< badge title="2026-08-28" >}}
 
@@ -58,9 +66,6 @@ content_blocks:
 {{< badge title="2026-07-23" class="rounded-pill" >}}
 
 * [Facebook の公式ページ](https://www.facebook.com/WMOC2027Japan)を開設しました。ページ下部のリンクからもアクセスできます。
-
-{{< /accordion-item >}}
-{{< accordion-item title="ARCHIVED NEWS" show="false" >}}
 
 {{< badge title="2026-07-04" >}}
 
