@@ -108,7 +108,7 @@ Event schedules for each events.
     {{< card path="competitions/bulletins" header-style="publication" title="Bulletins and programs" icon="fas person-chalkboard" >}}
 {{< badge title="Published: 25 Jul. 2026" >}} Bulletins 1.3
     {{< /card >}}
-    {{< card path="competitions/startlists" header-style="publication" title="STRAT LISTS" icon="fas table-list" >}}
+    {{< card path="competitions/startlists" header-style="publication" title="START LISTS" icon="fas table-list" >}}
 Start lists for all competitions
     {{< /card >}}
     {{< card  path="competitions/results" header-style="publication"  title="Result of all competition" icon="fas square-poll-horizontal" >}}
