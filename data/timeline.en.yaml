@@ -21,9 +21,10 @@
   icon: fas globe
   color: success
   date: 2027-05-14
-  url: https://wmg2027.jp/games/openingceremony.html
+  url: https://wmg2027.jp/games/ceremony/
   content:
     Registration & check-in at WMG 2027 venue
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2680.5292474546513!2d135.77996227491914!3d35.01439447280985!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x600108e5cb5b6943%3A0x77c1e2034d53d7e5!2z5bKh5bSO5YWs5ZyS!5e1!3m2!1sja!2sjp!4v1792066787102!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 
 - title: Sprint competition model event
   icon: fas map
@@ -135,6 +136,6 @@
   icon: fas globe
   color: success
   date: 2027-05-31
-  url: https://wmg2027.jp/games/closingceremony.html
+  url: https://wmg2027.jp/games/ceremony/
   content:
     Registration period begins at WMG 2027 venue

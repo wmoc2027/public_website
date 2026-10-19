@@ -21,7 +21,7 @@
   icon: fas globe
   color: success
   date: 2027-05-14
-  url: https://wmg2027.jp/games/openingceremony.html
+  url: https://wmg2027.jp/games/ceremony/
   content:
     Registration & check-in at WMG 2027 venue
 
@@ -135,6 +135,6 @@
   icon: fas globe
   color: success
   date: 2027-05-31
-  url: https://wmg2027.jp/games/closingceremony.html
+  url: https://wmg2027.jp/games/ceremony/
   content:
     Registration period begins at WMG 2027 venue

@@ -21,7 +21,7 @@
   icon: fas globe
   color: success
   date: 2027-05-14
-  url: https://wmg2027.jp/games/openingceremony.html
+  url: https://wmg2027.jp/games/ceremony/
   content:
     開会式、WMG2027会場にて各競技の参加登録受付開始
 
@@ -137,6 +137,6 @@
   icon: fas globe
   color: success
   date: 2027-05-31
-  url: https://wmg2027.jp/games/closingceremony.html
+  url: https://wmg2027.jp/games/ceremony/
   content:
     WMG2027 閉会式
