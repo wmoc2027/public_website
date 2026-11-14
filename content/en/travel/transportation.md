@@ -22,7 +22,7 @@ content_blocks:
 Public Transportation<br>
 {{< fas file-pdf fa-2xl >}}
 {{< pdf-modal 
-    file="/Accommodation_Transportation/Public_Transportation.pdf" 
+    file="/EN_Public_transportation1113.pdf" 
     title="Download" 
     id="Public_Transportation" 
 >}} 

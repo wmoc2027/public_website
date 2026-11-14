@@ -18,7 +18,7 @@ content_blocks:
 
 {{< fas file-pdf fa-2xl >}}
 {{< pdf-modal 
-    file="/Accommodation_Transportation/Public_Transportation.pdf" 
+    file="/JP_Public_transportation1113.pdf" 
     title="公共交通機関情報のPDFダウンロード" 
     id="Public_Transportation" 
 >}} 

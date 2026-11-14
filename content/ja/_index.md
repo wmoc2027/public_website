@@ -37,6 +37,10 @@ content_blocks:
 {{< accordion id="accordion-flush" class="accordion-flush" >}}
 {{< accordion-item title="LATEST NEWS" show="true" >}}
 
+{{< badge title="2026-11-14" >}}
+
+* [**WMOC2027エントリー手順オンライン説明会のご案内**](/get_started/entry)...エントリーの手順についてオンラインでの説明会を11/19(木), 12/4(金)の2日程で行います。詳細はリンク先のページをご覧ください
+
 {{< badge title="2026-11-10" >}}
 
 * [広域シャトルバス](/travel/wide_area_shuttle_bus)のご案内 (事前予告)

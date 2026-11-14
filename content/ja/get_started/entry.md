@@ -10,6 +10,14 @@ modules: ["mermaid"]
 {{< fas file-pdf fa-2xl >}}
 {{< pdf-modal file="/entry_manual_1111.pdf" title="Open" id="entry_manual" >}}
 
+また、エントリーの手順についてオンラインでの説明会を11/19(木), 12/4(金)の2日程で行います。以下のPDFをご覧ください。
+{{< fas file-pdf fa-2xl >}}
+{{< pdf-modal 
+    file="/Online_Information_Session_for_the_Application_Process1111.pdf" 
+    title="Open" 
+    id="Public_Transportation" 
+>}} 
+
 # 実施要項
 
 要項1 の第三版が2026年7月25日に公開（8月16日更新）されました。{{< link "/competitions/bulletins">}} こちらのページ {{< /link >}} をご覧ください。エントリーの手順は、[Bulletin 1 rev.3](/bulletins/Bulletin1_3_ja.pdf)の "大会参加" 章をご覧ください。
